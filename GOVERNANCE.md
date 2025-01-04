@@ -1,234 +1,234 @@
-# Governance
+# 거버넌스
 
-## Leadership Structure
+## 리더십 구조
 
-### **1. Campaign Manager**
-**[Name]**
+### **1. 캠페인 매니저**
+**[이름]**
 
-- **Responsibilities:**
-  - **Strategic Oversight:** Direct overall campaign strategy and ensure alignment with campaign goals and values.
-  - **Coordination:** Facilitate communication and coordination between all departments and teams.
-  - **Resource Allocation:** Manage the campaign budget, allocating resources to various initiatives effectively.
-  - **Performance Monitoring:** Track campaign progress, analyze performance metrics, and adjust strategies as necessary.
-  - **Stakeholder Engagement:** Serve as the primary liaison between the campaign and external stakeholders, including donors, partners, and media.
+- **책임:**
+  - **전략적 감독:** 전체 캠페인 전략을 지휘하고 캠페인 목표 및 가치와의 일치를 보장합니다.
+  - **조정:** 모든 부서와 팀 간의 의사소통 및 조정을 촉진합니다.
+  - **자원 배분:** 캠페인 예산을 관리하고 다양한 이니셔티브에 자원을 효과적으로 배분합니다.
+  - **성과 모니터링:** 캠페인 진행 상황을 추적하고 성과 지표를 분석하여 필요에 따라 전략을 조정합니다.
+  - **이해관계자 참여:** 캠페인과 외부 이해관계자(기부자, 파트너, 언론 등) 간의 주요 연락 역할을 수행합니다.
 
-- **Qualifications:**
-  - Extensive experience in campaign management or a related field.
-  - Strong leadership and organizational skills.
-  - Ability to make decisive and strategic decisions under pressure.
+- **자격 요건:**
+  - 캠페인 관리 또는 관련 분야에서의 광범위한 경험.
+  - 강력한 리더십 및 조직 능력.
+  - 압박 속에서 결정적이고 전략적인 결정을 내릴 수 있는 능력.
 
-### **2. Policy Director**
-**[Name]**
+### **2. 정책 이사**
+**[이름]**
 
-- **Responsibilities:**
-  - **Policy Development:** Research, develop, and refine the campaign’s policy positions in alignment with our core values.
-  - **Advisory Role:** Advise the leadership team on policy implications and legislative developments.
-  - **Community Input:** Gather and incorporate constituent feedback into policy proposals.
-  - **Documentation:** Maintain comprehensive documentation of all policy initiatives and revisions.
+- **책임:**
+  - **정책 개발:** 우리의 핵심 가치에 맞춰 캠페인의 정책 입장을 연구하고 개발하며 다듬습니다.
+  - **자문 역할:** 리더십 팀에 정책의 함의 및 입법 발전에 대해 조언합니다.
+  - **커뮤니티 의견 수렴:** 유권자 피드백을 수집하고 정책 제안에 반영합니다.
+  - **문서화:** 모든 정책 이니셔티브 및 수정 사항에 대한 포괄적인 문서를 유지합니다.
 
-- **Qualifications:**
-  - In-depth knowledge of policy analysis and development.
-  - Experience in legislative or governmental roles is advantageous.
-  - Excellent research and analytical skills.
+- **자격 요건:**
+  - 정책 분석 및 개발에 대한 심층 지식.
+  - 입법 또는 정부 역할에서의 경험이 유리합니다.
+  - 우수한 연구 및 분석 능력.
 
-### **3. Communications Lead**
-**[Name]**
+### **3. 커뮤니케이션 리드**
+**[이름]**
 
-- **Responsibilities:**
-  - **Communication Strategy:** Develop and implement the campaign’s communication plan across all channels.
-  - **Media Relations:** Manage relationships with media outlets, handle press releases, and coordinate interviews.
-  - **Content Creation:** Oversee the creation of content for social media, newsletters, speeches, and other campaign materials.
-  - **Brand Consistency:** Ensure all communications are consistent with the campaign’s branding and messaging guidelines.
+- **책임:**
+  - **커뮤니케이션 전략:** 모든 채널에서 캠페인의 커뮤니케이션 계획을 개발하고 실행합니다.
+  - **미디어 관계:** 미디어 매체와의 관계를 관리하고, 보도 자료를 처리하며, 인터뷰를 조정합니다.
+  - **콘텐츠 제작:** 소셜 미디어, 뉴스레터, 연설 및 기타 캠페인 자료를 위한 콘텐츠 제작을 감독합니다.
+  - **브랜드 일관성:** 모든 커뮤니케이션이 캠페인의 브랜딩 및 메시지 지침과 일치하도록 보장합니다.
 
-- **Qualifications:**
-  - Strong background in communications, public relations, or journalism.
-  - Proven ability to craft compelling messages and engage with media.
-  - Proficiency in digital marketing tools and platforms.
+- **자격 요건:**
+  - 커뮤니케이션, 홍보 또는 저널리즘 분야에서의 강력한 배경.
+  - 매력적인 메시지를 작성하고 미디어와 소통하는 능력.
+  - 디지털 마케팅 도구 및 플랫폼에 대한 숙련도.
 
-### **4. Volunteer Coordinator**
-**[Name]**
+### **4. 자원봉사 코디네이터**
+**[이름]**
 
-- **Responsibilities:**
-  - **Volunteer Recruitment:** Develop strategies to recruit and retain campaign volunteers.
-  - **Training and Development:** Organize training sessions and provide resources to equip volunteers with necessary skills.
-  - **Volunteer Management:** Assign tasks, monitor volunteer activities, and ensure effective utilization of volunteer efforts.
-  - **Engagement Programs:** Create initiatives to keep volunteers motivated and engaged throughout the campaign.
+- **책임:**
+  - **자원봉사 모집:** 캠페인 자원봉사자를 모집하고 유지하기 위한 전략을 개발합니다.
+  - **교육 및 개발:** 교육 세션을 조직하고 자원봉사자에게 필요한 기술을 갖출 수 있도록 자원을 제공합니다.
+  - **자원봉사 관리:** 업무를 배정하고 자원봉사 활동을 모니터링하며 자원봉사 노력을 효과적으로 활용합니다.
+  - **참여 프로그램:** 자원봉사자들이 캠페인 내내 동기를 부여받고 참여할 수 있도록 이니셔티브를 만듭니다.
 
-- **Qualifications:**
-  - Experience in volunteer management or community organizing.
-  - Excellent interpersonal and motivational skills.
-  - Ability to manage and inspire large groups effectively.
+- **자격 요건:**
+  - 자원봉사 관리 또는 커뮤니티 조직 경험.
+  - 우수한 대인 관계 및 동기 부여 능력.
+  - 대규모 팀과 프로젝트를 효과적으로 관리하고 영감을 줄 수 있는 능력.
 
-### **5. Fundraising Director**
-**[Name]**
+### **5. 모금 이사**
+**[이름]**
 
-- **Responsibilities:**
-  - **Fundraising Strategy:** Develop and execute comprehensive fundraising plans to meet campaign financial goals.
-  - **Donor Relations:** Identify, cultivate, and maintain relationships with potential donors and sponsors.
-  - **Event Planning:** Organize fundraising events, including galas, virtual fundraisers, and donor meetings.
-  - **Compliance:** Ensure all fundraising activities comply with federal and state election laws and regulations.
+- **책임:**
+  - **모금 전략:** 캠페인 재정 목표를 달성하기 위한 포괄적인 모금 계획을 개발하고 실행합니다.
+  - **기부자 관계:** 잠재적인 기부자 및 후원자와의 관계를 식별하고 발전시키며 유지합니다.
+  - **이벤트 계획:** 갈라, 가상 모금 행사 및 기부자 회의 등 모금 이벤트를 조직합니다.
+  - **규정 준수:** 모든 모금 활동이 연방 및 주 선거 법률 및 규정을 준수하도록 보장합니다.
 
-- **Qualifications:**
-  - Proven success in fundraising, preferably within political campaigns.
-  - Strong networking and relationship-building skills.
-  - Knowledge of fundraising software and financial reporting.
+- **자격 요건:**
+  - 정치 캠페인 내에서의 모금 성공 경험.
+  - 강력한 네트워킹 및 관계 구축 능력.
+  - 모금 소프트웨어 및 재무 보고에 대한 지식.
 
-### **6. Data and Analytics Manager**
-**[Name]**
+### **6. 데이터 및 분석 관리자**
+**[이름]**
 
-- **Responsibilities:**
-  - **Data Management:** Oversee the campaign’s data infrastructure, including voter databases and CRM systems.
-  - **Analytics:** Analyze data to inform strategic decisions, optimize outreach efforts, and measure campaign effectiveness.
-  - **Polling and Surveys:** Design and implement polling and survey initiatives to gauge voter sentiment and policy support.
-  - **Reporting:** Provide regular reports and insights to the leadership team based on data analysis.
+- **책임:**
+  - **데이터 관리:** 유권자 데이터베이스 및 CRM 시스템을 포함한 캠페인의 데이터 인프라를 감독합니다.
+  - **분석:** 전략적 결정을 알리고, 아웃리치 노력을 최적화하며, 캠페인 효과를 측정하기 위해 데이터를 분석합니다.
+  - **여론 조사 및 설문 조사:** 유권자 감정 및 정책 지원을 측정하기 위해 여론 조사 및 설문 조사 이니셔티브를 설계하고 구현합니다.
+  - **보고:** 데이터 분석을 기반으로 리더십 팀에 정기적인 보고서 및 통찰력을 제공합니다.
 
-- **Qualifications:**
-  - Experience in data analysis, statistics, or a related field.
-  - Proficiency in data management tools and software.
-  - Strong analytical and problem-solving skills.
+- **자격 요건:**
+  - 데이터 분석, 통계 또는 관련 분야에서의 경험.
+  - 데이터 관리 도구 및 소프트웨어에 대한 숙련도.
+  - 강력한 분석 및 문제 해결 능력.
 
-### **7. Digital Strategy Lead**
-**[Name]**
+### **7. 디지털 전략 리드**
+**[이름]**
 
-- **Responsibilities:**
-  - **Digital Campaigns:** Develop and manage online advertising, social media campaigns, and digital outreach strategies.
-  - **Website Management:** Ensure the campaign website is optimized for user engagement and information dissemination.
-  - **SEO and Content Optimization:** Implement SEO best practices to increase online visibility and drive traffic.
-  - **Performance Tracking:** Monitor and analyze digital performance metrics to refine strategies and improve results.
+- **책임:**
+  - **디지털 캠페인:** 온라인 광고, 소셜 미디어 캠페인 및 디지털 아웃리치 전략을 개발하고 관리합니다.
+  - **웹사이트 관리:** 캠페인 웹사이트가 사용자 참여 및 정보 전달에 최적화되도록 보장합니다.
+  - **SEO 및 콘텐츠 최적화:** 온라인 가시성을 높이고 트래픽을 유도하기 위해 SEO 모범 사례를 구현합니다.
+  - **성과 추적:** 디지털 성과 지표를 모니터링하고 분석하여 전략을 수정하고 결과를 개선합니다.
 
-- **Qualifications:**
-  - Expertise in digital marketing, SEO, and online advertising.
-  - Experience with website management and content creation.
-  - Strong understanding of digital analytics tools.
+- **자격 요건:**
+  - 디지털 마케팅, SEO 및 온라인 광고에 대한 전문 지식.
+  - 웹사이트 관리 및 콘텐츠 제작 경험.
+  - 디지털 분석 도구에 대한 강한 이해.
 
-### **8. Field Operations Manager**
-**Megan Castro**
+### **8. 현장 운영 관리자**
+**메건 카스트로**
 
-- **Responsibilities:**
-  - **On-the-Ground Activities:** Oversee canvassing, phone banking, and other voter outreach initiatives.
-  - **Grassroots Strategy:** Develop and implement grassroots strategies to mobilize supporters and increase voter engagement.
-  - **Partnerships:** Collaborate with local organizations, community leaders, and other stakeholders to strengthen field operations.
-  - **Performance Evaluation:** Assess the effectiveness of field activities and make data-driven improvements.
+- **책임:**
+  - **현장 활동:** 유권자 아웃리치 이니셔티브인 캠페인, 전화 은행 및 기타 활동을 감독합니다.
+  - **풀뿌리 전략:** 지지자를 동원하고 유권자 참여를 높이기 위한 풀뿌리 전략을 개발하고 실행합니다.
+  - **파트너십:** 지역 조직, 커뮤니티 리더 및 기타 이해관계자와 협력하여 현장 운영을 강화합니다.
+  - **성과 평가:** 현장 활동의 효과를 평가하고 데이터 기반 개선 사항을 만듭니다.
 
-- **Qualifications:**
-  - Background in grassroots organizing or field campaign work.
-  - Excellent organizational and leadership skills.
-  - Ability to manage multiple teams and projects simultaneously.
+- **자격 요건:**
+  - 풀뿌리 조직 또는 현장 캠페인 작업에 대한 배경.
+  - 우수한 조직 및 리더십 능력.
+  - 여러 팀과 프로젝트를 동시에 관리할 수 있는 능력.
 
-### **9. Finance Director**
-**[Name]**
+### **9. 재무 이사**
+**[이름]**
 
-- **Responsibilities:**
-  - **Financial Planning:** Develop and oversee the campaign’s financial strategy and budgeting processes.
-  - **Expense Management:** Monitor and approve campaign expenditures to ensure financial discipline.
-  - **Reporting:** Maintain accurate financial records and prepare regular financial reports for the leadership team.
-  - **Compliance:** Ensure all financial activities comply with relevant laws and regulations.
+- **책임:**
+  - **재무 계획:** 캠페인의 재무 전략 및 예산 프로세스를 개발하고 감독합니다.
+  - **비용 관리:** 캠페인 지출을 모니터링하고 승인하여 재정적 규율을 보장합니다.
+  - **보고:** 정확한 재무 기록을 유지하고 리더십 팀을 위한 정기적인 재무 보고서를 준비합니다.
+  - **규정 준수:** 모든 재무 활동이 관련 법률 및 규정을 준수하도록 보장합니다.
 
-- **Qualifications:**
-  - Strong background in finance, accounting, or a related field.
-  - Experience with financial management in campaigns or non-profits.
-  - Attention to detail and strong analytical skills.
+- **자격 요건:**
+  - 재무, 회계 또는 관련 분야에서의 강력한 배경.
+  - 캠페인 또는 비영리 단체에서의 재무 관리 경험.
+  - 세심한 주의와 강력한 분석 능력.
 
-### **10. Legal Counsel**
-**[Name]**
+### **10. 법률 고문**
+**[이름]**
 
-- **Responsibilities:**
-  - **Legal Advisory:** Provide legal advice to ensure campaign activities comply with election laws and regulations.
-  - **Documentation:** Handle legal documentation, filings, and contracts.
-  - **Risk Management:** Identify potential legal risks and develop strategies to mitigate them.
-  - **Representation:** Represent the campaign in any legal proceedings if necessary.
+- **책임:**
+  - **법률 자문:** 캠페인 활동이 선거 법률 및 규정을 준수하도록 법률 자문을 제공합니다.
+  - **문서화:** 법적 문서, 제출 및 계약을 처리합니다.
+  - **위험 관리:** 잠재적인 법적 위험을 식별하고 이를 완화하기 위한 전략을 개발합니다.
+  - **대표:** 필요시 법적 절차에서 캠페인을 대표합니다.
 
-- **Qualifications:**
-  - Juris Doctor (JD) degree and licensed to practice law.
-  - Experience in election law or political campaigns is highly desirable.
-  - Strong understanding of regulatory compliance and legal procedures.
+- **자격 요건:**
+  - 법학 박사(JD) 학위 및 법률 실무 면허.
+  - 선거법 또는 정치 캠페인에서의 경험이 매우 바람직합니다.
+  - 규제 준수 및 법적 절차에 대한 강한 이해.
 
-### **11. Advisory Board**
-**[Names]**
+### **11. 자문 위원회**
+**[이름들]**
 
-- **Responsibilities:**
-  - **Strategic Guidance:** Offer strategic advice and insights based on expertise in various fields such as policy, finance, technology, and community organizing.
-  - **Mentorship:** Mentor campaign leaders and provide support in navigating complex campaign challenges.
-  - **Networking:** Leverage personal and professional networks to advance campaign objectives and secure resources.
-  - **Ambassadorship:** Act as ambassadors for the campaign within their respective networks, enhancing credibility and outreach.
+- **책임:**
+  - **전략적 안내:** 정책, 재무, 기술 및 커뮤니티 조직과 같은 다양한 분야의 전문성을 바탕으로 전략적 조언 및 통찰력을 제공합니다.
+  - **멘토링:** 캠페인 리더를 멘토링하고 복잡한 캠페인 문제를 해결하는 데 지원합니다.
+  - **네트워킹:** 개인적 및 전문적 네트워크를 활용하여 캠페인 목표를 발전시키고 자원을 확보합니다.
+  - **대사 역할:** 각자의 네트워크 내에서 캠페인의 대사 역할을 수행하여 신뢰성과 아웃리치를 강화합니다.
 
-- **Qualifications:**
-  - Recognized experts or influential figures in relevant areas.
-  - Strong commitment to the campaign’s mission and values.
-  - Ability to provide constructive feedback and strategic insights.
-
----
-
-### **Leadership Responsibilities and Accountability**
-
-Each leadership role is accountable for specific aspects of the campaign, ensuring that all operations are aligned with our strategic goals and values. Regular leadership meetings will be held to discuss progress, address challenges, and coordinate efforts across departments. The **Campaign Manager** is responsible for facilitating these meetings, monitoring progress, and ensuring that all leaders are working cohesively towards the campaign’s objectives.
+- **자격 요건:**
+  - 관련 분야의 인정받는 전문가 또는 영향력 있는 인물.
+  - 캠페인의 사명과 가치에 대한 강한 헌신.
+  - 건설적인 피드백 및 전략적 통찰력을 제공할 수 있는 능력.
 
 ---
 
-### **Succession Planning**
+### **리더십 책임 및 책임성**
 
-To maintain campaign resilience and continuity, succession plans are in place for key leadership roles. Potential candidates are identified and trained to step into leadership positions as needed, ensuring stability and ongoing effectiveness throughout the campaign lifecycle.
-
----
-
-### **Diversity and Inclusion in Leadership**
-
-Our leadership team is committed to reflecting the diversity of Georgia's 5th Congressional District. We actively seek individuals from various backgrounds, experiences, and perspectives to enrich our decision-making processes and better represent our constituents. This commitment ensures that our leadership is inclusive, equitable, and responsive to the needs of all community members.
+각 리더십 역할은 캠페인의 특정 측면에 대한 책임이 있으며, 모든 운영이 우리의 전략적 목표 및 가치와 일치하도록 보장합니다. 정기적인 리더십 회의가 진행되어 진행 상황을 논의하고, 도전 과제를 해결하며, 부서 간의 노력을 조정합니다. **캠페인 매니저**는 이러한 회의를 촉진하고, 진행 상황을 모니터링하며, 모든 리더가 캠페인의 목표를 향해 협력하고 있는지 확인할 책임이 있습니다.
 
 ---
 
-### **Commitment to Ethical Leadership**
+### **후계 계획**
 
-All members of the leadership team are expected to uphold the highest standards of integrity and ethics. This commitment includes transparency in decision-making, accountability for actions, and adherence to the campaign’s **Code of Conduct**. Ethical leadership fosters trust within the team and with the broader community, reinforcing our dedication to serving the public with honesty and respect.
-
----
-
-### **Values**
-
-Our decision-making processes are guided by the following core values, ensuring that our strategies and actions align with our foundational principles. These values are designed to foster a streamlined, ethical, and effective campaign, reflecting both our commitment to the community and our innovative approach.
+캠페인의 회복력과 연속성을 유지하기 위해 주요 리더십 역할에 대한 후계 계획이 마련되어 있습니다. 잠재적인 후보자를 식별하고 교육하여 필요에 따라 리더십 직위로 나설 수 있도록 하여 캠페인 생애 주기 내내 안정성과 지속적인 효과성을 보장합니다.
 
 ---
 
-#### **1. Integrity First**
+### **리더십의 다양성과 포용성**
 
-- **Description:**  
-  We uphold honesty and transparency in all our actions, building trust with our constituents and maintaining the highest ethical standards throughout the campaign.
-
-- **Application:**  
-  Every decision is made with honesty and openness. We ensure that our communications are truthful, our financial dealings are transparent, and our actions consistently reflect our promises to the community. This commitment to integrity fosters a trustworthy relationship with voters and reinforces our credibility.
+우리의 리더십 팀은 조지아 5구의 다양성을 반영하는 데 전념하고 있습니다. 우리는 다양한 배경, 경험 및 관점을 가진 개인을 적극적으로 찾고 있으며, 이는 우리의 의사 결정 과정을 풍부하게 하고 유권자를 더 잘 대표할 수 있도록 합니다. 이러한 헌신은 우리의 리더십이 포괄적이고 공정하며 모든 커뮤니티 구성원의 요구에 반응하도록 보장합니다.
 
 ---
 
-#### **2. Innovate Relentlessly**
+### **윤리적 리더십에 대한 헌신**
 
-- **Description:**  
-  We embrace cutting-edge solutions and creative thinking to address the challenges facing our district, striving for continuous improvement and adaptability in our campaign strategies.
-
-- **Application:**  
-  Our strategies are data-driven and leverage the latest technologies to optimize outreach, engagement, and campaign operations. We encourage our team to think outside the box, adopting innovative approaches to policy development, voter mobilization, and digital engagement to stay ahead in a rapidly evolving political landscape.
+리더십 팀의 모든 구성원은 최고의 무결성과 윤리 기준을 유지할 것으로 기대됩니다. 이러한 헌신은 의사 결정의 투명성, 행동에 대한 책임 및 캠페인의 **행동 강령** 준수를 포함합니다. 윤리적 리더십은 팀 내에서 그리고 더 넓은 커뮤니티와의 신뢰를 구축하며, 공공을 정직하고 존중하는 마음으로 섬기겠다는 우리의 헌신을 강화합니다.
 
 ---
 
-#### **3. Inclusive Representation**
+### **가치**
 
-- **Description:**  
-  We ensure that diverse voices and perspectives are reflected in our policies and campaign initiatives, promoting equity and equality for all community members.
-
-- **Application:**  
-  We actively seek input from all segments of the community, integrating their feedback into our policy development and campaign strategies. By fostering an inclusive environment, we ensure that our campaign addresses the needs and concerns of every constituent, thereby building a united and representative movement.
+우리의 의사 결정 과정은 다음의 핵심 가치에 의해 안내되며, 이는 우리의 전략과 행동이 우리의 기본 원칙과 일치하도록 보장합니다. 이러한 가치는 효율적이고 윤리적이며 효과적인 캠페인을 촉진하기 위해 설계되었으며, 커뮤니티에 대한 우리의 헌신과 혁신적인 접근 방식을 반영합니다.
 
 ---
 
-#### **4. Accountable Leadership**
+#### **1. 무결성이 최우선**
 
-- **Description:**  
-  We take responsibility for our decisions and outcomes, ensuring that our leadership team is answerable to our constituents and committed to delivering on our promises.
+- **설명:**  
+  우리는 모든 행동에서 정직과 투명성을 유지하며, 유권자와의 신뢰를 구축하고 캠페인 전반에 걸쳐 최고의 윤리 기준을 유지합니다.
 
-- **Application:**  
-  Regular progress reports, transparent financials, and open lines of communication keep our campaign accountable to the people we serve. We implement robust monitoring and evaluation processes to assess the effectiveness of our initiatives, allowing us to make informed adjustments and maintain accountability at every level of the campaign.
+- **적용:**  
+  모든 결정은 정직과 개방성을 바탕으로 이루어집니다. 우리는 우리의 커뮤니케이션이 진실하고, 재정 거래가 투명하며, 우리의 행동이 항상 커뮤니티에 대한 약속을 반영하도록 보장합니다. 이러한 무결성에 대한 헌신은 유권자와의 신뢰할 수 있는 관계를 조성하고 우리의 신뢰성을 강화합니다.
 
 ---
 
-### **Commitment to Our Values**
+#### **2. 끊임없는 혁신**
 
-These core values are not just statements; they are the pillars that support every aspect of our campaign. From policy development to voter engagement, each action we take is measured against these principles to ensure that we remain true to our mission and dedicated to serving Georgia's 5th Congressional District with excellence and integrity.
+- **설명:**  
+  우리는 지역구가 직면한 문제를 해결하기 위해 최첨단 솔루션과 창의적인 사고를 수용하며, 캠페인 전략에서 지속적인 개선과 적응을 추구합니다.
+
+- **적용:**  
+  우리의 전략은 데이터 기반이며, 최신 기술을 활용하여 아웃리치, 참여 및 캠페인 운영을 최적화합니다. 우리는 팀이 기존의 틀을 넘어 생각하도록 장려하며, 정책 개발, 유권자 동원 및 디지털 참여에서 혁신적인 접근 방식을 채택하여 빠르게 변화하는 정치 환경에서 앞서 나갑니다.
+
+---
+
+#### **3. 포용적 대표성**
+
+- **설명:**  
+  우리는 다양한 목소리와 관점이 우리의 정책 및 캠페인 이니셔티브에 반영되도록 하여 모든 커뮤니티 구성원에 대한 공정성과 평등을 촉진합니다.
+
+- **적용:**  
+  우리는 커뮤니티의 모든 세그먼트로부터 의견을 적극적으로 수렴하고, 그들의 피드백을 정책 개발 및 캠페인 전략에 통합합니다. 포용적인 환경을 조성함으로써, 우리는 캠페인이 모든 유권자의 요구와 우려를 다루도록 보장하여 통합되고 대표적인 운동을 구축합니다.
+
+---
+
+#### **4. 책임 있는 리더십**
+
+- **설명:**  
+  우리는 우리의 결정과 결과에 책임을 지며, 리더십 팀이 유권자에게 책임을 지고 약속을 이행하는 데 전념합니다.
+
+- **적용:**  
+  정기적인 진행 보고서, 투명한 재무 정보 및 열린 의사소통 경로는 우리의 캠페인이 우리가 섬기는 사람들에게 책임을 지도록 합니다. 우리는 우리의 이니셔티브의 효과를 평가하기 위해 강력한 모니터링 및 평가 프로세스를 구현하여, 정보에 기반한 조정을 가능하게 하고 캠페인의 모든 수준에서 책임을 유지합니다.
+
+---
+
+### **우리의 가치에 대한 헌신**
+
+이러한 핵심 가치는 단순한 진술이 아니라 우리의 캠페인의 모든 측면을 지원하는 기둥입니다. 정책 개발에서 유권자 참여에 이르기까지, 우리가 취하는 각 행동은 이러한 원칙에 비추어 측정되어 우리가 우리의 사명에 충실하고 조지아 5구를 탁월함과 무결성으로 섬기겠다는 헌신을 유지하도록 합니다.

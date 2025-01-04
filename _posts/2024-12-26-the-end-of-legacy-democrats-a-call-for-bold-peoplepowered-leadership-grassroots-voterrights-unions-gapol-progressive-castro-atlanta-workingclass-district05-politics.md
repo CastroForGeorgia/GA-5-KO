@@ -1,117 +1,117 @@
 ---
-layout: post
-title: "The End of Legacy Democrats: A Call for Bold, People-Powered Leadership"
-description: "To build a stronger, more progressive future, the Democratic Party must move beyond legacy politics and prioritize people-driven leadership, equity, and bold reform."
-date: 2024-12-26
-image: '/images/party_reform.jpeg'
-categories: [Politics, Reform, Progressivism]
+layout: post  
+title: "유산 민주당의 종말: 대담하고 국민 중심의 리더십을 위한 촉구"  
+description: "더 강력하고 진보적인 미래를 구축하기 위해 민주당은 유산 정치에서 벗어나 사람 중심의 리더십, 공정성, 대담한 개혁을 우선시해야 합니다."  
+date: 2024-12-26  
+image: '/images/party_reform.jpeg'  
+categories: [정치, 개혁, 진보주의]  
 
-redirect_from:
-  - /2024-12-01-the-end-of-legacy-democrats/
+redirect_from:  
+  - /2024-12-01-the-end-of-legacy-democrats/  
 ---
 
-The Democratic Party stands at a crossroads. To truly serve the people and tackle the urgent crises of our time, we must confront uncomfortable truths: outdated leadership, legacy-driven politics, and a system that has too often prioritized political inertia over bold, people-powered change.  
+민주당은 기로에 서 있습니다. 진정으로 국민을 섬기고 우리 시대의 긴급한 위기를 해결하기 위해서는 불편한 진실에 직면해야 합니다: 구식 리더십, 유산 중심의 정치, 그리고 너무 자주 정치적 관성이 대담하고 국민 중심의 변화를 우선시한 시스템.  
 
-The time has come for the Democratic Party to embrace transformative reforms—reforms that center **equity, working-class leadership, and progress**. We must build a party that **listens to its base**, **rejects corporate influence**, and fights relentlessly for everyday people.
-
----
-
-## What Are Legacy Democrats?  
-
-Legacy Democrats can be defined in two ways:  
-
-1. **Nostalgic Leadership**: Leaders who cling to outdated policies and political instincts, believing solutions from decades past are enough to address today’s systemic crises.  
-2. **Personal Legacy Over Progress**: Leaders whose tenure, while marked by early achievements, has led to stagnation because they are unable or unwilling to step aside for a new generation of leaders.  
-
-This is not about erasing the legacies of dedicated public servants but about **learning from them**. Figures like Dianne Feinstein, Ruth Bader Ginsburg, Bernie Sanders, and Nancy Pelosi broke barriers and achieved tremendous progress, laying the foundation for many of the rights and protections we hold dear today. Their courage, resilience, and unwavering commitment to justice will always be celebrated.  
-
-However, **their hesitation to pass the torch** left us waiting—often at critical moments—navigating political disarray, uncertainty, and missed opportunities to build upon their legacies. By holding on too long, they unintentionally delayed the emergence of new leadership ready to address the challenges of today with fresh energy and urgency.  
-
-To honor their work, we must not cling to them as irreplaceable but instead recognize that true leadership means **knowing when to step aside** to make room for those who will carry the movement forward. It is not an act of dismissal but one of trust—trust in the next generation to build on their achievements and forge a path toward an even stronger, more progressive future.  
-
-The Democratic Party cannot thrive if we cling to the past while neglecting the **needs of the future**.  
+이제 민주당은 **공정성, 노동자 리더십, 그리고 진보**를 중심으로 하는 변혁적 개혁을 수용해야 할 때입니다. 우리는 **기반의 목소리를 듣고**, **기업의 영향을 거부하며**, 매일의 사람들을 위해 끊임없이 싸우는 정당을 만들어야 합니다.  
 
 ---
 
-## Reimagining the Democratic Party: Bold Reforms for Progress  
+## 유산 민주당이란 무엇인가?  
 
-Here’s what we must do to build a party that works for the people and lives up to its promise of justice, equity, and transformative leadership:  
+유산 민주당은 두 가지 방식으로 정의될 수 있습니다:  
 
----
+1. **향수에 젖은 리더십**: 구식 정책과 정치적 본능에 집착하며, 수십 년 전의 해결책이 오늘날의 체계적 위기를 해결하기에 충분하다고 믿는 리더들.  
+2. **개인적 유산이 진보보다 우선**: 초기 성과로 주목받았지만, 새로운 세대의 리더에게 자리를 내주지 못해 정체된 리더들.  
 
-### 1. **Age Limits and Leadership Transition**  
-Leadership requires both **wisdom and energy**. By aligning candidacy with the **Social Security retirement age**, we create a natural transition that balances experience with new, forward-thinking leadership.  
+이는 헌신적인 공직자의 유산을 지우는 것이 아니라, 그들로부터 **배우는 것**입니다. 다이앤 파인스타인, 루스 베이더 긴즈버그, 버니 샌더스, 낸시 펠로시와 같은 인물들은 장벽을 허물고 엄청난 진전을 이루어 오늘날 우리가 소중히 여기는 많은 권리와 보호의 기초를 다졌습니다. 그들의 용기, 회복력, 그리고 정의에 대한 변함없는 헌신은 항상 기려질 것입니다.  
 
-- Leaders over the retirement age should still be celebrated contributors through **advisory roles, mentorship, and policy guidance** outside of elected office.  
-- This reform ensures stability and prevents sudden vacancies while preparing the next generation of progressive leaders to carry the torch.  
+그러나 **그들이 바통을 넘기기를 주저한 것**은 우리가 기다리게 했습니다—종종 중요한 순간에—정치적 혼란, 불확실성, 그리고 그들의 유산을 바탕으로 발전할 기회를 놓치며. 너무 오랫동안 집착함으로써, 그들은 오늘날의 도전에 신선한 에너지와 긴급함으로 대응할 준비가 된 새로운 리더십의 출현을 의도치 않게 지연시켰습니다.  
 
-We must foster a political culture where leaders embrace the role of **builders for the future**, not gatekeepers of the past.  
+그들의 노고를 기리기 위해, 우리는 그들을 대체 불가능한 존재로 여기지 말고, 진정한 리더십이란 **언제 물러나야 할지를 아는 것**임을 인식해야 합니다. 이는 배제의 행위가 아니라, 다음 세대가 그들의 성과를 바탕으로 더 강력하고 진보적인 미래를 향해 나아갈 수 있도록 하는 신뢰의 행위입니다.  
 
----
-
-### 2. **End Billionaire-Funded Super PACs**  
-Democracy cannot belong to billionaires. Super PACs funded by the wealthiest individuals distort democracy, leaving working families and grassroots voices in the shadows.  
-
-- We must champion **bold campaign finance reforms** to reduce the role of big money in politics.  
-- Real democracy means funding campaigns through **small-dollar donations and people-powered fundraising** that reflect the will of the people—not the wealth of the few.
-
-It’s time to close the door on billionaire-backed influence and open it to **grassroots movements**.
+민주당은 과거에 집착하며 **미래의 필요**를 소홀히 한다면 번영할 수 없습니다.  
 
 ---
 
-### 3. **Term Limits for Leadership and Committees**  
-Entrenched leadership stifles progress. Establishing **term limits for congressional leadership roles and committee chairs** ensures new voices, fresh ideas, and evolving strategies have a platform.  
+## 민주당 재구상: 진보를 위한 대담한 개혁  
 
-- Term limits prevent stagnation, create accountability, and allow leaders to serve with a sense of **urgency and purpose**.  
-- New leadership pathways empower underrepresented voices, bringing diverse perspectives into decision-making spaces.  
+우리가 국민을 위해 일하고 정의, 공정성, 변혁적 리더십의 약속을 지키는 정당을 만들기 위해 해야 할 일은 다음과 같습니다:  
 
 ---
 
-### 4. **Prioritize Grassroots, Working-Class Leadership**  
-The Democratic Party must be led by those who understand the struggles of everyday people because they **live them**.  
+### 1. **연령 제한 및 리더십 전환**  
+리더십은 **지혜와 에너지**를 모두 요구합니다. **사회 보장 퇴직 연령**에 맞춰 후보자를 정함으로써 경험과 새로운, 미래 지향적인 리더십의 균형을 이루는 자연스러운 전환을 만듭니다.  
 
-- Actively recruit and uplift candidates from **working-class backgrounds**, including educators, healthcare workers, service workers, and community organizers.  
-- Offer **financial and structural support** to grassroots candidates to challenge wealthy, corporate-backed opponents.  
+- 퇴직 연령이 넘은 리더들은 여전히 **자문 역할, 멘토링, 정책 안내**를 통해 기여할 수 있도록 기념되어야 합니다.  
+- 이 개혁은 안정성을 보장하고 갑작스러운 공석을 방지하며, 다음 세대의 진보적 리더들이 바통을 이어받을 준비를 하도록 합니다.  
 
-The party must reflect the **diversity, energy, and resolve** of the people it claims to serve. A Congress filled with nurses, union leaders, and educators will fight harder for working families than one dominated by millionaires.
-
----
-
-### 5. **A Party That Reflects Its Base**  
-The Democratic Party must stand for something bigger than any single leader, election, or political calculation.  
-
-- **Build coalitions** that listen to grassroots movements and amplify the voices of labor, youth organizers, and marginalized communities.  
-- **Champion bold policies** like Medicare for All, the Green New Deal, workers’ rights, and affordable housing—not because they’re politically safe but because they’re morally urgent.  
-- **End the “electability” myth** that prioritizes political centrism over real solutions. Our base wants bold leadership, not watered-down promises.  
-
-The Democratic Party thrives when it is powered by the **collective energy** of movements demanding justice, equity, and a better future for all.  
+우리는 리더들이 과거의 수호자가 아닌 **미래를 위한 건설자**의 역할을 수용하는 정치 문화를 조성해야 합니다.  
 
 ---
 
-## A Movement Bigger Than Any One Leader  
+### 2. **억만장자 자금 지원 슈퍼 PAC 종료**  
+민주주의는 억만장자에게 속할 수 없습니다. 가장 부유한 개인이 자금을 지원하는 슈퍼 PAC은 민주주의를 왜곡하여 노동자 가정과 풀뿌리 목소리를 그림자 속에 가두고 있습니다.  
 
-The strength of our movement lies in its people. While legacy-driven politics clings to power, people-driven leadership builds pathways for **renewal, progress, and solidarity**.  
+- 우리는 정치에서 큰 돈의 역할을 줄이기 위한 **대담한 선거 자금 개혁**을 옹호해야 합니다.  
+- 진정한 민주주의는 **소액 기부와 국민 중심의 모금**을 통해 캠페인을 자금 지원하는 것입니다. 이는 소수의 부가 아닌 국민의 의지를 반영합니다.  
 
-We must honor past leaders not by replicating their tenure but by carrying forward their vision with **new energy, new ideas, and new leadership** that meets the challenges of today.  
-
-- A party that values its **future over its past** will earn trust.  
-- A party that **prioritizes people over corporations** will inspire movements.  
-- A party that fights boldly for **working-class families** will deliver real change.  
+억만장자 지원의 영향을 끝내고 **풀뿌리 운동**에 문을 열어야 할 때입니다.  
 
 ---
 
-## **The Future of the Democratic Party Starts with Us**  
+### 3. **리더십 및 위원회에 대한 임기 제한**  
+고착된 리더십은 진보를 억제합니다. **의회 리더십 역할과 위원장에 대한 임기 제한**을 설정함으로써 새로운 목소리, 신선한 아이디어, 진화하는 전략이 플랫폼을 가질 수 있도록 합니다.  
 
-This is more than a call for reform—it’s a call to **restore faith in democracy itself**. It’s a call to create a party that stands with workers, champions justice, and renews itself to meet the moment.  
-
-We are not defined by legacy. We are defined by our vision for the future.  
-
-The time for bold leadership is now. The time to build a **Democratic Party for the people, by the people** is here.  
+- 임기 제한은 정체를 방지하고 책임을 창출하며, 리더가 **긴급성과 목적의식**을 가지고 봉사할 수 있도록 합니다.  
+- 새로운 리더십 경로는 대표성이 부족한 목소리를 강화하여 의사 결정 공간에 다양한 관점을 가져옵니다.  
 
 ---
 
-## Join the Movement for Bold, People-First Change  
+### 4. **풀뿌리, 노동자 리더십 우선시**  
+민주당은 일상 사람들의 고난을 이해하는 이들에 의해 이끌려야 합니다. 그들은 **그 고난을 직접 경험합니다**.  
 
-Let’s build a party that fights for the many, not the privileged few.  
+- **노동자 배경**을 가진 후보자를 적극적으로 모집하고 지원해야 합니다. 여기에는 교육자, 의료 종사자, 서비스 노동자, 지역 사회 조직자가 포함됩니다.  
+- 부유한 기업 지원 상대에 도전할 수 있도록 풀뿌리 후보자에게 **재정적 및 구조적 지원**을 제공해야 합니다.  
 
-**#EndLegacyPolitics #PeopleFirstLeadership #ProgressiveReform #BoldChangeNow**
+당은 자신이 섬긴다고 주장하는 사람들의 **다양성, 에너지, 결단력**을 반영해야 합니다. 간호사, 노조 리더, 교육자로 가득한 의회는 백만장자들로 지배된 의회보다 노동자 가정을 위해 더 열심히 싸울 것입니다.  
+
+---
+
+### 5. **기반을 반영하는 정당**  
+민주당은 어떤 단일 리더, 선거, 정치적 계산보다 더 큰 무언가를 위해 서 있어야 합니다.  
+
+- **풀뿌리 운동의 목소리를 듣고** 노동, 청년 조직자, 소외된 공동체의 목소리를 증폭시키는 **연합을 구축**해야 합니다.  
+- **메디케어 포 올, 그린 뉴 딜, 노동자의 권리, 저렴한 주택**과 같은 대담한 정책을 **정치적으로 안전하기 때문이 아니라 도덕적으로 시급하기 때문에** 옹호해야 합니다.  
+- 정치적 중앙주의보다 진정한 해결책을 우선시하는 **“선거 가능성” 신화를 끝내야 합니다**. 우리의 기반은 대담한 리더십을 원하며, 물타기된 약속을 원하지 않습니다.  
+
+민주당은 정의, 공정성, 그리고 모두를 위한 더 나은 미래를 요구하는 운동의 **집단적 에너지**에 의해 힘을 얻을 때 번영합니다.  
+
+---
+
+## 어떤 한 리더보다 더 큰 운동  
+
+우리 운동의 힘은 그 구성원에 있습니다. 유산 중심의 정치는 권력에 집착하는 반면, 국민 중심의 리더십은 **갱신, 진보, 연대**의 길을 엽니다.  
+
+우리는 과거의 리더를 그들의 재임을 복제함으로써 기리기보다는, **새로운 에너지, 새로운 아이디어, 그리고 오늘날의 도전에 부응하는 새로운 리더십**으로 그들의 비전을 이어가야 합니다.  
+
+- 미래를 **과거보다 더 소중히 여기는** 정당은 신뢰를 얻을 것입니다.  
+- **기업보다 사람을 우선시하는** 정당은 운동에 영감을 줄 것입니다.  
+- **노동자 가정을 위해 대담하게 싸우는** 정당은 진정한 변화를 가져올 것입니다.  
+
+---
+
+## **민주당의 미래는 우리에게서 시작된다**  
+
+이는 개혁을 위한 촉구 이상의 의미가 있습니다—이는 **민주주의 자체에 대한 신뢰를 회복하자는 촉구**입니다. 이는 노동자와 함께하고, 정의를 옹호하며, 순간에 맞춰 스스로를 갱신하는 정당을 만들자는 촉구입니다.  
+
+우리는 유산에 의해 정의되지 않습니다. 우리는 미래에 대한 우리의 비전으로 정의됩니다.  
+
+대담한 리더십의 시간은 지금입니다. 국민을 위한, 국민에 의한 **민주당을 만들 시간**이 여기 있습니다.  
+
+---
+
+## 대담하고 국민 중심의 변화를 위한 운동에 참여하세요  
+
+많은 사람들을 위해 싸우는 정당을 만들어 봅시다, 특권층을 위해서가 아니라.  
+
+**#유산정치종식 #국민우선리더십 #진보적개혁 #대담한변화지금**

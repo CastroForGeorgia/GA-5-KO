@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Digital Literacy for Civic Engagement"
-description: "Digital literacy is essential for democracy. Let’s equip residents—and leaders—with the skills to engage with government platforms, access resources, and participate in decision-making online."
+title: "시민 참여를 위한 디지털 리터러시"
+description: "디지털 리터러시는 민주주의에 필수적입니다. 주민들과 리더들이 정부 플랫폼에 참여하고, 자원에 접근하며, 온라인에서 의사 결정에 참여할 수 있는 기술을 갖추도록 합시다."
 date: 2024-12-30
 image: '/images/agi-header.webp'
 
@@ -9,85 +9,85 @@ redirect_from:
   - /2025-01-01-digital-literacy-civic-engagement/
 ---
 
-In today’s digital age, civic engagement increasingly depends on the ability to navigate online platforms, access resources, and participate in decision-making processes. Yet, for many, barriers to digital literacy prevent full participation in democracy. From understanding how to use government websites to knowing how to fact-check information, these skills are essential for ensuring every voice is heard.
+오늘날의 디지털 시대에서 시민 참여는 온라인 플랫폼을 탐색하고 자원에 접근하며 의사 결정 과정에 참여하는 능력에 점점 더 의존하고 있습니다. 그러나 많은 사람들에게 디지털 리터러시의 장벽은 민주주의에 완전히 참여하는 것을 방해합니다. 정부 웹사이트를 사용하는 방법을 이해하는 것부터 정보를 사실 확인하는 방법을 아는 것까지, 이러한 기술은 모든 목소리가 들리도록 보장하는 데 필수적입니다.
 
-But digital literacy isn’t just essential for residents—it’s critical for leaders as well. Without understanding how these programs and platforms work, leaders can’t effectively advocate for improvements or ensure accountability. A digitally literate government is key to making democracy more accessible and inclusive.
+하지만 디지털 리터러시는 주민들에게만 중요한 것이 아닙니다. 리더들에게도 매우 중요합니다. 이러한 프로그램과 플랫폼이 어떻게 작동하는지 이해하지 못하면 리더들은 개선을 효과적으로 주장하거나 책임을 보장할 수 없습니다. 디지털 리터러시가 갖춰진 정부는 민주주의를 더 접근 가능하고 포용적으로 만드는 데 핵심입니다.
 
-As a Staff Engineer, I’ve spent my career solving complex problems, designing systems, and teaching others to navigate the technical world. This experience uniquely equips me to not only lead efforts to expand digital literacy but to teach and empower others to do the same.
+저는 스태프 엔지니어로서 복잡한 문제를 해결하고 시스템을 설계하며 다른 사람들이 기술 세계를 탐색하도록 가르치는 경력을 쌓아왔습니다. 이러한 경험은 디지털 리터러시를 확장하기 위한 노력을 이끌 뿐만 아니라, 다른 사람들에게도 가르치고 권한을 부여하는 데 독특하게 저를 준비시킵니다.
 
-## Why Digital Literacy Matters
+## 디지털 리터러시의 중요성
 
-Digital literacy goes beyond basic technical skills. It’s about understanding how to use technology to participate fully in society. The lack of these skills creates significant challenges:
+디지털 리터러시는 기본적인 기술을 넘어섭니다. 이는 기술을 사용하여 사회에 완전히 참여하는 방법을 이해하는 것입니다. 이러한 기술의 부족은 상당한 도전을 만듭니다:
 
-- **Barriers to Accessing Resources**: Many government programs and resources are now available primarily online, making them inaccessible to those who lack digital skills.  
-- **Misinformation and Disinformation**: Without the ability to verify sources and fact-check, people are more vulnerable to manipulation and false narratives.  
-- **Limited Civic Participation**: Digital tools provide opportunities to engage with representatives, provide feedback on policies, and participate in public forums—but only for those who know how to use them.  
-- **Leaders Detached from Technology**: Without digital literacy, leaders cannot properly evaluate the tools and platforms their constituents rely on, making it harder to implement effective solutions.  
+- **자원 접근의 장벽**: 많은 정부 프로그램과 자원이 이제 주로 온라인에서 제공되므로 디지털 기술이 부족한 사람들에게는 접근이 불가능합니다.  
+- **허위 정보와 잘못된 정보**: 출처를 확인하고 사실을 검증할 수 있는 능력이 없으면 사람들은 조작과 잘못된 서사에 더 취약해집니다.  
+- **제한된 시민 참여**: 디지털 도구는 대표와 소통하고 정책에 대한 피드백을 제공하며 공개 포럼에 참여할 기회를 제공하지만, 이를 사용할 줄 아는 사람들만 해당됩니다.  
+- **기술과 단절된 리더들**: 디지털 리터러시가 없으면 리더들은 유권자들이 의존하는 도구와 플랫폼을 제대로 평가할 수 없어 효과적인 해결책을 구현하기가 더 어려워집니다.  
 
-Addressing these challenges is critical for ensuring equitable participation in our democracy.
+이러한 도전에 대응하는 것은 우리 민주주의에서 공평한 참여를 보장하는 데 중요합니다.
 
-## A Plan for Digital Literacy
+## 디지털 리터러시를 위한 계획
 
-To bridge the gap in digital skills, my plan focuses on three key areas: education, access, and leadership training.
+디지털 기술의 격차를 해소하기 위해 제 계획은 교육, 접근성, 리더십 훈련의 세 가지 주요 영역에 중점을 둡니다.
 
-### 1. **Education Programs for All Ages**
+### 1. **모든 연령대를 위한 교육 프로그램**
 
-Digital literacy must be accessible to everyone, regardless of age or background. My plan includes:
+디지털 리터러시는 연령이나 배경에 관계없이 모두가 접근할 수 있어야 합니다. 제 계획에는 다음이 포함됩니다:
 
-- **School-Based Digital Literacy Curriculum**: Partnering with schools to integrate digital literacy into K-12 education, teaching students how to navigate government websites, evaluate online information, and protect their personal data.  
-- **Adult Learning Programs**: Offering free or low-cost digital literacy classes through community centers, libraries, and local nonprofits, focusing on skills like online bill payment, accessing healthcare resources, and participating in virtual town halls.  
-- **Senior-Focused Training**: Creating workshops tailored to older adults, addressing their unique challenges in adopting new technologies.  
+- **학교 기반 디지털 리터러시 커리큘럼**: 학교와 협력하여 K-12 교육에 디지털 리터러시를 통합하고, 학생들에게 정부 웹사이트를 탐색하고, 온라인 정보를 평가하며, 개인 데이터를 보호하는 방법을 가르칩니다.  
+- **성인 학습 프로그램**: 지역 사회 센터, 도서관 및 지역 비영리 단체를 통해 무료 또는 저렴한 디지털 리터러시 수업을 제공하며, 온라인 청구서 결제, 의료 자원 접근, 가상 타운홀 참여와 같은 기술에 중점을 둡니다.  
+- **노인 맞춤형 교육**: 새로운 기술을 채택하는 데 있어 그들의 고유한 도전을 다루는 워크숍을 만듭니다.  
 
-By making education accessible, we can empower individuals to use technology effectively.
+교육을 접근 가능하게 함으로써, 우리는 개인들이 기술을 효과적으로 사용할 수 있도록 권한을 부여할 수 있습니다.
 
-### 2. **Accessible Government Platforms**
+### 2. **접근 가능한 정부 플랫폼**
 
-Government platforms must be designed with accessibility in mind to ensure inclusivity. My initiatives include:
+정부 플랫폼은 포용성을 보장하기 위해 접근성을 염두에 두고 설계되어야 합니다. 제 이니셔티브에는 다음이 포함됩니다:
 
-- **User-Friendly Design**: Ensuring government websites are intuitive and accessible, with clear language, large fonts, and multilingual options.  
-- **Video Tutorials**: Providing step-by-step video guides on using government platforms, such as registering to vote or applying for benefits.  
-- **Interactive Chat Support**: Using AI-powered tools like chatbots to guide users through complex processes in real time.  
+- **사용자 친화적인 디자인**: 정부 웹사이트가 직관적이고 접근 가능하도록 하며, 명확한 언어, 큰 글꼴, 다국어 옵션을 제공합니다.  
+- **비디오 튜토리얼**: 유권자 등록이나 혜택 신청과 같은 정부 플랫폼 사용에 대한 단계별 비디오 가이드를 제공합니다.  
+- **인터랙티브 채팅 지원**: AI 기반 도구인 챗봇을 사용하여 복잡한 프로세스를 실시간으로 안내합니다.  
 
-These improvements ensure that digital tools are easy to navigate, even for first-time users.
+이러한 개선 사항은 디지털 도구가 처음 사용하는 사람에게도 쉽게 탐색할 수 있도록 보장합니다.
 
-### 3. **Digital Literacy for Leaders**
+### 3. **리더를 위한 디지털 리터러시**
 
-Leaders must understand the tools and platforms their constituents rely on to advocate effectively for improvements. My plan includes:
+리더들은 constituents가 의존하는 도구와 플랫폼을 이해해야 효과적으로 개선을 주장할 수 있습니다. 제 계획에는 다음이 포함됩니다:
 
-- **Government Leader Training Programs**: Offering digital literacy courses to elected officials and public servants to ensure they understand how online systems work.  
-- **Hands-On Demonstrations**: Providing leaders with practical sessions on navigating government platforms, analyzing data, and understanding feedback loops.  
-- **Transparency in Policy Design**: Requiring leaders to collaborate with technologists when designing and implementing digital programs, ensuring they are effective and user-friendly.  
+- **정부 리더 교육 프로그램**: 선출직 공무원과 공공 서비스 종사자에게 디지털 리터러시 과정을 제공하여 온라인 시스템이 어떻게 작동하는지 이해하도록 합니다.  
+- **실습 시연**: 리더들에게 정부 플랫폼 탐색, 데이터 분석 및 피드백 루프 이해에 대한 실용적인 세션을 제공합니다.  
+- **정책 설계의 투명성**: 리더들이 디지털 프로그램을 설계하고 구현할 때 기술자와 협력하도록 요구하여 효과적이고 사용자 친화적인 프로그램을 보장합니다.  
 
-As a Staff Engineer, I’ve not only designed complex systems but have taught teams how to use and improve them. I bring this experience to leadership, ensuring that government officials have the knowledge and confidence to engage with technology effectively.
+스태프 엔지니어로서 저는 복잡한 시스템을 설계했을 뿐만 아니라 팀이 이를 사용하고 개선하는 방법을 가르쳤습니다. 저는 이 경험을 리더십에 가져와 정부 관계자들이 기술을 효과적으로 활용할 수 있는 지식과 자신감을 갖추도록 보장합니다.
 
-### 4. **Community Tech Hubs**
+### 4. **커뮤니티 기술 허브**
 
-To support those without access to technology or the internet, I propose the creation of community tech hubs. These spaces will:
+기술이나 인터넷에 접근할 수 없는 사람들을 지원하기 위해 커뮤니티 기술 허브의 창설을 제안합니다. 이러한 공간은 다음을 수행합니다:
 
-- **Provide Free Access**: Offer computers, high-speed internet, and digital training for community members.  
-- **Host Civic Engagement Workshops**: Teach residents how to use online platforms to contact representatives, participate in public comment periods, and stay informed about local issues.  
-- **Foster Peer Learning**: Create spaces where community members can share skills and support each other in learning digital tools.  
+- **무료 접근 제공**: 지역 사회 구성원에게 컴퓨터, 고속 인터넷 및 디지털 교육을 제공합니다.  
+- **시민 참여 워크숍 개최**: 주민들에게 온라인 플랫폼을 사용하여 대표에게 연락하고, 공개 의견 제출 기간에 참여하며, 지역 문제에 대한 정보를 유지하는 방법을 가르칩니다.  
+- **동료 학습 촉진**: 지역 사회 구성원들이 기술을 공유하고 서로 학습을 지원할 수 있는 공간을 만듭니다.  
 
-By investing in these hubs, we can ensure that digital literacy reaches even the most underserved communities.
+이러한 허브에 투자함으로써, 우리는 디지털 리터러시가 가장 소외된 커뮤니티에도 도달할 수 있도록 보장할 수 있습니다.
 
-### 5. **Promoting Online Civic Participation**
+### 5. **온라인 시민 참여 촉진**
 
-Digital literacy must go hand-in-hand with opportunities to participate. My plan includes:
+디지털 리터러시는 참여 기회와 함께 이루어져야 합니다. 제 계획에는 다음이 포함됩니다:
 
-- **Virtual Town Halls**: Hosting accessible, online forums where residents can engage directly with representatives.  
-- **Civic Engagement Toolkits**: Creating downloadable guides that explain how to use platforms like [GitHub](https://github.com/CastroForGeorgia) to review policies or [Hugging Face](https://huggingface.co/CastroForGeorgia) to interact with AI tools for civic data analysis.  
-- **Public Feedback Portals**: Launching platforms where residents can provide input on policies, ensuring their voices shape decision-making.  
+- **가상 타운홀**: 주민들이 대표와 직접 소통할 수 있는 접근 가능한 온라인 포럼을 개최합니다.  
+- **시민 참여 도구 키트**: 정책을 검토하기 위해 [GitHub](https://github.com/CastroForGeorgia)와 같은 플랫폼을 사용하는 방법이나 시민 데이터 분석을 위한 AI 도구와 상호작용하는 방법을 설명하는 다운로드 가능한 가이드를 만듭니다.  
+- **공공 피드백 포털**: 주민들이 정책에 대한 의견을 제공할 수 있는 플랫폼을 시작하여 그들의 목소리가 의사 결정에 반영되도록 합니다.  
 
-These initiatives empower residents and leaders to actively participate in democracy.
+이러한 이니셔티브는 주민들과 리더들이 민주주의에 적극적으로 참여할 수 있도록 권한을 부여합니다.
 
-## Leadership Grounded in Technical Expertise
+## 기술 전문성에 기반한 리더십
 
-As a Staff Engineer, I’ve built my career on understanding complex systems, designing solutions, and empowering teams to succeed. These same skills are critical for addressing the challenges of digital literacy and civic engagement. My technical background ensures that I can lead by example, teaching others how to navigate the digital world while driving policies that make it more inclusive and accessible.
+스태프 엔지니어로서 저는 복잡한 시스템을 이해하고, 솔루션을 설계하며, 팀이 성공할 수 있도록 권한을 부여하는 경력을 쌓아왔습니다. 이러한 기술은 디지털 리터러시와 시민 참여의 문제를 해결하는 데 매우 중요합니다. 제 기술적 배경은 제가 모범을 보이며 다른 사람들이 디지털 세계를 탐색하는 방법을 가르치고, 이를 더 포용적이고 접근 가능하게 만드는 정책을 추진할 수 있도록 보장합니다.
 
-## Why This Matters
+## 이것이 중요한 이유
 
-Digital literacy isn’t just a skill—it’s a form of empowerment. When residents know how to engage with digital tools, they gain access to resources, influence decision-making, and contribute to their communities. And when leaders understand these systems, they can advocate for policies that truly work for the people.
+디지털 리터러시는 단순한 기술이 아닙니다. 그것은 권한 부여의 형태입니다. 주민들이 디지털 도구와 소통하는 방법을 알게 되면 자원에 접근하고, 의사 결정에 영향을 미치며, 지역 사회에 기여할 수 있습니다. 그리고 리더들이 이러한 시스템을 이해하면, 그들은 진정으로 사람들을 위한 정책을 주장할 수 있습니다.
 
 ---
 
-**This is why I fight: to ensure every resident—and every leader—has the tools and knowledge to participate fully in our democracy, to bridge the digital divide, and to create a future where civic engagement is accessible to all. Together, we can build a more inclusive and informed society.**
+**이것이 제가 싸우는 이유입니다: 모든 주민과 모든 리더가 우리 민주주의에 완전히 참여할 수 있는 도구와 지식을 갖추도록 하고, 디지털 격차를 해소하며, 시민 참여가 모두에게 접근 가능해지는 미래를 만드는 것입니다. 함께 우리는 더 포용적이고 정보에 기반한 사회를 구축할 수 있습니다.**

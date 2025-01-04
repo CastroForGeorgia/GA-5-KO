@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Understanding Through Experience: My Approach to Leadership"
-description: "Whether in my engineering career or community advocacy, I’ve learned that true understanding comes from lived experience. I approach leadership with a focus on listening, learning, and finding solutions that address real-world struggles."
+title: "경험을 통한 이해: 나의 리더십 접근법"
+description: "엔지니어링 경력이나 지역 사회 옹호 활동을 통해, 진정한 이해는 직접 경험에서 온다는 것을 배웠습니다. 저는 리더십을 듣고, 배우고, 실제 문제를 해결하는 데 초점을 맞추어 접근합니다."
 date: 2024-12-20
 image: '/images/open-government-header.webp'
 
@@ -9,49 +9,49 @@ redirect_from:
   - /2025-01-01-understanding-through-experience/
 ---
 
-Leadership isn’t about knowing everything—it’s about understanding the struggles of the people you serve and finding ways to make their lives better. Whether in my engineering career or my work as a community advocate, I’ve learned that true understanding comes from experience: listening to people’s stories, learning from their challenges, and addressing the systems that shape their lives.
+리더십은 모든 것을 아는 것이 아니라, 당신이 섬기는 사람들의 고난을 이해하고 그들의 삶을 더 좋게 만들 방법을 찾는 것입니다. 엔지니어링 경력이나 지역 사회 옹호 활동에서, 저는 진정한 이해가 경험에서 온다는 것을 배웠습니다: 사람들의 이야기를 듣고, 그들의 도전에서 배우고, 그들의 삶을 형성하는 시스템에 대응하는 것입니다.
 
-My approach to leadership is rooted in this belief. It’s about listening first, learning always, and crafting solutions that meet the needs of real people.
+저의 리더십 접근법은 이러한 믿음에 뿌리를 두고 있습니다. 먼저 듣고, 항상 배우며, 실제 사람들의 필요를 충족시키는 해결책을 만드는 것입니다.
 
-## Understanding Through Lived Experience
+## 경험을 통한 이해
 
-Growing up in a working-class family, I saw firsthand how hard it was to make ends meet. I watched my mother juggle multiple jobs, my sister struggle as a teen mom, and my own family navigate a system that often felt stacked against us. These experiences shaped my understanding of the challenges working families face and instilled in me a deep empathy for others going through the same struggles.
+저는 노동자 계층 가정에서 자라면서 생계를 유지하는 것이 얼마나 힘든지 직접 보았습니다. 어머니가 여러 직업을 병행하는 모습을 보았고, 여동생이 십대 엄마로서 고군분투하는 모습을 지켜보았으며, 우리 가족이 종종 불리하게 느껴지는 시스템을 헤쳐 나가는 모습을 경험했습니다. 이러한 경험은 노동 가정이 직면한 도전에 대한 저의 이해를 형성하고, 같은 고난을 겪고 있는 다른 이들에 대한 깊은 공감을 심어주었습니다.
 
-This understanding is what drives me to fight for affordable housing, universal healthcare, and equitable education. It’s not just policy to me—it’s personal. I know the stakes because I’ve lived them.
+이해는 제가 저렴한 주택, 보편적 의료, 공정한 교육을 위해 싸우는 원동력입니다. 저에게 이것은 단순한 정책이 아니라 개인적인 문제입니다. 저는 그 위험을 알고 있습니다. 왜냐하면 제가 그 경험을 겪었기 때문입니다.
 
-## Lessons From My Career in Engineering
+## 엔지니어링 경력에서의 교훈
 
-In my engineering career, I learned that solutions are only as good as the understanding behind them. Designing a system that works requires asking the right questions, listening to feedback, and addressing the root causes of the problem. It’s not enough to apply a quick fix—you need to create something sustainable, something that works for the people using it.
+엔지니어링 경력에서, 저는 해결책이 그 뒤에 있는 이해만큼만 좋다는 것을 배웠습니다. 작동하는 시스템을 설계하려면 올바른 질문을 하고, 피드백을 듣고, 문제의 근본 원인에 대응해야 합니다. 빠른 해결책을 적용하는 것으로는 충분하지 않습니다. 지속 가능하고, 사용하는 사람들에게 효과적인 무언가를 만들어야 합니다.
 
-This mindset has shaped my approach to leadership. Whether it’s tackling systemic inequality or improving access to public resources, I prioritize understanding the context, listening to those most affected, and building solutions that last.
+이러한 사고방식은 저의 리더십 접근법을 형성했습니다. 체계적인 불평등을 해결하든 공공 자원 접근성을 개선하든, 저는 맥락을 이해하고, 가장 영향을 받는 사람들의 이야기를 듣고, 지속 가능한 해결책을 구축하는 것을 우선시합니다.
 
-## Leadership Through Listening
+## 듣기를 통한 리더십
 
-One of the most important lessons I’ve learned is the power of listening. True leadership starts by hearing people’s stories—understanding their struggles, hopes, and needs. When you take the time to listen, you gain the insight needed to create meaningful change.
+제가 배운 가장 중요한 교훈 중 하나는 듣기의 힘입니다. 진정한 리더십은 사람들의 이야기를 듣는 것에서 시작됩니다—그들의 고난, 희망, 필요를 이해하는 것입니다. 시간을 내어 듣게 되면, 의미 있는 변화를 만들기 위한 통찰력을 얻게 됩니다.
 
-In my work, this means engaging directly with the people impacted by policies, holding open forums, and fostering an ongoing dialogue. Leadership isn’t about making decisions in isolation—it’s about working together to find the best path forward.
+저의 일에서는, 이는 정책의 영향을 받는 사람들과 직접 소통하고, 공개 포럼을 개최하며, 지속적인 대화를 촉진하는 것을 의미합니다. 리더십은 고립된 상태에서 결정을 내리는 것이 아니라, 함께 최선의 길을 찾는 것입니다.
 
-## Addressing Real-World Struggles
+## 실제 문제 해결하기
 
-Understanding isn’t just about listening—it’s about action. The insights gained through lived experience and community engagement must lead to solutions that address real-world struggles. This is why I focus on policies that tackle the root causes of inequality and create pathways for opportunity:
+이해는 단순히 듣는 것이 아니라, 행동으로 이어져야 합니다. 경험과 지역 사회 참여를 통해 얻은 통찰력은 실제 문제를 해결하는 해결책으로 이어져야 합니다. 그래서 저는 불평등의 근본 원인을 다루고 기회의 경로를 만드는 정책에 집중합니다:
 
-- **Affordable Housing**: Ensuring every family has a stable, safe place to call home.  
-- **Universal Healthcare**: Guaranteeing access to quality care for everyone, regardless of income.  
-- **Economic Equity**: Closing wage gaps, expanding job opportunities, and supporting working families.  
-- **Educational Access**: Providing resources that empower students and families to succeed.  
+- **저렴한 주택**: 모든 가족이 안정적이고 안전한 집을 가질 수 있도록 보장합니다.  
+- **보편적 의료**: 소득에 관계없이 모든 사람이 양질의 의료 서비스를 받을 수 있도록 보장합니다.  
+- **경제적 공정성**: 임금 격차를 줄이고, 일자리 기회를 확대하며, 노동 가정을 지원합니다.  
+- **교육 접근성**: 학생과 가족이 성공할 수 있도록 자원을 제공합니다.  
 
-Each of these solutions is informed by the experiences of the people they’re meant to serve.
+이러한 각 해결책은 그들이 섬기려는 사람들의 경험에 의해 형성됩니다.
 
-## Building Systems That Work for Everyone
+## 모두를 위한 시스템 구축하기
 
-My approach to leadership is grounded in the belief that systems should work for everyone, not just the privileged few. Too often, the people who design policies are disconnected from the realities of the people affected by them. My goal is to bridge that gap—to bring lived experience into the decision-making process and ensure that policies reflect the needs of real people.
+저의 리더십 접근법은 시스템이 특권층만을 위한 것이 아니라 모두를 위해 작동해야 한다는 믿음에 기반하고 있습니다. 정책을 설계하는 사람들이 영향을 받는 사람들의 현실과 단절되어 있는 경우가 너무 많습니다. 저의 목표는 그 격차를 메우는 것입니다—결정 과정에 경험을 반영하고 정책이 실제 사람들의 필요를 반영하도록 하는 것입니다.
 
-Whether through my technical expertise or my advocacy, I’ve seen how understanding systems—and the people within them—can lead to better outcomes. It’s this blend of empathy, expertise, and action that defines my leadership.
+저의 기술 전문성이든 옹호 활동이든, 시스템과 그 안의 사람들을 이해하는 것이 더 나은 결과로 이어질 수 있다는 것을 보았습니다. 공감, 전문성, 행동의 이 조합이 저의 리더십을 정의합니다.
 
-## Why Understanding Matters
+## 이해가 중요한 이유
 
-Understanding is the foundation of effective leadership. Without it, policies fail to address the real needs of the people. But when leaders take the time to listen, to learn, and to act with purpose, they can create systems that uplift everyone.
+이해는 효과적인 리더십의 기초입니다. 이해가 없으면 정책은 사람들의 실제 필요를 충족하지 못합니다. 그러나 리더가 시간을 내어 듣고, 배우고, 목적을 가지고 행동할 때, 모두를 고양시키는 시스템을 만들 수 있습니다.
 
 ---
 
-**This is why I fight: to lead with understanding, to listen and learn from real experiences, and to create solutions that address the struggles of everyday people. Together, we can build a future where leadership reflects the needs of all.**
+**이것이 제가 싸우는 이유입니다: 이해를 바탕으로 이끌고, 실제 경험에서 듣고 배우며, 일상 사람들의 고난을 해결하는 해결책을 만드는 것입니다. 함께, 우리는 리더십이 모두의 필요를 반영하는 미래를 구축할 수 있습니다.**

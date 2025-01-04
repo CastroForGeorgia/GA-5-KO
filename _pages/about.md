@@ -1,34 +1,34 @@
 ---
 layout: page
-title: About Andres Castro
-description: Meet Andres Castro, a working-class leader and software engineer running for Congress in Georgia’s 5th District to fight for families, equality, and bold, people-powered solutions.
+title: 안드레스 카스트로에 대하여
+description: 가족, 평등, 그리고 대담하고 사람 중심의 해결책을 위해 의회에 출마하는 노동계급 리더이자 소프트웨어 엔지니어 안드레스 카스트로를 만나보세요.
 permalink: /about/
 image: '/images/about-me-photo.jpg'
-keywords: [Andres Castro, Working-Class Leadership, Georgia 5th District, Inclusive Society, Economic Justice, Technology for Good, Affordable Housing, Universal Healthcare]
+keywords: [안드레스 카스트로, 노동계급 리더십, 조지아 5지구, 포용적 사회, 경제 정의, 선한 기술, 저렴한 주택, 보편적 의료]
 ---
 
-# About Andres Castro
+# 안드레스 카스트로에 대하여
 
-Hi, I’m **Andres Castro**, a software engineer and working-class leader running for Congress in **Georgia’s 5th District**. My journey began as the son of a courageous immigrant from Acapulco, Mexico, who moved us to Georgia to escape abuse and poverty. Growing up in **Marietta and Powder Springs**, I experienced the challenges of poverty, racism, and systemic barriers firsthand.
+안녕하세요, 저는 **안드레스 카스트로**입니다. **조지아 5지구**에서 의회에 출마하는 소프트웨어 엔지니어이자 노동계급 리더입니다. 제 여정은 아카풀코, 멕시코 출신의 용감한 이민자의 아들로 시작되었습니다. 저희 가족은 학대와 가난을 피하기 위해 조지아로 이주했습니다. **마리에타와 파우더 스프링스**에서 성장하면서 저는 가난, 인종차별, 그리고 체계적인 장벽의 어려움을 직접 경험했습니다.
 
-Through grit and determination, I earned a degree in **Computer Science** from Kennesaw State University, launched a successful engineering career, and became a proud homeowner in **Oakland City, Atlanta**. My experiences taught me that systemic change is needed to ensure no one is left behind.
+끈기와 결단력을 통해 **켄네소 주립대학교**에서 컴퓨터 과학 학위를 취득하고 성공적인 엔지니어 경력을 시작했으며, **애틀랜타 오클랜드 시티**에서 자랑스러운 주택 소유자가 되었습니다. 제 경험은 체계적인 변화가 필요하다는 것을 가르쳐 주었습니다. 아무도 소외되지 않는 세상을 만들기 위해서요.
 
-I’m running for Congress to fight for:  
-- **Economic Justice**: A fair economy with living wages, strong unions, and housing affordability.  
-- **Universal Healthcare**: Medicare for All to guarantee quality care for every resident.  
-- **Civil Rights**: Equality and protections for all, including marginalized and LGBTQ+ communities.  
-- **Open Government**: Transparency and accountability, giving power back to the people.  
-- **Technology for Good**: Policies that ensure innovation serves humanity, not corporate greed.  
+저는 다음을 위해 의회에 출마하고 있습니다:  
+- **경제 정의**: 생활 임금, 강력한 노동조합, 그리고 주택의 적정성을 갖춘 공정한 경제.  
+- **보편적 의료**: 모든 주민에게 양질의 치료를 보장하는 메디케어 포 올.  
+- **시민권**: 소외된 커뮤니티와 LGBTQ+ 커뮤니티를 포함한 모든 사람에 대한 평등과 보호.  
+- **개방 정부**: 투명성과 책임성을 통해 권력을 국민에게 되돌려주는 것.  
+- **선한 기술**: 혁신이 인류를 위해 봉사하도록 보장하는 정책, 기업의 탐욕이 아닌.  
 
-This campaign is about **you**, your family, and building a future where everyone can thrive.
+이번 캠페인은 **여러분**과 여러분의 가족, 그리고 모두가 번영할 수 있는 미래를 만드는 것입니다.
 
-## Learn More About My Story and Vision:
-- [Why I’m Running for Congress](/blog/leadership-grounded-in-experience-why-im-running-for-congress-district05-unions-voterrights-grassroots-progressive-workingclass-atlanta-politics-castro-gapol/)
-- [The Workers’ Housing Guarantee: Affordable Homes for All](/project/housing-community/)
-- [Healthcare is a Human Right: My Plan for Medicare for All](/project/healthcare/)
-- [Civil Rights and Equality: Standing Up for Justice](/project/civil-rights-equality)
-- [Technology for People: My Vision for Ethical AI](/project/ai/)
+## 제 이야기와 비전에 대해 더 알아보세요:
+- [왜 의회에 출마하는지](/blog/leadership-grounded-in-experience-why-im-running-for-congress-district05-unions-voterrights-grassroots-progressive-workingclass-atlanta-politics-castro-gapol/)
+- [근로자 주택 보장: 모두를 위한 저렴한 주택](/project/housing-community/)
+- [의료는 인권이다: 모두를 위한 메디케어 계획](/project/healthcare/)
+- [시민권과 평등: 정의를 위한 싸움](/project/civil-rights-equality)
+- [사람을 위한 기술: 윤리적 AI에 대한 제 비전](/project/ai/)
 
-Together, we can build a fairer, stronger future for **Georgia’s 5th District**.  
-Let’s get to work.  
-**[Join Us Today](https://actionnetwork.org/forms/subscribe-form)**  
+함께, 우리는 **조지아 5지구**를 위한 더 공정하고 강한 미래를 만들 수 있습니다.  
+일을 시작합시다.  
+**[오늘 함께하세요](https://actionnetwork.org/forms/subscribe-form)**

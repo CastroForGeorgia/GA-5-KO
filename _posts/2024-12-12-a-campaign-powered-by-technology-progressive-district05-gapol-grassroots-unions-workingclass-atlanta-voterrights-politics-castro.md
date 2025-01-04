@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "A Campaign Powered by Technology"
-description: "Technology is at the heart of my campaign. Here’s how tools like the Mantle Platform are helping us engage voters, listen to their concerns, and build an inclusive, future-ready movement."
+title: "기술로 구동되는 캠페인"
+description: "기술은 제 캠페인의 핵심입니다. Mantle 플랫폼과 같은 도구들이 유권자와 소통하고, 그들의 우려를 듣고, 포용적이며 미래 지향적인 운동을 만드는 데 어떻게 도움이 되는지 알아보세요."
 date: 2024-12-12
 image: '/images/agi-header.webp'
 
@@ -9,70 +9,70 @@ redirect_from:
   - /2025-01-01-campaign-powered-by-technology/
 ---
 
-Campaigns have always been about connection—about meeting people where they are, listening to their concerns, and building a shared vision for the future. But in today’s world, technology has transformed how we connect, giving us new tools to reach more people, hear more voices, and make the democratic process more inclusive.
+캠페인은 항상 연결에 관한 것이었습니다. 사람들과의 만남, 그들의 우려를 듣고, 미래를 위한 공동의 비전을 구축하는 것이죠. 그러나 오늘날의 세계에서 기술은 우리가 연결되는 방식을 변화시켰습니다. 더 많은 사람들에게 다가가고, 더 많은 목소리를 듣고, 민주적 과정을 더 포용적으로 만드는 새로운 도구를 제공하고 있습니다.
 
-In my campaign, technology isn’t just a tool—it’s the foundation of how we operate. From the **Mantle Platform** to advanced data analytics, we’re leveraging technology to create a campaign that’s accessible, responsive, and built for the future.
+제 캠페인에서 기술은 단순한 도구가 아닙니다. 그것은 우리가 운영하는 방식의 기초입니다. **Mantle 플랫폼**부터 고급 데이터 분석에 이르기까지, 우리는 기술을 활용하여 접근 가능하고 반응이 빠르며 미래를 위한 캠페인을 만들고 있습니다.
 
-## The Role of Technology in Our Campaign
+## 우리 캠페인에서 기술의 역할
 
-Technology has allowed us to rethink how campaigns engage with voters. Here’s how we’re using it to make our movement more inclusive and impactful:
+기술은 캠페인이 유권자와 소통하는 방식을 재고할 수 있게 해주었습니다. 우리는 이를 통해 우리의 운동을 더 포용적이고 영향력 있게 만들기 위해 다음과 같은 방법을 사용하고 있습니다:
 
-### 1. **The Mantle Platform: A Bridge to Resources**
+### 1. **Mantle 플랫폼: 자원으로 가는 다리**
 
-The **Mantle Platform** is more than just a campaign tool—it’s a bridge to resources and a reflection of our values. Through the platform, voters can:
+**Mantle 플랫폼**은 단순한 캠페인 도구가 아닙니다. 그것은 자원으로 가는 다리이자 우리의 가치를 반영합니다. 플랫폼을 통해 유권자는:
 
-- Access real-time updates on campaign initiatives and policies.  
-- Use the **Help App** to find vital resources like affordable housing, healthcare, and legal aid.  
-- Share their concerns and ideas directly with the campaign team.  
+- 캠페인 이니셔티브 및 정책에 대한 실시간 업데이트에 접근할 수 있습니다.  
+- **도움 앱**을 사용하여 저렴한 주택, 의료 서비스 및 법률 지원과 같은 필수 자원을 찾을 수 있습니다.  
+- 캠페인 팀과 직접적으로 우려 사항과 아이디어를 공유할 수 있습니다.  
 
-By simplifying access to information and creating a direct line to the campaign, the Mantle Platform ensures that no voice goes unheard.
+정보 접근을 간소화하고 캠페인과의 직접적인 소통 경로를 만드는 Mantle 플랫폼은 어떤 목소리도 놓치지 않도록 보장합니다.
 
-### 2. **Listening at Scale**
+### 2. **대규모 청취**
 
-One of the biggest challenges in any campaign is ensuring that every voice is heard. We’re using technology to scale our listening efforts, including:
+모든 캠페인에서 가장 큰 도전 과제 중 하나는 모든 목소리가 들리도록 하는 것입니다. 우리는 기술을 사용하여 청취 노력을 확장하고 있습니다. 여기에는 다음이 포함됩니다:
 
-- **AI-Powered Sentiment Analysis**: Tracking public sentiment in real-time to understand voter concerns and respond to emerging issues.  
-- **Community Feedback Portals**: Enabling voters to share ideas, ask questions, and provide feedback through an accessible digital platform.  
-- **Data-Driven Town Halls**: Using insights from digital engagement to shape the topics and priorities of our in-person and virtual events.  
+- **AI 기반 감정 분석**: 유권자의 우려를 이해하고 새로운 문제에 대응하기 위해 실시간으로 공공 감정을 추적합니다.  
+- **커뮤니티 피드백 포털**: 유권자가 아이디어를 공유하고 질문을 하며 접근 가능한 디지털 플랫폼을 통해 피드백을 제공할 수 있도록 합니다.  
+- **데이터 기반 타운홀**: 디지털 참여에서 얻은 통찰력을 사용하여 대면 및 가상 이벤트의 주제와 우선 사항을 형성합니다.  
 
-These tools help us stay connected to the community and ensure that our campaign reflects the values and needs of the people we serve.
+이 도구들은 우리가 지역 사회와 연결되어 있도록 도와주며, 우리의 캠페인이 우리가 섬기는 사람들의 가치와 필요를 반영하도록 합니다.
 
-### 3. **Reaching Underserved Communities**
+### 3. **소외된 커뮤니티에 다가가기**
 
-Technology allows us to break down barriers that have traditionally excluded underserved communities from the political process. Our initiatives include:
+기술은 전통적으로 소외된 커뮤니티가 정치 과정에서 배제되는 장벽을 허물 수 있게 해줍니다. 우리의 이니셔티브에는 다음이 포함됩니다:
 
-- **Multilingual Digital Tools**: Ensuring that campaign materials, apps, and platforms are accessible in multiple languages.  
-- **Rural Connectivity Efforts**: Using the campaign to advocate for broadband expansion while providing offline tools to engage rural voters.  
-- **Community Tech Hubs**: Partnering with local organizations to create spaces where voters can access digital tools and resources.  
+- **다국어 디지털 도구**: 캠페인 자료, 앱 및 플랫폼이 여러 언어로 접근 가능하도록 보장합니다.  
+- **농촌 연결성 노력**: 캠페인을 통해 광대역 확장을 옹호하고 농촌 유권자와 소통할 수 있는 오프라인 도구를 제공합니다.  
+- **커뮤니티 기술 허브**: 지역 조직과 협력하여 유권자가 디지털 도구와 자원에 접근할 수 있는 공간을 만듭니다.  
 
-By prioritizing inclusivity, we’re building a movement that leaves no one behind.
+포용성을 우선시함으로써 우리는 누구도 뒤처지지 않는 운동을 구축하고 있습니다.
 
-### 4. **Empowering Volunteers and Teams**
+### 4. **자원봉사자와 팀의 역량 강화**
 
-Campaigns run on people power, and technology is helping us empower our volunteers and staff to do their best work. Key tools include:
+캠페인은 사람의 힘으로 운영되며, 기술은 자원봉사자와 직원이 최선을 다할 수 있도록 돕고 있습니다. 주요 도구는 다음과 같습니다:
 
-- **Volunteer Coordination Apps**: Streamlining communication and scheduling to make it easier for volunteers to get involved.  
-- **Digital Canvassing Tools**: Equipping volunteers with real-time data and talking points to make voter outreach more impactful.  
-- **Analytics Dashboards**: Providing our team with insights into voter engagement, allowing us to allocate resources where they’re needed most.  
+- **자원봉사자 조정 앱**: 자원봉사자가 참여하기 쉽게 소통과 일정을 간소화합니다.  
+- **디지털 캠페인 도구**: 자원봉사자에게 실시간 데이터와 대화 포인트를 제공하여 유권자 접촉을 더 효과적으로 만듭니다.  
+- **분석 대시보드**: 유권자 참여에 대한 통찰력을 제공하여 자원을 가장 필요로 하는 곳에 배치할 수 있도록 합니다.  
 
-These tools ensure that every volunteer effort contributes to the campaign’s overall success.
+이 도구들은 모든 자원봉사 노력이 캠페인의 전반적인 성공에 기여하도록 보장합니다.
 
-### 5. **Transparency Through Technology**
+### 5. **기술을 통한 투명성**
 
-Trust is built on transparency, and technology allows us to bring voters into the process like never before. We’re using tools like:
+신뢰는 투명성에 기반하며, 기술은 유권자를 그 어느 때보다도 과정에 참여시킬 수 있게 해줍니다. 우리는 다음과 같은 도구를 사용하고 있습니다:
 
-- **GitHub for Policies**: Hosting policy drafts and updates on [GitHub](https://github.com/CastroForGeorgia), allowing voters to see changes and provide feedback.  
-- **Interactive Dashboards**: Sharing real-time progress on campaign goals and funding, ensuring accountability.  
-- **Open Data Initiatives**: Providing anonymized data insights to help communities understand the impact of campaign initiatives.  
+- **정책을 위한 GitHub**: 정책 초안과 업데이트를 [GitHub](https://github.com/CastroForGeorgia)에 호스팅하여 유권자가 변경 사항을 보고 피드백을 제공할 수 있도록 합니다.  
+- **인터랙티브 대시보드**: 캠페인 목표와 자금의 실시간 진행 상황을 공유하여 책임성을 보장합니다.  
+- **오픈 데이터 이니셔티브**: 캠페인 이니셔티브의 영향을 이해할 수 있도록 익명화된 데이터 통찰력을 제공합니다.  
 
-Transparency isn’t just a principle—it’s a practice, and technology makes it possible.
+투명성은 단순한 원칙이 아니라 실천이며, 기술이 이를 가능하게 합니다.
 
-## Why This Matters
+## 이것이 중요한 이유
 
-A campaign powered by technology isn’t just about efficiency—it’s about empowerment. It’s about giving voters the tools to engage, ensuring their voices shape the campaign, and creating a model for how technology can strengthen democracy.
+기술로 구동되는 캠페인은 단순한 효율성에 관한 것이 아닙니다. 그것은 권한 부여에 관한 것입니다. 유권자가 참여할 수 있는 도구를 제공하고, 그들의 목소리가 캠페인을 형성하도록 보장하며, 기술이 민주주의를 강화할 수 있는 모델을 만드는 것입니다.
 
-Technology allows us to listen better, act faster, and connect more deeply. It’s how we’re building a movement that’s not only future-ready but also firmly rooted in the values of accessibility, inclusion, and transparency.
+기술은 우리가 더 잘 듣고, 더 빠르게 행동하며, 더 깊이 연결될 수 있게 해줍니다. 이는 우리가 접근성, 포용성 및 투명성의 가치에 뿌리를 두고 있는 운동을 구축하는 방법입니다.
 
 ---
 
-**This is why I fight: to use technology to bring people together, to create a campaign that listens and learns, and to build a future where every voice is heard. Together, we can harness the power of innovation to drive meaningful change.**
+**이것이 제가 싸우는 이유입니다: 기술을 사용하여 사람들을 모으고, 듣고 배우는 캠페인을 만들며, 모든 목소리가 들리는 미래를 구축하기 위해서입니다. 함께 우리는 혁신의 힘을 활용하여 의미 있는 변화를 이끌어낼 수 있습니다.**

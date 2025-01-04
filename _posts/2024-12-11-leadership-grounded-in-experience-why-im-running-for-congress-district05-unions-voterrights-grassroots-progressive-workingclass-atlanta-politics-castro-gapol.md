@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Leadership Grounded in Experience: Why I’m Running for Congress"
-description: "My journey—shaped by personal struggles, professional achievements, and a commitment to service—has prepared me to lead. I’m running for Congress to bring a voice for the people who are too often left out of the conversation."
+title: "경험에 기반한 리더십: 제가 의회에 출마하는 이유"
+description: "개인적인 고난, 직업적 성취, 그리고 봉사에 대한 헌신으로 형성된 제 여정은 저를 이끌 준비가 되게 했습니다. 저는 대화에서 종종 소외되는 사람들을 위해 목소리를 내기 위해 의회에 출마합니다."
 date: 2024-12-11
 image: '/images/about-me-photo.jpg'
 
@@ -9,48 +9,48 @@ redirect_from:
   - /blog/why-im-running/
 ---
 
-Leadership isn’t about where you start—it’s about the journey that brings you to the moment where you’re ready to serve. My journey has been shaped by personal struggles, professional achievements, and an unwavering commitment to service. It’s a path that’s taught me resilience, empathy, and the importance of standing up for what’s right.
+리더십은 출발점이 아니라, 봉사할 준비가 된 순간까지의 여정에 관한 것입니다. 제 여정은 개인적인 고난, 직업적 성취, 그리고 변함없는 봉사에 대한 헌신으로 형성되었습니다. 이 길은 저에게 회복력, 공감, 그리고 옳은 일을 위해 일어서는 것의 중요성을 가르쳐 주었습니다.
 
-I’m running for Congress because I believe in a future where no one is left behind. I believe in leadership that listens, learns, and acts decisively to create opportunity and justice for all. Most importantly, I’m running to bring a voice for the people who are too often left out of the conversation.
+저는 아무도 소외되지 않는 미래를 믿기 때문에 의회에 출마합니다. 저는 경청하고, 배우고, 모두를 위한 기회와 정의를 창출하기 위해 단호하게 행동하는 리더십을 믿습니다. 가장 중요한 것은, 저는 대화에서 종종 소외되는 사람들을 위해 목소리를 내기 위해 출마한다는 것입니다.
 
-## A Journey Shaped by Struggles and Resilience
+## 고난과 회복력으로 형성된 여정
 
-Growing up in a working-class family, I experienced the challenges so many Americans face. I watched my mother work multiple jobs to provide for us, my sister navigate the struggles of being a teen mom, and my family wrestle with a system that often felt stacked against us. These experiences gave me a firsthand understanding of the barriers working families face and the grit it takes to overcome them.
+저는 노동자 계급 가정에서 자라며 많은 미국인들이 겪는 도전들을 경험했습니다. 어머니가 우리를 부양하기 위해 여러 직업을 가진 모습을 지켜보았고, 제 여동생이 십대 엄마로서의 어려움을 겪는 모습을 보았으며, 저희 가족이 종종 불리하게 느껴지는 시스템과 씨름하는 모습을 보았습니다. 이러한 경험들은 제가 노동 가족들이 직면하는 장벽과 그것을 극복하는 데 필요한 끈기를 직접 이해하게 해주었습니다.
 
-But those challenges also taught me something else: the importance of community, resilience, and the need for systems that work for everyone—not just the privileged few.
+그러나 이러한 도전들은 또한 저에게 중요한 교훈을 주었습니다: 공동체의 중요성, 회복력, 그리고 모두를 위한 시스템이 필요하다는 것입니다—특권을 가진 소수만을 위한 것이 아니라.
 
-## Building Solutions Through Experience
+## 경험을 통한 해결책 구축
 
-My professional journey as an engineer has been about more than solving technical problems—it’s been about understanding people, systems, and the challenges they face. I learned how to listen, how to ask the right questions, and how to design solutions that meet real needs. These lessons have shaped my approach to leadership.
+엔지니어로서의 제 직업적 여정은 단순히 기술적 문제를 해결하는 것 이상이었습니다—사람들, 시스템, 그리고 그들이 직면하는 도전을 이해하는 것이었습니다. 저는 경청하는 방법, 올바른 질문을 하는 방법, 그리고 실제 필요를 충족하는 해결책을 설계하는 방법을 배웠습니다. 이러한 교훈들은 제 리더십 접근 방식을 형성했습니다.
 
-Whether addressing economic inequality, housing insecurity, or systemic injustice, I approach every challenge with the same mindset: listen to the people impacted, understand the root causes, and build solutions that create lasting change.
+경제적 불평등, 주거 불안정, 또는 체계적 불의 문제를 다루든, 저는 모든 도전에 대해 같은 마음가짐으로 접근합니다: 영향을 받는 사람들의 이야기를 듣고, 근본 원인을 이해하며, 지속적인 변화를 만드는 해결책을 구축하는 것입니다.
 
-## A Commitment to Service
+## 봉사에 대한 헌신
 
-Service has always been at the heart of my journey. From advocating for immigrant families to fighting for equitable education and housing, I’ve worked to ensure that every voice is heard and every person has the opportunity to thrive. My commitment to service is grounded in the belief that leadership is about empowering others—not holding power for its own sake.
+봉사는 항상 제 여정의 중심에 있었습니다. 이민자 가족을 위한 옹호에서부터 공정한 교육과 주거를 위한 싸움까지, 저는 모든 목소리가 들리고 모든 사람이 번영할 기회를 가질 수 있도록 노력해왔습니다. 제 봉사에 대한 헌신은 리더십이 다른 사람들을 권한 부여하는 것—자신을 위한 권력을 유지하는 것이 아니라는 믿음에 뿌리를 두고 있습니다.
 
-This commitment is why I’m running for Congress. I believe that real leadership isn’t about talking over people—it’s about creating a platform for them to be heard.
+이 헌신이 바로 제가 의회에 출마하는 이유입니다. 저는 진정한 리더십이 사람들을 무시하는 것이 아니라, 그들이 들릴 수 있는 플랫폼을 만드는 것이라고 믿습니다.
 
-## Bringing a Voice for the Overlooked
+## 소외된 사람들을 위한 목소리
 
-Too many people in our communities feel unheard, unseen, and left behind. Whether it’s working families struggling to make ends meet, immigrants navigating an unjust system, or students fighting for a fair shot at success, their voices are too often ignored by those in power. I’m running to change that.
+우리 커뮤니티의 너무 많은 사람들이 들리지 않고, 보이지 않으며, 소외된 느낌을 받고 있습니다. 생계를 유지하기 위해 고군분투하는 노동 가족이든, 불공정한 시스템을 헤쳐 나가는 이민자든, 성공을 위한 공정한 기회를 위해 싸우는 학생이든, 그들의 목소리는 권력을 가진 사람들에 의해 너무 자주 무시됩니다. 저는 이를 바꾸기 위해 출마합니다.
 
-A people-centered campaign means putting those voices at the forefront. It means listening to the needs of our community and translating those needs into bold, actionable policies that uplift everyone.
+사람 중심의 캠페인은 이러한 목소리를 최전선에 두는 것을 의미합니다. 이는 우리 커뮤니티의 필요를 경청하고, 그 필요를 모두를 고양시키는 대담하고 실행 가능한 정책으로 번역하는 것을 의미합니다.
 
-## My Vision for Leadership
+## 리더십에 대한 나의 비전
 
-I believe in leadership that:
+저는 다음과 같은 리더십을 믿습니다:
 
-- **Listens First**: Engaging directly with the people impacted by decisions to ensure their needs shape the policies we create.  
-- **Acts Boldly**: Fighting for transformative solutions, from universal healthcare to affordable housing, that address systemic barriers and create opportunity for all.  
-- **Builds Coalitions**: Bringing people together across differences to create solutions that reflect our shared humanity.  
+- **먼저 경청하기**: 결정의 영향을 받는 사람들과 직접 소통하여 그들의 필요가 우리가 만드는 정책에 반영되도록 합니다.  
+- **대담하게 행동하기**: 보편적 의료 서비스에서부터 저렴한 주거에 이르기까지 체계적 장벽을 해결하고 모두를 위한 기회를 창출하는 변혁적 해결책을 위해 싸웁니다.  
+- **연합 구축하기**: 차이를 넘어 사람들을 모아 우리의 공동 인류를 반영하는 해결책을 만듭니다.  
 
-My vision for leadership is rooted in experience and action. It’s about creating systems that reflect the values of equity, justice, and opportunity for everyone.
+저의 리더십 비전은 경험과 행동에 뿌리를 두고 있습니다. 이는 모두를 위한 공정성, 정의, 그리고 기회의 가치를 반영하는 시스템을 만드는 것입니다.
 
-## Why This Matters
+## 왜 이것이 중요한가
 
-We’re at a pivotal moment. The challenges we face—economic inequality, climate change, systemic injustice—require leaders who are ready to act boldly and decisively. My journey has prepared me to be that leader, and I’m ready to bring my experience, my values, and my commitment to service to Congress.
+우리는 중대한 순간에 있습니다. 우리가 직면한 도전—경제적 불평등, 기후 변화, 체계적 불의—은 대담하고 단호하게 행동할 준비가 된 리더를 필요로 합니다. 제 여정은 저를 그 리더로 준비시켰고, 저는 제 경험, 가치, 그리고 봉사에 대한 헌신을 의회에 가져갈 준비가 되어 있습니다.
 
 ---
 
-**This is why I’m running: to bring a voice for the overlooked, to create systems that work for everyone, and to lead with the empathy and resilience my journey has taught me. Together, we can build a future that reflects the strength of our communities and the power of our shared determination.**
+**이것이 제가 출마하는 이유입니다: 소외된 사람들을 위한 목소리를 내고, 모두를 위한 시스템을 만들고, 제 여정이 가르쳐 준 공감과 회복력으로 이끌기 위해서입니다. 함께 우리는 우리 커뮤니티의 힘과 우리의 공동 결단의 힘을 반영하는 미래를 구축할 수 있습니다.**

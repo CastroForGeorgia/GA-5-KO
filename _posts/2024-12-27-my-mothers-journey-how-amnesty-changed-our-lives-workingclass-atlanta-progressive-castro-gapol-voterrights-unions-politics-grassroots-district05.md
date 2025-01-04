@@ -1,50 +1,50 @@
 ---
 layout: post
-title: "My Mother’s Journey: How Amnesty Changed Our Lives"
-description: "My mother’s path to citizenship through Reagan’s Amnesty program didn’t just change her life—it set the foundation for my own opportunities. Her determination to create a better future inspires my fight for policies that honor immigrants and uplift families."
+title: "어머니의 여정: 어떻게 망명 프로그램이 우리의 삶을 바꿨는가"
+description: "레이건의 망명 프로그램을 통해 시민권을 얻은 어머니의 길은 그녀의 삶을 바꿨을 뿐만 아니라, 제 기회에 대한 토대를 마련했습니다. 더 나은 미래를 만들고자 하는 그녀의 결단은 이민자를 존중하고 가족을 지지하는 정책을 위한 저의 싸움에 영감을 줍니다."
 date: 2024-12-27 00:00:00 +0001
 image: '/images/immigration-policy-header.webp'
 
 redirect_from:
   - /2025-01-01-mothers-journey-amnesty/
 ---
-For me, immigration is more than a policy debate—it’s a deeply personal story. It’s the story of my mother, a courageous woman who risked everything to give her family a better life. Her journey didn’t just change her life; it changed mine. It gave me the opportunities that have shaped who I am today and fuels my fight for policies that honor the dignity of immigrants and uplift working families.
+저에게 이민은 단순한 정책 논의가 아닙니다. 그것은 깊이 개인적인 이야기입니다. 그것은 가족에게 더 나은 삶을 주기 위해 모든 것을 걸었던 용감한 여성인 제 어머니의 이야기입니다. 그녀의 여정은 그녀의 삶을 바꿨을 뿐만 아니라, 제 삶도 바꿨습니다. 그것은 오늘날의 저를 형성한 기회를 주었고, 이민자의 존엄성을 존중하고 일하는 가족을 지지하는 정책을 위한 저의 싸움에 연료를 공급합니다.
 
-## A Leap of Faith
+## 믿음의 도약
 
-My mother came to this country with nothing but grit and a dream. Like millions of undocumented immigrants, she faced the daily challenges of living in the shadows—working tirelessly, sacrificing endlessly, and enduring the uncertainty of what tomorrow might bring. Despite these hardships, she never lost sight of her goal: to create a better future for her family.
+제 어머니는 오직 끈기와 꿈만을 가지고 이 나라에 왔습니다. 수백만 명의 불법 이민자들처럼, 그녀는 그림자 속에서 살아가는 일상의 도전에 직면했습니다. 끊임없이 일하고, 끝없는 희생을 감수하며, 내일이 가져올 불확실성을 견뎌야 했습니다. 이러한 어려움에도 불구하고, 그녀는 가족을 위한 더 나은 미래를 만들겠다는 목표를 잃지 않았습니다.
 
-Her determination paid off, when the Reagan-era Amnesty program gave her a chance to step out of the shadows and onto a path to citizenship. That moment was a turning point—not just for her but for our entire family.
+그녀의 결단은 결실을 맺었습니다. 레이건 시대의 망명 프로그램 덕분에 그녀는 그림자에서 벗어나 시민권을 향한 길에 나설 기회를 얻었습니다. 그 순간은 전환점이었습니다. 그녀만이 아니라 우리 가족 전체를 위한 것이었습니다.
 
-## The Power of Opportunity
+## 기회의 힘
 
-With legal status, my mother’s life changed almost overnight. She no longer had to live in fear of being separated from her children. She was able to buy her first home, providing us with the stability and security we’d never had before. She could pursue better opportunities, and for the first time, dream about a future not defined by survival but by growth and possibility.
+합법적인 신분을 얻으면서, 제 어머니의 삶은 거의 하룻밤 사이에 변했습니다. 그녀는 더 이상 자녀와 분리될까 두려워할 필요가 없었습니다. 그녀는 처음으로 집을 구입할 수 있었고, 우리에게는 그동안 누리지 못했던 안정과 안전을 제공했습니다. 그녀는 더 나은 기회를 추구할 수 있었고, 처음으로 생존이 아닌 성장과 가능성으로 정의된 미래에 대해 꿈꿀 수 있었습니다.
 
-Her journey is proof that when we give people a chance—when we create pathways to legal status and citizenship—we unlock their potential to contribute, to thrive, and to build a better future for themselves and their communities.
+그녀의 여정은 우리가 사람들에게 기회를 줄 때—합법적인 신분과 시민권으로 가는 길을 만들 때—그들의 잠재력을 발휘하고, 번영하며, 자신과 지역사회를 위한 더 나은 미래를 구축할 수 있음을 증명합니다.
 
-## The Legacy of Her Determination
+## 그녀의 결단의 유산
 
-My mother’s story isn’t just a testament to her grit; it’s a reminder of the power of humane immigration policies. Without Amnesty, her story—and mine—might have turned out very differently. I wouldn’t have had the chance to pursue an education, to grow into a career that I love, or to stand here today, running for Congress to fight for families like ours.
+제 어머니의 이야기는 그녀의 끈기에 대한 증언일 뿐만 아니라, 인도적인 이민 정책의 힘을 일깨워줍니다. 망명이 없었다면, 그녀의 이야기—그리고 제 이야기—는 매우 다르게 전개되었을 것입니다. 저는 교육을 추구할 기회를 얻지 못했을 것이고, 사랑하는 직업으로 성장할 수 없었을 것이며, 오늘 여기에서 가족을 위해 싸우기 위해 의회에 출마할 수 없었을 것입니다.
 
-Her determination inspires me every day. It’s why I’m committed to policies that reflect the values of compassion, opportunity, and justice. It’s why I fight for an immigration system that prioritizes family unity, provides pathways to citizenship, and rejects the inhumanity of detention camps and mass deportations.
+그녀의 결단은 매일 저에게 영감을 줍니다. 그래서 저는 연민, 기회, 정의의 가치를 반영하는 정책에 헌신하고 있습니다. 가족의 단합을 우선시하고, 시민권으로 가는 길을 제공하며, 구금소와 대규모 추방의 비인도성을 거부하는 이민 시스템을 위해 싸웁니다.
 
-## Why I Fight for Immigration Reform
+## 왜 이민 개혁을 위해 싸우는가
 
-We can’t ignore the realities facing millions of undocumented immigrants in our country today. Like my mother, these individuals work hard, pay taxes, and contribute to our communities. But too many live in fear, caught in a system that punishes rather than uplifts.
+오늘날 우리나라에서 수백만 명의 불법 이민자들이 직면한 현실을 무시할 수 없습니다. 제 어머니처럼, 이들은 열심히 일하고 세금을 내며 우리 지역 사회에 기여하고 있습니다. 그러나 너무 많은 사람들이 두려움 속에 살고 있으며, 그들을 끌어내리기보다는 지지해야 하는 시스템에 갇혀 있습니다.
 
-I believe we need bold, humane immigration reform that puts people first. Here’s what I’m fighting for:
+저는 사람을 우선시하는 대담하고 인도적인 이민 개혁이 필요하다고 믿습니다. 제가 싸우고 있는 것은 다음과 같습니다:
 
-- **Amnesty Programs**: Just as my mother’s life was transformed, so too can the lives of millions of undocumented immigrants today. A clear, fair pathway to citizenship is the right thing to do for families and for our nation.
-- **Family Unity**: No family should have to live in fear of being separated. Policies must prioritize keeping loved ones together.
-- **Economic Opportunity**: Integrating immigrants into our economy benefits everyone. It strengthens our workforce, drives innovation, and builds thriving communities.
-- **An End to Detention Camps**: We must replace punitive systems with humane, community-based solutions that respect the dignity of all individuals.
+- **망명 프로그램**: 제 어머니의 삶이 변화했듯이, 오늘날 수백만 명의 불법 이민자들의 삶도 변화할 수 있습니다. 명확하고 공정한 시민권으로 가는 길은 가족과 우리 국가를 위해 옳은 일입니다.
+- **가족 단합**: 어떤 가족도 분리될까 두려워해서는 안 됩니다. 정책은 사랑하는 사람들을 함께 지키는 것을 우선시해야 합니다.
+- **경제적 기회**: 이민자를 우리 경제에 통합하는 것은 모두에게 이익이 됩니다. 이는 우리의 노동력을 강화하고, 혁신을 촉진하며, 번영하는 지역 사회를 구축합니다.
+- **구금소의 종식**: 우리는 처벌적인 시스템을 인도적이고 지역 사회 기반의 해결책으로 대체해야 하며, 모든 개인의 존엄성을 존중해야 합니다.
 
-## A Future Built on Compassion
+## 연민에 기반한 미래
 
-My mother’s journey taught me that when we invest in people, we all win. Her story is a testament to the power of policies rooted in compassion and opportunity. It’s a reminder that behind every statistic is a family, a dream, and a future waiting to be built.
+제 어머니의 여정은 우리가 사람에게 투자할 때 모두가 이기는 법을 가르쳐 주었습니다. 그녀의 이야기는 연민과 기회에 뿌리를 둔 정책의 힘을 증명합니다. 통계 뒤에는 항상 가족, 꿈, 그리고 세워질 미래가 기다리고 있다는 것을 상기시켜 줍니다.
 
-As I fight for policies that uplift families and honor immigrants, I carry her determination with me. I carry her hope for a better future. And I carry the belief that together, we can create a nation where everyone has the chance to thrive.
+가족을 지지하고 이민자를 존중하는 정책을 위해 싸우면서, 저는 그녀의 결단을 마음에 담고 있습니다. 더 나은 미래에 대한 그녀의 희망을 지니고 있습니다. 그리고 함께라면 모든 사람이 번영할 수 있는 국가를 만들 수 있다는 믿음을 가지고 있습니다.
 
 ---
 
-**This is why I fight. This is why I’m running. And this is the vision I’m committed to delivering—for families like mine and for the future we all deserve.**
+**이것이 제가 싸우는 이유입니다. 이것이 제가 출마하는 이유입니다. 그리고 이것이 제가 가족과 우리 모두가 마땅히 누려야 할 미래를 위해 실현하고자 하는 비전입니다.**
