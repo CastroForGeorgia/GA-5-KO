@@ -1,101 +1,96 @@
 #-------------------------------
-# Site Settings
+# 사이트 설정
 title: CastroForGeorgia
-logo: '/images/logo.png' # You can add own logo. For example '/images/logo.png'.
+logo: '/images/logo.png' # 로고를 추가할 수 있습니다. 예: '/images/logo.png'.
 logo_dark: '/images/logo.png'
-description: Andres Castro, a champion for the people in Georgia's 5th Congressional District. 
-color_scheme: auto # You can choose three modes auto, light, and dark. By default, the auto mode is set, which means the user can choose the light or dark mode themself.
-
+description: 조지아 제5선거구에서 사람들을 위해 싸우는 안드레스 카스트로.
+color_scheme: auto # 세 가지 모드(auto, light, dark) 중 선택 가능합니다. 기본값은 auto로 설정되어 있으며, 사용자가 light 또는 dark 모드를 스스로 선택할 수 있습니다.
 
 #-------------------------------
-# Navigation Settings
+# 내비게이션 설정
 menu_settings:
   menu_items:
-    - title: 'Home'
+    - title: '홈'
       url: '/'
-    - title: 'About'
+    - title: '소개'
       url: '/about/'
-    - title: "Why I'm Running"
+    - title: "출마 이유"
       url: '/blog/leadership-grounded-in-experience-why-im-running-for-congress-district05-unions-voterrights-grassroots-progressive-workingclass-atlanta-politics-castro-gapol'
-    - title: 'Policies'
+    - title: '정책'
       url: '/projects/'
-    - title: 'Blog'
+    - title: '블로그'
       url: '/blog/'
-    - title: 'Contact'
+    - title: '연락하기'
       url: 'https://actionnetwork.org/forms/connect-with-andres-share-your-vision'
 
-
 #-------------------------------
-# Author Settings
+# 작성자 설정
 author:
-  author_name: Andres Castro
+  author_name: 안드레스 카스트로
   author_avatar: '/images/about-me-photo-zoom.jpg'
 
-
 #-------------------------------
-# Hero Settings
+# 히어로 설정
 hero:
   enable: true
-  hero_role: "Candidate for U.S. House (GA-05) ∙ Fighting for working families, affordable housing, and economic dignity"
-  hero_title: "Hi! I’m Andres <img src=\"/images/about-me-photo-zoom.jpg\" alt=\"Andres Castro Picture\" loading=\"lazy\"> <br> Fighting for Georgia's 5th District"
-  hero_description: "Together, we can build a future that works for everyone—where equity, justice, and opportunity are more than promises, they’re realities. Let’s create meaningful change for Georgia’s working families."
-  hero_button_text: "Join the Movement"
+  hero_role: "미국 하원의원 후보 (조지아 제5선거구) ∙ 노동 가정, 주택 보급, 경제적 존엄성을 위해 싸웁니다"
+  hero_title: "안녕하세요! 저는 안드레스입니다 <img src=\"/images/about-me-photo-zoom.jpg\" alt=\"Andres Castro Picture\" loading=\"lazy\"> <br> 조지아 제5선거구를 위해 싸웁니다"
+  hero_description: "함께라면 모두를 위한 미래를 만들 수 있습니다—공정, 정의, 기회가 약속이 아니라 현실이 되는 미래. 조지아의 노동 가정을 위한 의미 있는 변화를 만들어갑시다."
+  hero_button_text: "운동에 동참하세요"
   hero_button_link: "https://actionnetwork.org/forms/connect-with-andres-share-your-vision"
 
 #-------------------------------
-# Projects Section Settings
+# 프로젝트 섹션 설정
 projects:
   enable: true
-  projects_title: Policies
-  projects_description: Explore our vision for a fairer, more just Georgia’s 5th District. Together, we’ll build a thriving, equitable future.
-
+  projects_title: 정책
+  projects_description: 조지아 제5선거구의 더 공정하고 정의로운 비전을 탐구하세요. 함께라면 번영하고 공정한 미래를 만들어갈 수 있습니다.
 
 #-------------------------------
-# Blog Section Settings
+# 블로그 섹션 설정
 blog:
   enable: true
-  blog_title: Blog
-  blog_description: Let’s build a future that works for all of us.
+  blog_title: 블로그
+  blog_description: 우리 모두를 위한 미래를 함께 만들어갑시다.
 
 #-------------------------------
-# About Section Settings
+# 소개 섹션 설정
 about:
   enable: true
   about_image: "/images/about-me-photo.jpg"
-  about_title: "Together for Change"
-  about_description: "Let’s build a future where every family in Georgia’s 5th District has access to opportunity, equity, and justice. Join me in fighting for bold solutions that uplift working families, protect civil rights, and create a government that truly works for all of us."
-
+  about_title: "변화를 위해 함께"
+  about_description: "조지아 제5선거구의 모든 가정이 기회와 공정, 정의에 접근할 수 있는 미래를 만들어갑시다. 노동 가정을 돕고, 시민권을 보호하며, 모두를 위해 제대로 작동하는 정부를 만드는 과감한 해결책을 위해 저와 함께하세요."
 
 #-------------------------------
-# Faq (Frequently Asked Questions) Settings
+# FAQ(자주 묻는 질문) 설정
 faq:
   enable: true
-  faq_title: "Need Some Answers?"
-  faq_description: "Get to know Andres Castro and his commitment to creating a fairer, more inclusive community in Georgia's 5th Congressional District."
+  faq_title: "궁금한 점이 있나요?"
+  faq_description: "조지아 제5선거구에서 더 공정하고 포괄적인 지역사회를 만들기 위해 노력하는 안드레스 카스트로와 그의 헌신에 대해 알아보세요."
   faq_items:
-    - title: "What motivated Andres Castro to run for office?"
-      description: "Andres Castro was motivated to run out of frustration with the current Democratic leadership, which he believes has stopped prioritizing the needs of the people. He sees leaders unwilling to listen, slow to act, and compromising on the promises made to working-class families. Andres is stepping up to provide bold, uncompromising leadership that puts the residents of Georgia’s 5th Congressional District first."
+    - title: "안드레스 카스트로가 출마를 결심한 계기는 무엇인가요?"
+      description: "안드레스 카스트로는 현 민주당 지도부가 더 이상 국민의 필요를 우선시하지 않는다는 좌절감에서 출마를 결심했습니다. 그는 주민들의 목소리를 듣지 않고 행동이 느리며, 노동 가정에 대한 약속을 타협하는 지도자들을 목격했습니다. 안드레스는 조지아 제5선거구 주민들을 우선시하는 과감하고 타협 없는 리더십을 제공하기 위해 나섰습니다."
 
-    - title: "Who is Andres Castro?"
-      description: "Andres Castro is a proud son of Metro Atlanta, with deep roots in Marietta, Powder Springs, and Atlanta. Growing up in poverty, he learned firsthand the struggles of working-class families. Through determination and hard work, Andres became a Staff Software Engineer, where he honed his expertise in leveraging technology to solve complex problems. Now, as a candidate for U.S. Representative in Georgia’s 5th Congressional District, Andres is focused on creating solutions for affordable housing, economic justice, and transparent governance, ensuring opportunity and equity for all."
+    - title: "안드레스 카스트로는 누구인가요?"
+      description: "안드레스 카스트로는 메트로 애틀랜타에서 태어나 마리에타, 파우더 스프링스, 애틀랜타에 깊은 뿌리를 두고 있습니다. 가난 속에서 자라며 노동 가정의 어려움을 직접 경험했습니다. 그는 결단력과 노력으로 스태프 소프트웨어 엔지니어가 되어 복잡한 문제를 해결하는 기술을 연마했습니다. 이제 그는 조지아 제5선거구의 미국 하원의원 후보로서, 노동 가정을 돕고, 경제적 정의를 이루며, 투명한 통치를 보장하는 해결책을 제시하는 데 주력하고 있습니다."
 
-    - title: "What are Andres Castro's main policy priorities?"
-      description: "Andres Castro’s priorities include bold solutions to address systemic inequalities: affordable housing through programs like The Workers’ Housing Guarantee, universal healthcare to ensure access for all, automation-aware job reskilling programs, and corporate accountability to hold big businesses to fair wage and tax standards. With his technical background, Andres also champions ethical AI and innovative, equitable solutions to empower workers and communities."
+    - title: "안드레스 카스트로의 주요 정책 우선순위는 무엇인가요?"
+      description: "안드레스 카스트로의 우선순위는 시스템적 불평등을 해결하기 위한 과감한 해결책입니다: 노동자의 주택 보장 프로그램을 통한 주택 보급, 모두를 위한 보편적 의료, 자동화에 대비한 직업 재교육 프로그램, 그리고 대기업을 공정한 임금과 세금 기준에 맞게 책임지게 만드는 기업 책임 강화. 기술적 배경을 바탕으로 안드레스는 윤리적인 AI와 노동자와 지역사회를 지원하는 혁신적이고 공정한 해결책을 지지합니다."
 
-    - title: "How can supporters get involved with Andres Castro's campaign?"
-      description: "Supporters can get involved by volunteering for canvassing, phone banking, and organizing events, attending town halls and community meetings, and sharing campaign messages across social media platforms. You can also subscribe to the campaign newsletter to stay informed and take action. Your support and participation are critical to driving meaningful change for Georgia's 5th Congressional District."
+    - title: "안드레스 카스트로의 캠페인에 지지자로서 어떻게 참여할 수 있나요?"
+      description: "캠페인 메시지를 소셜 미디어에서 공유하고, 캠페인 뉴스레터를 구독해 정보를 얻으며 행동에 나서주세요. 조지아 제5선거구에 의미 있는 변화를 이끄는 데 있어 여러분의 지지와 참여가 중요합니다."
 
 #-------------------------------
-# Social Links
+# 소셜 링크
 social:
 - {icon: "fa-brands fa-instagram", name: "Instagram", link: "https://www.instagram.com/castroforgeorgia/"}
 - {icon: "fa-brands fa-github", name: "Github", link: "https://github.com/CastroForGeorgia"}
 - {icon: "fa-brands fa-bluesky", name: "Bluesky", link: "https://bsky.app/profile/castroforgeorgia.bsky.social"}
 - {icon: "fa-brands fa-huggingface", name: "Huggingface", link: "https://huggingface.co/CastroForGeorgia"}
 
-# Example of adding a new link to the footer - {icon: "fa-brands fa-mastodon", name: "Mastodon", link: "https://mastodon.social"}
-# Other icons can be found at https://fontawesome.com/icons
+# 푸터에 새 링크 추가 예시 - {icon: "fa-brands fa-mastodon", name: "Mastodon", link: "https://mastodon.social"}
+# 다른 아이콘은 https://fontawesome.com/icons 에서 찾을 수 있습니다.
 
 #-------------------------------
-# Google Analytics
+# 구글 애널리틱스
 google-analytics: G-8XLD5HNY8Q
