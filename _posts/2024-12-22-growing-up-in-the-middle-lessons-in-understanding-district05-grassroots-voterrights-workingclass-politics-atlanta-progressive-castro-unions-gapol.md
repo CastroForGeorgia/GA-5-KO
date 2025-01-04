@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Growing Up in the Middle: Lessons in Understanding"
-description: "I grew up navigating the space between cultures, identities, and ideologies. This experience taught me to listen, empathize, and build bridges. It’s this understanding that drives my belief in leadership that unites rather than divides."
+title: "중간에서 성장하기: 이해의 교훈"
+description: "나는 문화, 정체성, 이데올로기 사이의 공간을 탐색하며 성장했다. 이 경험은 나에게 경청하고, 공감하며, 다리를 놓는 법을 가르쳐 주었다. 이러한 이해는 나의 분열이 아닌 통합을 지향하는 리더십에 대한 믿음을 이끌어낸다."
 date: 2024-12-22
 image: '/images/civil-rights-equality.webp'
 
@@ -9,42 +9,42 @@ redirect_from:
   - /2025-01-01-growing-up-in-the-middle/
 ---
 
-I’ve often felt like I grew up in the middle—between cultures, identities, and ideologies. My family’s roots in Mexico and my wife’s family that spans both feminists and conservative Trump-supporting members created a dynamic, often challenging environment.
+나는 종종 중간에서 성장한 것 같은 기분을 느꼈다—문화, 정체성, 이데올로기 사이에서. 멕시코에 뿌리를 두고 있는 내 가족과, 페미니스트와 보수적인 트럼프 지지자로 구성된 아내의 가족은 역동적이고 종종 도전적인 환경을 만들어냈다.
 
-This wasn’t a childhood where everything fit neatly into boxes. It was one of constant negotiation, where I had to listen, empathize, and navigate opposing views with care. While this sometimes left me feeling like I didn’t fully belong anywhere, it also gave me a gift: the ability to see the world from many perspectives.
+이것은 모든 것이 깔끔하게 정리된 상자에 들어가는 어린 시절이 아니었다. 끊임없는 협상이 필요했던 시기로, 나는 경청하고, 공감하며, 상반된 견해를 조심스럽게 탐색해야 했다. 때때로 이로 인해 어디에도 완전히 속하지 못하는 기분이 들기도 했지만, 여러 관점에서 세상을 바라볼 수 있는 능력이라는 선물도 주었다.
 
-## Living Between Cultures
+## 문화 사이에서의 삶
 
-On one hand, my family’s Mexican heritage was a source of pride, tradition, and community. On the other, I grew up trying to balance this with the experience of living in America—a place that often treated immigrants as outsiders. I gained a deeper understanding of what it means to live on the margins, to fight for recognition, and to find resilience in struggle.
+한편으로, 내 가족의 멕시코 유산은 자부심, 전통, 공동체의 원천이었다. 다른 한편으로는, 나는 미국에서 이민자로서 종종 외부인으로 대우받는 경험과 이를 조화롭게 유지하려고 노력하며 성장했다. 나는 주변부에서 살아가는 것이 무엇인지, 인정을 위해 싸우는 것이 무엇인지, 그리고 고난 속에서 회복력을 찾는 것이 무엇인지에 대한 깊은 이해를 얻었다.
 
-Each of these layers shaped my worldview. They taught me that people’s experiences aren’t simple or singular—they’re shaped by culture, history, and circumstances that run deep.
+이러한 각 층은 나의 세계관을 형성했다. 사람들의 경험은 단순하거나 단일하지 않으며, 문화, 역사, 그리고 깊은 뿌리를 가진 상황에 의해 형성된다는 것을 가르쳐 주었다.
 
-## Understanding Diverse Perspectives
+## 다양한 관점 이해하기
 
-It wasn’t just cultural divides I had to navigate. My wife’s family added another dimension to my understanding of the world. On one side, there were her feminists relatives and her gay uncles, who taught me about fighting for justice and equality. On the other side were her conservative Trump-supporting family members, who voiced concerns about tradition and stability in a rapidly changing world.
+내가 탐색해야 했던 것은 단순한 문화적 경계만이 아니었다. 아내의 가족은 나의 세계관에 또 다른 차원을 더했다. 한쪽에는 정의와 평등을 위해 싸우는 법을 가르쳐 준 페미니스트 친척들과 동성애자 삼촌들이 있었고, 다른 쪽에는 전통과 안정성에 대한 우려를 표명하는 보수적인 트럼프 지지자들이 있었다.
 
-Instead of dismissing these perspectives, I learned to listen. I didn’t always agree, but I tried to understand where they were coming from. I saw their fears, their frustrations, and—most importantly—their humanity.
+이러한 관점을 무시하는 대신, 나는 경청하는 법을 배웠다. 항상 동의하지는 않았지만, 그들이 어디에서 오는지를 이해하려고 노력했다. 나는 그들의 두려움, 좌절감, 그리고 가장 중요한 그들의 인간성을 보았다.
 
-This practice of listening and empathizing didn’t just help me survive family dinners; it shaped how I approach leadership. I’ve come to believe that the best solutions come from bringing people together, not pushing them apart. It’s about finding common ground without compromising on justice and equity.
+이러한 경청과 공감의 실천은 단순히 가족 저녁식사를 견디는 데 그치지 않고, 내가 리더십에 접근하는 방식을 형성했다. 나는 최선의 해결책이 사람들을 분리하는 것이 아니라 모으는 데서 나온다고 믿게 되었다. 이는 정의와 공평성을 타협하지 않으면서 공통의 기반을 찾는 것이다.
 
-## Leadership That Unites
+## 통합하는 리더십
 
-Growing up in the middle taught me that unity doesn’t mean uniformity. It means recognizing our shared humanity while respecting our differences. It means creating spaces where every voice is heard, even when those voices don’t agree.
+중간에서 성장한 경험은 통합이 균일성을 의미하지 않는다는 것을 가르쳐 주었다. 이는 우리의 공유된 인간성을 인식하면서도 차이를 존중하는 것을 의미한다. 서로 다른 목소리가 들리는 공간을 만드는 것이며, 그 목소리들이 동의하지 않더라도 말이다.
 
-In a world that often feels divided—by race, by class, by ideology—this perspective is more important than ever. It’s what drives my belief in leadership that prioritizes understanding over blame, dialogue over division, and collaboration over conflict.
+인종, 계급, 이데올로기에 의해 종종 분열된 세상에서, 이러한 관점은 그 어느 때보다 중요하다. 이는 이해를 우선시하고, 비난보다 대화를, 분열보다 협력을 중시하는 리더십에 대한 나의 믿음을 이끌어낸다.
 
-## Building Bridges, Not Walls
+## 벽이 아닌 다리 만들기
 
-When I look at the challenges we face as a country—economic inequality, systemic racism, climate change—I see problems that can’t be solved by one group alone. They require all of us to come together, to share our experiences, and to build solutions that work for everyone.
+우리나라가 직면한 도전—경제적 불평등, 체계적 인종차별, 기후 변화—를 바라볼 때, 나는 한 그룹만으로는 해결할 수 없는 문제들을 본다. 이 문제들은 우리 모두가 함께 모여 경험을 나누고, 모두에게 효과적인 해결책을 구축해야 한다.
 
-This isn’t easy work. It means sitting in the discomfort of disagreement, hearing out perspectives you might not like, and finding a path forward together. But it’s the only way we’ll build a future where everyone has a place.
+이 일은 쉽지 않다. 이는 불일치의 불편함 속에 앉아, 좋아하지 않을 수 있는 관점을 듣고, 함께 나아갈 길을 찾는 것을 의미한다. 그러나 이것이야말로 모든 사람이 자리를 가질 수 있는 미래를 만드는 유일한 방법이다.
 
-## Why This Matters
+## 왜 이것이 중요한가
 
-My experience of growing up in the middle isn’t unique. Millions of people navigate spaces where cultures, identities, and ideologies collide. What I’ve learned from these experiences is that our differences don’t have to divide us—they can make us stronger. 
+중간에서 성장한 나의 경험은 독특하지 않다. 수백만의 사람들이 문화, 정체성, 이데올로기가 충돌하는 공간을 탐색하고 있다. 이러한 경험에서 내가 배운 것은 우리의 차이가 우리를 분열시킬 필요가 없으며, 오히려 우리를 더 강하게 만들 수 있다는 것이다.
 
-Leadership isn’t about picking sides. It’s about building bridges. It’s about creating a world where everyone feels seen, heard, and valued. That’s the kind of leadership I believe in, and that’s the kind of leadership I’m committed to bringing to our community and our country.
+리더십은 편을 가르는 것이 아니다. 그것은 다리를 만드는 것이다. 모든 사람이 보이고, 들리고, 가치 있게 여겨지는 세상을 만드는 것이다. 이것이 내가 믿는 리더십의 형태이며, 우리 공동체와 나라에 가져오고자 하는 리더십이다.
 
 ---
 
-**Together, we can create a future that values understanding, empathy, and unity. Let’s build bridges—not walls.**
+**함께, 우리는 이해, 공감, 통합을 중시하는 미래를 만들 수 있다. 벽이 아닌 다리를 만들자.**

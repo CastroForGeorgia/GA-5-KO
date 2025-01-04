@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Why Technology is My Superpower"
-description: "My journey in tech, from solving complex coding problems to leading transformative projects, has equipped me to navigate systemic challenges with empathy and precision."
+title: "기술이 나의 슈퍼파워인 이유"
+description: "복잡한 코딩 문제를 해결하는 것부터 변화를 이끄는 프로젝트를 주도하는 것까지, 기술 분야에서의 나의 여정은 공감과 정밀함으로 체계적인 도전을 헤쳐 나갈 수 있도록 해주었습니다."
 date: 2024-12-07
 image: '/images/agi-header.webp'
 
@@ -9,40 +9,40 @@ redirect_from:
   - /2025-01-01-why-technology-is-my-superpower/
 ---
 
-Technology has always been more than a career for me—it’s been a way to solve problems, connect people, and create opportunities. From the first time I wrote a simple program to my work leading transformative projects, I’ve seen firsthand how technology can be a powerful tool for change. It’s taught me to think critically, act decisively, and always consider the human impact of the systems we build.
+기술은 항상 저에게 단순한 직업 이상의 의미였습니다. 그것은 문제를 해결하고 사람들을 연결하며 기회를 창출하는 방법이었습니다. 처음 간단한 프로그램을 작성했을 때부터 변화를 이끄는 프로젝트를 주도하는 일까지, 저는 기술이 어떻게 강력한 변화의 도구가 될 수 있는지를 직접 경험했습니다. 기술은 저에게 비판적으로 사고하고, 결단력 있게 행동하며, 우리가 구축하는 시스템의 인간적 영향을 항상 고려하도록 가르쳐 주었습니다.
 
-My background in engineering is more than just a set of technical skills—it’s my superpower. It’s what equips me to navigate systemic challenges with empathy and precision, bringing a problem-solver’s mindset to the issues that matter most to our communities.
+저의 공학 배경은 단순한 기술적 능력의 집합체가 아닙니다. 그것은 저의 슈퍼파워입니다. 그것은 제가 공감과 정밀함으로 체계적인 도전을 헤쳐 나갈 수 있도록 해주며, 우리 공동체에 가장 중요한 문제들에 대해 문제 해결자의 사고방식을 가져다줍니다.
 
-## The Journey from Coder to Leader
+## 코더에서 리더로의 여정
 
-When I started my journey in tech, it was all about the thrill of solving problems. Debugging code, optimizing systems, and building tools that made people’s lives easier gave me a sense of purpose and accomplishment. But as I grew in my career, I realized that technology wasn’t just about what you build—it’s about who you build it for.
+기술 분야에서의 여정을 시작했을 때, 모든 것은 문제를 해결하는 스릴에 관한 것이었습니다. 코드를 디버깅하고 시스템을 최적화하며 사람들의 삶을 더 쉽게 만드는 도구를 만드는 것은 저에게 목적과 성취감을 주었습니다. 그러나 경력이 쌓이면서 기술은 단순히 무엇을 만드는 것이 아니라, 누구를 위해 만드는 것인지에 대한 것임을 깨달았습니다.
 
-Leading projects for organizations like the **Baltimore Symphony Orchestra**, the **High Museum of Art**, and the **Seattle Symphony Orchestra** gave me a deep understanding of how technology could serve industries beyond Silicon Valley. I learned how nonprofits and arts organizations navigated limited resources and complex challenges, and I built tools that helped them thrive.
+**볼티모어 심포니 오케스트라**, **하이 뮤지엄 오브 아트**, **시애틀 심포니 오케스트라**와 같은 조직을 위한 프로젝트를 이끌면서, 기술이 실리콘 밸리를 넘어 다양한 산업에 어떻게 기여할 수 있는지를 깊이 이해하게 되었습니다. 비영리 단체와 예술 조직이 제한된 자원과 복잡한 도전을 어떻게 헤쳐 나가는지를 배우고, 그들이 번창할 수 있도록 돕는 도구를 만들었습니다.
 
-From there, my work expanded to include projects in healthcare and platforms that empower small businesses—industries where the stakes are high, and the impact is immediate. These experiences shaped my approach to leadership, showing me how to design solutions that prioritize people while addressing systemic inefficiencies.
+그 이후로 제 작업은 의료 분야와 소기업을 지원하는 플랫폼으로 확장되었습니다. 이들 산업은 이해관계가 크고 즉각적인 영향을 미치는 곳입니다. 이러한 경험은 저의 리더십 접근 방식을 형성하여, 사람을 우선시하면서도 체계적인 비효율성을 해결하는 솔루션을 설계하는 방법을 보여주었습니다.
 
-## Applying Tech to Systemic Challenges
+## 체계적인 도전에 기술 적용하기
 
-Technology isn’t just about writing code—it’s about understanding systems. It’s about identifying what’s broken, listening to the people affected, and building tools that create meaningful change. My engineering background has taught me to:
+기술은 단순히 코드를 작성하는 것이 아닙니다. 그것은 시스템을 이해하는 것입니다. 무엇이 잘못되었는지를 파악하고, 영향을 받는 사람들의 이야기를 듣고, 의미 있는 변화를 창출하는 도구를 만드는 것입니다. 저의 공학 배경은 저에게 다음과 같은 것을 가르쳐 주었습니다:
 
-- **Break Down Complex Problems**: Whether it’s debugging a program or addressing economic inequality, the key is to tackle challenges one step at a time while keeping the bigger picture in mind.  
-- **Design Human-Centered Solutions**: Technology is only effective when it serves real people. I approach every challenge by asking how it impacts those who are most vulnerable and how we can make systems more inclusive.  
-- **Iterate and Improve**: No solution is perfect on the first try. Just as I refine code, I believe in refining policies and systems based on feedback and real-world results.  
+- **복잡한 문제를 분해하기**: 프로그램을 디버깅하든 경제적 불평등을 해결하든, 핵심은 큰 그림을 염두에 두고 한 단계씩 도전하는 것입니다.  
+- **인간 중심의 솔루션 설계하기**: 기술은 실제 사람들을 위해 작동할 때만 효과적입니다. 저는 매 도전에 대해 가장 취약한 사람들에게 어떤 영향을 미치는지, 그리고 시스템을 더 포용적으로 만들기 위해 무엇을 할 수 있는지를 질문합니다.  
+- **반복하고 개선하기**: 첫 시도에서 완벽한 솔루션은 없습니다. 코드를 다듬는 것처럼, 저는 피드백과 현실 세계의 결과를 바탕으로 정책과 시스템을 개선하는 것을 믿습니다.  
 
-These principles guide how I approach the systemic challenges our communities face today—from housing insecurity to healthcare access to government accountability.
+이러한 원칙은 오늘날 우리 공동체가 직면한 체계적인 도전에 접근하는 방식을 안내합니다. 주거 불안정, 의료 접근성, 정부의 책임성 등 다양한 문제를 다루고 있습니다.
 
-## The Power of Empathy in Technology
+## 기술에서 공감의 힘
 
-While technology gives us incredible tools, it’s empathy that ensures we use them wisely. My work has taught me to look beyond the technical problem and consider the human experience. Whether it’s a family trying to find affordable housing or a small business owner navigating bureaucracy, the goal is always to make systems easier, fairer, and more effective.
+기술이 우리에게 놀라운 도구를 제공하지만, 그것을 현명하게 사용하는 것은 공감입니다. 저의 작업은 기술적 문제를 넘어 인간의 경험을 고려하도록 가르쳐 주었습니다. 저렴한 주택을 찾는 가족이든, 관료제를 헤쳐 나가는 소기업 소유자이든, 목표는 항상 시스템을 더 쉽게, 공정하게, 그리고 효과적으로 만드는 것입니다.
 
-This combination of technical expertise and human understanding is what sets technology apart as a tool for empowerment. It’s not just about innovation—it’s about creating solutions that uplift people and build stronger communities.
+기술적 전문성과 인간적 이해의 이 조합이 기술을 권한 부여의 도구로 만드는 것입니다. 혁신만이 아니라, 사람들을 고양시키고 더 강한 공동체를 구축하는 솔루션을 만드는 것이 중요합니다.
 
-## Why This Matters
+## 이것이 중요한 이유
 
-In Congress, I plan to bring this same mindset to leadership. Technology has taught me to think critically, act with precision, and always center the needs of the people I serve. Whether it’s using data to hold politicians accountable, building platforms like the **Mantle Platform** to connect people with resources, or designing policies that address systemic inequities, my goal is to use my superpower for good.
+의회에서 저는 이와 같은 사고방식을 리더십에 가져가고자 합니다. 기술은 저에게 비판적으로 사고하고, 정밀하게 행동하며, 제가 섬기는 사람들의 필요를 항상 중심에 두도록 가르쳐 주었습니다. 정치인을 책임지기 위해 데이터를 사용하든, 사람들을 자원과 연결하는 **Mantle Platform**과 같은 플랫폼을 구축하든, 체계적인 불평등을 해결하는 정책을 설계하든, 저의 목표는 저의 슈퍼파워를 선을 위해 사용하는 것입니다.
 
-We need leaders who understand how systems work—leaders who don’t just point out what’s broken but have the skills and vision to fix it. That’s what I bring to the table, and that’s why I’m fighting for a future where technology isn’t just a tool for the few but a resource for everyone.
+우리는 시스템이 어떻게 작동하는지를 이해하는 리더가 필요합니다. 단순히 무엇이 잘못되었는지를 지적하는 것이 아니라, 그것을 고칠 수 있는 기술과 비전을 가진 리더가 필요합니다. 그것이 제가 테이블에 가져오는 것이며, 기술이 소수의 도구가 아니라 모두를 위한 자원이 되는 미래를 위해 싸우는 이유입니다.
 
 ---
 
-**This is why I fight: to use technology as a force for empowerment, to bring a problem-solver’s mindset to leadership, and to build systems that work for everyone. Together, we can harness the power of innovation to create a better future for all.**
+**이것이 제가 싸우는 이유입니다: 기술을 권한 부여의 힘으로 사용하고, 리더십에 문제 해결자의 사고방식을 가져오며, 모두를 위한 시스템을 구축하기 위해서입니다. 함께 우리는 혁신의 힘을 활용하여 모두를 위한 더 나은 미래를 만들 수 있습니다.**

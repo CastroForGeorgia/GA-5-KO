@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Building Bridges Across Differences: Lessons from My Family"
-description: "My family, with its mix of progressive and conservative values, taught me the importance of listening and finding common ground. This ability to connect with people across divides shapes my approach to advocacy and leadership."
+title: "다양성 속에서 다리를 놓다: 내 가족에게서 배운 교훈"
+description: "진보적 가치와 보수적 가치가 혼합된 내 가족은 경청의 중요성과 공통점을 찾는 법을 가르쳐 주었습니다. 이러한 사람들과의 연결 능력은 나의 옹호 및 리더십 접근 방식을 형성합니다."
 date: 2024-12-24
 image: '/images/open-government-header.webp'
 
@@ -9,38 +9,38 @@ redirect_from:
   - /2025-01-01-building-bridges/
 ---
 
-Growing up in a family that spanned a wide spectrum of beliefs and values was both a challenge and a gift. On one side, I had relatives who were feminists queer advocates, and activists who fought for justice and equality. On the other, I had conservative family members, including staunch Trump supporters, who valued tradition and stability. The conversations weren’t always easy, but they were always meaningful.
+다양한 신념과 가치를 지닌 가족에서 자란 것은 도전이자 선물이었습니다. 한쪽에는 정의와 평등을 위해 싸우는 페미니스트, 성소수자 옹호자, 활동가들이 있었고, 다른 쪽에는 전통과 안정을 중시하는 강력한 트럼프 지지자들을 포함한 보수적인 가족이 있었습니다. 대화는 항상 쉽지 않았지만, 항상 의미 있었습니다.
 
-My family taught me one of the most important lessons I carry with me today: the power of listening and the importance of finding common ground. It’s a lesson that shapes how I approach advocacy, leadership, and the way I connect with people across divides.
+내 가족은 내가 오늘날까지 간직하고 있는 가장 중요한 교훈 중 하나를 가르쳐 주었습니다: 경청의 힘과 공통점을 찾는 것의 중요성입니다. 이는 내가 옹호, 리더십, 그리고 사람들과의 관계를 형성하는 방식에 큰 영향을 미칩니다.
 
-## A Family of Contrasts
+## 대조의 가족
 
-The differences in my family weren’t just ideological—they were deeply personal. One side of the dinner table might discuss the urgent need for reproductive rights or LGBTQ+ equality, while the other side expressed concerns about preserving traditional values and resisting rapid societal change. 
+우리 가족의 차이는 단순한 이념적 차이가 아니었습니다. 그것은 깊이 개인적인 것이었습니다. 저녁 식사 테이블의 한쪽에서는 생식권이나 LGBTQ+ 평등의 긴급한 필요성에 대해 논의하는 반면, 다른 쪽에서는 전통적 가치를 보존하고 급격한 사회 변화에 저항하는 것에 대한 우려를 표명했습니다.
 
-Rather than dividing us, these contrasts forced us to engage. We didn’t always agree, but we listened. We shared stories, we argued (sometimes passionately), and we found ways to stay connected despite our differences. It wasn’t about winning an argument—it was about understanding the people I loved.
+이러한 대조는 우리를 나누는 것이 아니라 참여하도록 강요했습니다. 우리는 항상 동의하지는 않았지만, 우리는 경청했습니다. 우리는 이야기를 나누고, 때로는 열정적으로 논쟁했으며, 우리의 차이에도 불구하고 연결된 상태를 유지할 방법을 찾았습니다. 그것은 논쟁에서 이기는 것이 아니라 내가 사랑하는 사람들을 이해하는 것이었습니다.
 
-## The Importance of Listening
+## 경청의 중요성
 
-What I’ve learned is that listening isn’t just a courtesy—it’s a tool for building trust. When you take the time to truly hear someone, you begin to understand the fears, hopes, and values that drive their beliefs. It doesn’t mean you have to agree, but it opens the door to empathy and connection.
+내가 배운 것은 경청이 단순한 예의가 아니라 신뢰를 구축하는 도구라는 것입니다. 누군가의 이야기를 진정으로 들으려는 시간을 가지면, 그들의 신념을 이끄는 두려움, 희망, 가치에 대해 이해하기 시작합니다. 동의해야 한다는 의미는 아니지만, 이는 공감과 연결의 문을 엽니다.
 
-This ability to listen and empathize has become a cornerstone of my leadership. Whether I’m speaking with a young activist fighting for climate action or a small business owner worried about government overreach, I approach every conversation with the goal of understanding—not judging.
+이런 경청과 공감의 능력은 나의 리더십의 초석이 되었습니다. 기후 행동을 위해 싸우는 젊은 활동가와 대화하든, 정부의 과도한 개입에 대해 걱정하는 소상공인과 대화하든, 나는 매 대화를 이해하는 것을 목표로 접근합니다—판단이 아니라.
 
-## Finding Common Ground
+## 공통점 찾기
 
-One of the greatest lessons from my family is that unity doesn’t mean uniformity. We don’t have to agree on every issue to find common ground. At the heart of our differences, I found shared values: a desire for safety, opportunity, and dignity for our families and communities. These shared values became the foundation for building bridges, both within my family and in the broader world.
+내 가족에게서 배운 가장 큰 교훈 중 하나는 통합이 균일성을 의미하지 않는다는 것입니다. 우리는 모든 문제에 대해 동의할 필요는 없지만, 공통점을 찾을 수 있습니다. 우리의 차이의 중심에서 나는 안전, 기회, 그리고 우리 가족과 공동체의 존엄성에 대한 열망이라는 공유된 가치를 발견했습니다. 이러한 공유된 가치는 내 가족 내에서 그리고 더 넓은 세상에서 다리를 놓는 기초가 되었습니다.
 
-In my advocacy, I prioritize finding solutions that reflect these shared values. I believe in crafting policies that uplift everyone—regardless of political affiliation—because real progress requires collaboration and a willingness to bridge divides.
+내 옹호 활동에서 나는 이러한 공유된 가치를 반영하는 해결책을 찾는 것을 우선시합니다. 나는 정치적 소속에 관계없이 모두를 고양시키는 정책을 만드는 것을 믿습니다—진정한 발전은 협력과 분열을 극복하려는 의지가 필요하기 때문입니다.
 
-## Building Bridges in Leadership
+## 리더십에서의 다리 놓기
 
-The lessons from my family go beyond personal relationships—they shape my approach to leadership. In a time when our society feels more divided than ever, we need leaders who can bring people together, who can focus on solutions instead of partisanship, and who understand that our differences are a source of strength, not division.
+내 가족에게서 배운 교훈은 개인적인 관계를 넘어섭니다—그것은 나의 리더십 접근 방식을 형성합니다. 우리 사회가 그 어느 때보다 더 분열된 느낌을 받는 시대에, 우리는 사람들을 하나로 모을 수 있는 리더가 필요합니다. 해결책에 집중하고, 우리의 차이가 분열이 아닌 힘의 원천임을 이해하는 리더가 필요합니다.
 
-Building bridges isn’t about compromise for the sake of appeasement—it’s about creating spaces where everyone feels heard and valued. It’s about crafting policies that address the root causes of our challenges and ensuring that every voice contributes to the solution.
+다리를 놓는 것은 단순히 타협을 위한 것이 아닙니다—모두가 경청받고 소중히 여겨지는 공간을 만드는 것입니다. 그것은 우리의 도전의 근본 원인을 다루는 정책을 만드는 것이며, 모든 목소리가 해결책에 기여하도록 보장하는 것입니다.
 
-## Why It Matters
+## 왜 이것이 중요한가
 
-Our country is at its best when we work together, not against each other. My family taught me that it’s possible to have hard conversations, to disagree, and still find ways to move forward. That’s the kind of leadership I strive to bring to public life—a leadership that listens, empathizes, and builds connections.
+우리 나라는 서로 협력할 때 가장 좋은 상태가 됩니다. 내 가족은 어려운 대화를 나누고, 동의하지 않더라도 앞으로 나아갈 방법을 찾는 것이 가능하다는 것을 가르쳐 주었습니다. 그것이 내가 공적 삶에 가져오고자 하는 리더십의 종류입니다—경청하고, 공감하며, 연결을 구축하는 리더십입니다.
 
 ---
 
-**This is why I fight: to bridge divides, to build a future that reflects our shared values, and to create a world where everyone—regardless of their beliefs—has the opportunity to thrive. Together, we can build bridges and create lasting change.**
+**이것이 내가 싸우는 이유입니다: 분열을 극복하고, 우리의 공유된 가치를 반영하는 미래를 구축하며, 모든 사람이—그들의 신념과 관계없이—번영할 기회를 갖는 세상을 만드는 것입니다. 함께 우리는 다리를 놓고 지속적인 변화를 만들어낼 수 있습니다.**

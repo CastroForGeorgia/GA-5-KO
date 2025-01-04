@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "What Coding Taught Me About People and Systems"
-description: "As an engineer, I don’t just see the lines of code—I try to understand the context: the deadlines, the culture, and the challenges of the person who wrote it. This perspective shapes how I tackle issues in society—with empathy, not blame, and a focus on fixing broken systems."
+title: "코딩이 사람과 시스템에 대해 가르쳐준 것"
+description: "엔지니어로서 저는 단순히 코드의 줄을 보는 것이 아니라, 그 배경을 이해하려고 합니다: 마감일, 문화, 그리고 그것을 작성한 사람의 도전 과제. 이러한 관점은 사회 문제를 다루는 방식에 영향을 미칩니다—비난이 아닌 공감으로, 부서진 시스템을 고치는 데 집중합니다."
 date: 2024-12-03
 image: '/images/agi-header.webp'
 
@@ -9,42 +9,42 @@ redirect_from:
   - /2025-01-01-coding-and-systems/
 ---
 
-When I first started coding, I thought it was all about writing perfect lines of logic—systems that worked exactly as intended with no bugs, no hiccups, and no errors. But as I gained more experience, I realized that coding isn’t just about the code. It’s about people—their ideas, their struggles, and the context in which the work is done.
+코딩을 처음 시작했을 때, 저는 완벽한 논리의 줄을 작성하는 것만이 전부라고 생각했습니다—버그도 없고, 문제도 없으며, 의도한 대로 정확히 작동하는 시스템. 하지만 경험이 쌓이면서, 코딩은 단순히 코드에 관한 것이 아니라는 것을 깨달았습니다. 그것은 사람들—그들의 아이디어, 그들의 고난, 그리고 작업이 이루어지는 맥락에 관한 것입니다.
 
-As an engineer, I’ve learned to approach broken systems with empathy, not blame. I’ve learned that before you can fix anything, you have to understand why it’s broken—what pressures shaped it, what constraints existed, and what challenges the person before you was trying to solve. These lessons go far beyond coding; they shape how I approach problems in society, from economic inequality to systemic injustice.
+엔지니어로서 저는 부서진 시스템에 대해 비난이 아닌 공감으로 접근하는 법을 배웠습니다. 무엇이 부서졌는지를 이해하기 전에, 왜 그것이 부서졌는지를 알아야 한다는 것을 배웠습니다—어떤 압력이 그것을 형성했는지, 어떤 제약이 있었는지, 그리고 이전의 사람이 해결하려고 했던 도전 과제가 무엇인지. 이러한 교훈은 코딩을 넘어섭니다; 그것은 경제적 불평등에서부터 체계적 불의에 이르기까지 사회 문제를 다루는 방식에 영향을 미칩니다.
 
-## The Story Behind the Code
+## 코드 뒤에 숨은 이야기
 
-Every line of code tells a story. Sometimes it’s a story of tight deadlines, where shortcuts were taken to ship a product on time. Sometimes it’s a story of a team struggling with limited resources, doing their best to meet impossible expectations. And sometimes it’s a story of a person learning as they go, trying their hardest to solve a problem with the tools they have.
+각 코드의 줄은 이야기를 담고 있습니다. 때로는 마감일이 촉박해 제품을 제때 배송하기 위해 지름길을 택한 이야기일 수 있습니다. 때로는 한정된 자원으로 불가능한 기대를 충족시키기 위해 최선을 다하는 팀의 이야기일 수 있습니다. 그리고 때로는 주어진 도구로 문제를 해결하기 위해 최선을 다하는 사람의 이야기일 수 있습니다.
 
-When you inherit someone else’s code, it’s easy to criticize—to point out what’s wrong, what’s inefficient, and what doesn’t work. But real progress comes when you approach it with empathy. Why was it written this way? What challenges did they face? What can we learn from their approach, even if it wasn’t perfect?
+다른 사람의 코드를 물려받으면 비판하기 쉽습니다—잘못된 점, 비효율적인 점, 작동하지 않는 점을 지적하는 것이죠. 하지만 진정한 진전은 공감으로 접근할 때 이루어집니다. 왜 이렇게 작성되었을까요? 그들은 어떤 도전에 직면했을까요? 비록 완벽하지 않았더라도 그들의 접근 방식에서 우리는 무엇을 배울 수 있을까요?
 
-This mindset doesn’t just make you a better engineer—it makes you a better leader.
+이러한 사고방식은 단순히 더 나은 엔지니어가 되는 것이 아니라, 더 나은 리더가 되게 합니다.
 
-## Systems Reflect People
+## 시스템은 사람을 반영한다
 
-What I’ve learned from coding is that systems—whether they’re technical, social, or economic—aren’t inherently broken. They reflect the people who built them, the constraints they faced, and the values they prioritized. When a system doesn’t work for everyone, it’s not because the people who built it were inherently bad. It’s because they were working within limitations, or they didn’t anticipate every outcome.
+코딩을 통해 배운 것은 시스템—기술적이든 사회적이든 경제적이든—이 본질적으로 부서져 있지 않다는 것입니다. 그것들은 그것을 구축한 사람들, 그들이 직면한 제약, 그리고 그들이 우선시한 가치를 반영합니다. 시스템이 모두에게 작동하지 않을 때, 그것은 그것을 만든 사람들이 본질적으로 나쁘기 때문이 아닙니다. 그것은 그들이 한계 내에서 작업하고 있었거나, 모든 결과를 예측하지 못했기 때문입니다.
 
-This perspective shapes how I tackle societal issues. Instead of placing blame, I ask questions: What created this outcome? Who benefits from the system as it is, and who’s being left behind? What changes can we make to ensure it serves everyone, not just a select few?
+이러한 관점은 제가 사회 문제를 다루는 방식을 형성합니다. 비난을 하는 대신, 저는 질문을 던집니다: 이 결과를 만든 것은 무엇인가? 현재의 시스템에서 누가 이익을 보고 있으며, 누가 소외되고 있는가? 모든 사람을 위해, 단지 일부 소수만이 아닌, 시스템이 작동하도록 보장하기 위해 우리는 어떤 변화를 만들 수 있을까요?
 
-## Empathy Drives Solutions
+## 공감이 해결책을 이끈다
 
-Approaching problems with empathy doesn’t mean excusing harm or ignoring injustices. It means understanding the root causes so you can create lasting solutions. It means recognizing that people—whether they’re writing code or making policies—are shaped by the systems they’re part of.
+문제에 공감으로 접근하는 것은 해를 용서하거나 불의에 눈감는 것을 의미하지 않습니다. 그것은 지속 가능한 해결책을 만들기 위해 근본 원인을 이해하는 것을 의미합니다. 그것은 코드 작성자든 정책 입안자든, 사람들이 자신이 속한 시스템에 의해 형성된다는 것을 인식하는 것을 의미합니다.
 
-For example, when we look at economic inequality, it’s easy to blame individuals for their circumstances. But if we dig deeper, we see a system that rewards the wealthy while punishing the poor, that makes it harder for working families to get ahead, and that perpetuates cycles of poverty. The solution isn’t to blame—it’s to rebuild the system.
+예를 들어, 경제적 불평등을 바라볼 때, 개인의 상황을 비난하기는 쉽습니다. 하지만 더 깊이 파고들면, 부유한 사람에게 보상을 주고 가난한 사람에게는 벌을 주는 시스템, 일하는 가정이 앞서 나가기 어렵게 만드는 시스템, 그리고 빈곤의 순환을 지속시키는 시스템을 보게 됩니다. 해결책은 비난하는 것이 아니라, 시스템을 재구축하는 것입니다.
 
-## Fixing Broken Systems
+## 부서진 시스템 고치기
 
-As an engineer, I know that fixing a broken system takes time, patience, and collaboration. You don’t just patch the surface; you dig into the root cause and make changes that ensure the problem doesn’t happen again. The same is true for societal issues.
+엔지니어로서 저는 부서진 시스템을 고치는 데는 시간, 인내, 그리고 협력이 필요하다는 것을 압니다. 표면을 패치하는 것이 아니라, 근본 원인에 파고들어 문제를 다시 발생하지 않도록 보장하는 변화를 만들어야 합니다. 사회 문제도 마찬가지입니다.
 
-Whether it’s healthcare, housing, or education, the systems we rely on were built by people—and they can be rebuilt by people. But it takes leadership that’s willing to ask tough questions, listen to the voices of those impacted, and create solutions that address the real problems.
+의료, 주택, 교육 등 우리가 의존하는 시스템은 사람에 의해 구축되었으며—사람에 의해 재구축될 수 있습니다. 하지만 그것은 어려운 질문을 던지고, 영향을 받는 사람들의 목소리를 듣고, 실제 문제를 해결하는 솔루션을 만드는 리더십이 필요합니다.
 
-## The Power of Understanding
+## 이해의 힘
 
-What coding has taught me is that every problem, no matter how complex, has a solution. But finding that solution requires understanding—of the people involved, the context in which the system was built, and the constraints that shaped it. It requires empathy, persistence, and a willingness to challenge the status quo.
+코딩이 가르쳐준 것은 모든 문제는 복잡하더라도 해결책이 있다는 것입니다. 하지만 그 해결책을 찾으려면—관련된 사람들, 시스템이 구축된 맥락, 그리고 그것을 형성한 제약에 대한 이해가 필요합니다. 그것은 공감, 끈기, 그리고 현상 유지에 도전하려는 의지를 요구합니다.
 
-This is the approach I bring to leadership: tackling issues not with blame, but with understanding; not with shortcuts, but with real, lasting solutions. It’s about fixing what’s broken and building systems that serve everyone.
+이것이 제가 리더십에 가져오는 접근 방식입니다: 비난이 아닌 이해로 문제를 다루고; 지름길이 아닌 진정한 지속 가능한 해결책으로 접근하는 것입니다. 그것은 부서진 것을 고치고, 모든 사람을 위한 시스템을 구축하는 것입니다.
 
 ---
 
-**This is why I fight: to approach challenges with empathy, to rebuild broken systems, and to create a future where every person has the opportunity to thrive. Together, we can fix what’s broken—and build something better.**
+**이것이 제가 싸우는 이유입니다: 공감으로 도전에 접근하고, 부서진 시스템을 재구축하며, 모든 사람이 번영할 기회를 가질 수 있는 미래를 만드는 것입니다. 함께 우리는 부서진 것을 고치고, 더 나은 것을 구축할 수 있습니다.**

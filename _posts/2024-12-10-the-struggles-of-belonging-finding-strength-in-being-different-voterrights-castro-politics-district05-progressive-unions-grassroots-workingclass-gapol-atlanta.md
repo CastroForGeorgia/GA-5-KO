@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "The Struggles of Belonging: Finding Strength in Being Different"
-description: "As a nerdy, quiet kid who often felt misunderstood, I struggled to find my place. Those experiences shaped my resilience and taught me to connect with people who feel unseen or left behind—a perspective that fuels my fight for equity and inclusion."
+title: "소속의 고난: 다름 속에서 힘을 찾다"
+description: "종종 오해받는 조용한 괴짜 아이로서, 나는 내 자리를 찾는 데 어려움을 겪었습니다. 이러한 경험은 나의 회복력을 형성하고, 보이지 않거나 소외된 사람들과 연결하는 법을 가르쳐 주었습니다. 이는 내가 형평성과 포용성을 위해 싸우는 원동력이 됩니다."
 date: 2024-12-10
 image: '/images/housing-policy-header.webp'
 
@@ -9,34 +9,34 @@ redirect_from:
   - /2025-01-01-struggles-of-belonging/
 ---
 
-I didn’t always feel like I belonged. As a quiet, nerdy kid, I often found myself sitting on the sidelines, feeling misunderstood and out of place. While others seemed to fit into groups effortlessly, I wrestled with the question of where I belonged—or if I even did.
+나는 항상 소속감을 느끼지는 못했습니다. 조용하고 괴짜 같은 아이로서, 나는 종종 사이드라인에 앉아 오해받고 어색한 기분을 느꼈습니다. 다른 친구들이 그룹에 자연스럽게 녹아드는 것처럼 보였던 반면, 나는 내가 어디에 속하는지, 아니면 아예 속하지 않는지에 대한 질문과 씨름했습니다.
 
-Those struggles weren’t easy. But looking back, I see how much they shaped me—not just as a person, but as a leader. They gave me the grit to keep moving forward, the empathy to connect with others who feel unseen, and the determination to fight for equity and inclusion.
+그러한 고난은 쉽지 않았습니다. 하지만 돌아보면, 그것들이 나를 얼마나 형성했는지 알 수 있습니다. 그것은 나를 한 사람으로서뿐만 아니라 리더로서도 성장하게 했습니다. 나아가고자 하는 끈기, 보이지 않는 사람들과 연결하고자 하는 공감, 형평성과 포용을 위해 싸우고자 하는 결단력을 주었습니다.
 
-## The Challenge of Being Different
+## 다름의 도전
 
-Growing up, I was the kid who loved to read, to learn, to ask questions that others found boring or strange. I wasn’t the loudest in the room or the most popular. I preferred exploring ideas and tinkering with projects over fitting into social molds. And while that curiosity brought me joy, it also made me feel isolated.
+나는 자라면서 책 읽기, 배우기, 다른 사람들이 지루하거나 이상하다고 여기는 질문을 하는 것을 좋아하는 아이였습니다. 나는 방에서 가장 시끄러운 아이도, 가장 인기 있는 아이도 아니었습니다. 사회적 틀에 맞추기보다는 아이디어를 탐구하고 프로젝트를 다루는 것을 선호했습니다. 그 호기심은 나에게 기쁨을 주었지만, 동시에 나를 고립감 속에 빠뜨리기도 했습니다.
 
-Feeling different isn’t easy. It comes with moments of self-doubt, of wondering why you can’t just “be like everyone else.” But it also opens your eyes to the struggles of others who feel left out, overlooked, or dismissed.
+다르게 느끼는 것은 쉽지 않습니다. 그것은 스스로 의심하게 만들고, 왜 다른 사람들처럼 “그냥” 행동하지 못하는지 고민하게 만듭니다. 그러나 그것은 또한 소외되거나 간과되거나 무시당하는 다른 사람들의 고난을 이해할 수 있는 눈을 열어줍니다.
 
-## Finding Strength in Struggles
+## 고난 속에서 힘 찾기
 
-Over time, I began to see my differences not as weaknesses, but as strengths. Being quiet taught me to listen. Feeling misunderstood gave me the drive to connect with others who felt the same way. And struggling to belong helped me understand how powerful it is to create spaces where people feel valued, no matter who they are.
+시간이 지나면서, 나는 나의 차이를 약점이 아닌 강점으로 보기 시작했습니다. 조용함은 나에게 경청하는 법을 가르쳤고, 오해받는 기분은 나와 같은 감정을 느끼는 사람들과 연결하고자 하는 동기를 주었습니다. 소속감을 찾기 위한 고난은 사람들이 누구인지에 관계없이 가치 있다고 느낄 수 있는 공간을 만드는 것이 얼마나 강력한지를 이해하는 데 도움을 주었습니다.
 
-These experiences didn’t just shape how I see the world—they shaped how I lead. They taught me that true strength isn’t about fitting in; it’s about embracing what makes you unique and using that to uplift others.
+이러한 경험들은 내가 세상을 보는 방식뿐만 아니라 내가 리드하는 방식에도 영향을 미쳤습니다. 진정한 힘은 적응하는 것이 아니라, 나를 독특하게 만드는 것을 포용하고 그것을 통해 다른 사람들을 고양시키는 것임을 가르쳐 주었습니다.
 
-## A Fight for Inclusion
+## 포용을 위한 싸움
 
-As I’ve grown, I’ve carried these lessons with me. I see the pain that comes from being excluded or overlooked, and I know how important it is to build systems and communities where everyone feels they have a place.
+나는 성장하면서 이러한 교훈을 간직하고 있습니다. 나는 배제되거나 간과되는 고통을 보고, 모든 사람이 자신의 자리를 느낄 수 있는 시스템과 공동체를 만드는 것이 얼마나 중요한지 알고 있습니다.
 
-That’s why I fight for equity and inclusion—not just as ideals, but as actions. It’s why I believe in leadership that prioritizes listening to the voices of those who are often silenced, and creating opportunities for those who are often left behind.
+그래서 나는 형평성과 포용을 위해 싸웁니다. 그것은 단순한 이상이 아니라 행동입니다. 나는 종종 침묵당하는 사람들의 목소리를 듣고, 종종 소외되는 사람들에게 기회를 만드는 리더십을 믿습니다.
 
-## Building a Better Future
+## 더 나은 미래 만들기
 
-The struggles I faced as a kid taught me the power of grit, empathy, and connection. They showed me that being different isn’t something to hide—it’s something to celebrate. And they gave me the perspective to lead with compassion and a commitment to building a future where everyone belongs.
+어린 시절 내가 겪었던 고난은 끈기, 공감, 연결의 힘을 가르쳐 주었습니다. 그것들은 다름이 숨겨야 할 것이 아니라 축하해야 할 것임을 보여주었습니다. 그리고 그것들은 내가 연민으로 이끌고, 모든 사람이 소속감을 느낄 수 있는 미래를 만들겠다는 헌신을 갖게 해주었습니다.
 
-If you’ve ever felt out of place, I want you to know: I see you. I understand your struggles, and I carry those lessons with me every day. Together, we can create a world where no one feels left out or unseen—a world where our differences make us stronger.
+만약 당신이 한 번이라도 소외감을 느꼈다면, 나는 당신에게 말하고 싶습니다: 나는 당신을 봅니다. 당신의 고난을 이해하며, 나는 매일 그 교훈을 마음에 새깁니다. 함께 우리는 아무도 소외되거나 보이지 않는 세상을 만들 수 있습니다. 우리의 차이가 우리를 더 강하게 만든 세상을 만들어 갑니다.
 
 ---
 
-**This is the strength I bring to leadership: a commitment to inclusion, a deep empathy for those who feel left behind, and the belief that together, we can build a better, more equitable future.**
+**이것이 내가 리더십에 가져오는 힘입니다: 포용에 대한 헌신, 소외된 사람들에 대한 깊은 공감, 그리고 함께 더 나은, 더 공정한 미래를 만들 수 있다는 믿음입니다.**

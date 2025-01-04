@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Accountability and Action: How I Found My Voice"
-description: "Witnessing political inaction during moments of crisis showed me the importance of stepping up. I found my voice by learning to act decisively, speak up for others, and demand better from those in power—principles that drive me to this day."
+title: "책임과 행동: 내 목소리를 찾은 방법"
+description: "위기 순간에 정치적 무관심을 목격하면서 나서야 할 중요성을 깨달았습니다. 나는 결단력 있게 행동하고, 타인을 위해 목소리를 내며, 권력을 가진 이들에게 더 나은 것을 요구하는 법을 배움으로써 내 목소리를 찾았습니다. 이러한 원칙은 오늘날까지도 나를 이끌고 있습니다."
 date: 2024-12-05
 image: '/images/civil-rights-equality.webp'
 
@@ -9,48 +9,48 @@ redirect_from:
   - /2025-01-01-accountability-and-action/
 ---
 
-For much of my life, I believed that change came from trusting the systems in place—that the leaders we elect would take action when we needed it most. But time and time again, I witnessed political inaction during moments of crisis. I saw how decisions made—or not made—by those in power could devastate communities while leaving the most vulnerable to fend for themselves.
+내 인생의 많은 부분 동안, 나는 변화가 기존 시스템을 신뢰하는 데서 온다고 믿었습니다. 우리가 선출한 지도자들이 가장 필요할 때 행동할 것이라고 생각했습니다. 그러나 여러 번 위기 순간에 정치적 무관심을 목격했습니다. 권력을 가진 이들이 내린 결정이나 내리지 않은 결정이 어떻게 공동체를 황폐화시키고, 가장 취약한 이들이 스스로를 방어해야 하는 상황에 놓이게 할 수 있는지를 보았습니다.
 
-Those moments of inaction lit a fire in me. They showed me the importance of stepping up, speaking out, and demanding better. They pushed me to find my voice—not just for myself, but for others who couldn’t speak up. That voice, and the principles it’s built on, drive me to this day.
+그러한 무관심의 순간들은 내 안에 불을 지폈습니다. 그것들은 나서서 말하고, 더 나은 것을 요구하는 것의 중요성을 보여주었습니다. 나는 나 자신뿐만 아니라 목소리를 낼 수 없는 다른 이들을 위해 내 목소리를 찾도록 나를 밀어붙였습니다. 그 목소리와 그에 기반한 원칙들은 오늘날까지도 나를 이끌고 있습니다.
 
-## Witnessing Inaction
+## 무관심 목격하기
 
-I’ll never forget the helplessness I felt watching leaders fail to act during critical moments. Whether it was the 2008 financial crisis, where families like mine lost everything while corporations were bailed out, or the ongoing struggle for affordable housing and healthcare, the message was clear: the systems designed to protect us weren’t working.
+지도자들이 중요한 순간에 행동하지 않는 모습을 보며 느꼈던 무력감은 잊을 수 없습니다. 2008년 금융 위기처럼, 내 가족과 같은 많은 가족들이 모든 것을 잃는 동안 기업들은 구제받았고, 저렴한 주택과 의료 서비스에 대한 지속적인 투쟁에서 분명한 메시지가 있었습니다: 우리를 보호하기 위해 설계된 시스템은 작동하지 않았습니다.
 
-The inaction wasn’t just frustrating—it was devastating. I saw families evicted from their homes, friends who couldn’t afford healthcare, and parents forced to choose between paying rent or putting food on the table. And while those in power debated endlessly, the people they were supposed to serve suffered in silence.
+무관심은 단순히 답답한 것이 아니라 파괴적이었습니다. 나는 집에서 쫓겨나는 가족들, 의료비를 감당할 수 없는 친구들, 임대료를 내거나 식사를 챙기는 것 중 하나를 선택해야 하는 부모들을 보았습니다. 그리고 권력을 가진 이들이 끝없이 논의하는 동안, 그들이 섬겨야 할 사람들은 침묵 속에서 고통받았습니다.
 
-## Finding My Voice
+## 내 목소리 찾기
 
-It was during these moments that I realized the importance of speaking up. Change doesn’t happen when we wait for others to act—it happens when we take action ourselves. I found my voice by learning to act decisively, to speak up for others, and to hold those in power accountable for their failures.
+이런 순간들 속에서 나는 목소리를 내는 것의 중요성을 깨달았습니다. 변화는 우리가 다른 사람들이 행동하기를 기다릴 때 일어나는 것이 아닙니다. 변화는 우리가 스스로 행동할 때 발생합니다. 나는 결단력 있게 행동하고, 타인을 위해 목소리를 내며, 권력을 가진 이들에게 그들의 실패에 대해 책임을 묻는 법을 배움으로써 내 목소리를 찾았습니다.
 
-Finding my voice wasn’t easy. Like many, I was hesitant at first—afraid of making waves or standing out. But I knew that staying silent wasn’t an option. If the systems we relied on weren’t working, then it was up to us to demand better. And that’s exactly what I did.
+내 목소리를 찾는 것은 쉽지 않았습니다. 많은 이들처럼 나도 처음에는 주저했습니다. 파장을 일으키거나 두드러지는 것이 두려웠습니다. 그러나 나는 침묵하는 것이 선택지가 아니라는 것을 알았습니다. 우리가 의존하는 시스템이 작동하지 않는다면, 더 나은 것을 요구하는 것은 우리의 몫이었습니다. 그리고 나는 바로 그렇게 행동했습니다.
 
-## Turning Accountability Into Action
+## 책임을 행동으로 전환하기
 
-Accountability means more than just pointing out what’s wrong—it means putting power into the hands of the people who experience those wrongs every day. My commitment to a people-centered campaign is about more than just policy—it’s about creating a movement where action comes directly from the voices of the community.
+책임은 단순히 잘못된 점을 지적하는 것 이상의 의미를 가집니다. 그것은 매일 그 잘못을 경험하는 사람들에게 권력을 주는 것입니다. 사람 중심의 캠페인에 대한 나의 헌신은 단순한 정책 이상의 의미를 지닙니다. 그것은 행동이 공동체의 목소리에서 직접 나오는 운동을 만드는 것입니다.
 
-Here’s how I plan to turn accountability into action:
+책임을 행동으로 전환하기 위한 나의 계획은 다음과 같습니다:
 
-1. **Community-Led Solutions**: My campaign will prioritize listening to the people most affected by broken systems—working families, immigrants, small business owners, and those often overlooked. I will host regular town halls, workshops, and listening sessions to ensure policies are shaped by the needs of the community, not political insiders.
+1. **커뮤니티 주도 솔루션**: 내 캠페인은 고장난 시스템의 영향을 가장 많이 받는 사람들—일하는 가족들, 이민자들, 소상공인들, 그리고 종종 간과되는 이들의 목소리를 듣는 것을 우선시할 것입니다. 정책이 정치 내부자들이 아닌 공동체의 필요에 의해 형성되도록 정기적인 타운홀, 워크숍, 청취 세션을 개최할 것입니다.
 
-2. **Transparent and Inclusive Governance**: I believe in open government, where every resident has access to decision-making processes. From publishing spending reports to creating open feedback platforms, I’ll ensure that constituents have a direct line to hold me and our systems accountable.
+2. **투명하고 포용적인 거버넌스**: 나는 모든 주민이 의사 결정 과정에 접근할 수 있는 열린 정부를 믿습니다. 지출 보고서를 공개하고 열린 피드백 플랫폼을 만드는 등, 유권자들이 나와 우리의 시스템에 책임을 물을 수 있는 직접적인 경로를 확보할 것입니다.
 
-3. **Empowering Grassroots Movements**: Real change comes from the ground up. That’s why I’m committed to building coalitions of people who are ready to act—organizing for affordable housing, healthcare access, climate action, and more. My campaign isn’t just about what I can do—it’s about amplifying the power of collective action.
+3. **풀뿌리 운동의 권한 부여**: 진정한 변화는 아래에서부터 시작됩니다. 그래서 나는 행동할 준비가 된 사람들의 연합을 구축하는 데 헌신하고 있습니다—저렴한 주택, 의료 접근, 기후 행동 등을 위해 조직하는 것입니다. 내 캠페인은 내가 할 수 있는 것만이 아니라, 집단 행동의 힘을 증폭시키는 것입니다.
 
-4. **Follow-Through with Results**: Accountability doesn’t stop with promises. It requires measurable results. I’ll set clear goals for every policy we push forward, regularly report on progress, and ensure that every step we take brings tangible benefits to the community.
+4. **결과로 이어지는 후속 조치**: 책임은 약속으로 끝나지 않습니다. 그것은 측정 가능한 결과를 요구합니다. 우리는 추진하는 모든 정책에 대해 명확한 목표를 설정하고, 정기적으로 진행 상황을 보고하며, 우리가 취하는 모든 단계가 공동체에 실질적인 혜택을 가져오도록 할 것입니다.
 
-## A People-Centered Campaign
+## 사람 중심의 캠페인
 
-A people-centered campaign means recognizing that the power to create change doesn’t come from one person—it comes from all of us. It means building systems where leaders are directly accountable to the people they serve and where action is driven by collective effort.
+사람 중심의 캠페인은 변화를 창출할 수 있는 힘이 한 사람에게서 오는 것이 아니라 우리 모두에게서 온다는 것을 인식하는 것입니다. 그것은 지도자들이 그들이 섬기는 사람들에게 직접 책임을 지고, 행동이 집단의 노력에 의해 추진되는 시스템을 구축하는 것입니다.
 
-This approach isn’t just about leadership—it’s about trust. It’s about showing people that their voices matter, that their struggles are seen, and that their ideas are the foundation of real progress.
+이 접근 방식은 단순히 리더십에 관한 것이 아닙니다. 그것은 신뢰에 관한 것입니다. 그것은 사람들이 그들의 목소리가 중요하다는 것을 보여주고, 그들의 고난이 보이며, 그들의 아이디어가 진정한 진보의 기초라는 것을 보여주는 것입니다.
 
-## Why Accountability Matters
+## 왜 책임이 중요한가
 
-Accountability is the foundation of good leadership. It’s what ensures that the promises we make are the promises we keep. It’s what holds systems and people in power responsible for their actions—or their inactions. And it’s what drives meaningful change in a world that too often rewards complacency.
+책임은 좋은 리더십의 기초입니다. 그것은 우리가 하는 약속이 우리가 지키는 약속이 되도록 보장합니다. 그것은 시스템과 권력을 가진 사람들이 그들의 행동이나 무행동에 대해 책임을 지도록 합니다. 그리고 그것은 너무 자주 안일함을 보상하는 세상에서 의미 있는 변화를 이끌어냅니다.
 
-For me, accountability isn’t just a principle—it’s a responsibility. It’s a commitment to never turn away from a challenge, to never stay silent in the face of injustice, and to always fight for the people who need it most.
+나에게 책임은 단순한 원칙이 아닙니다. 그것은 책임입니다. 그것은 도전에 결코 등을 돌리지 않고, 불의 앞에서 결코 침묵하지 않으며, 가장 도움이 필요한 사람들을 위해 항상 싸우겠다는 다짐입니다.
 
 ---
 
-**This is why I fight: to hold power accountable, to empower communities to take action, and to build a future where leadership reflects the needs and voices of the people. Together, we can demand better—and create the change we deserve.**
+**이것이 내가 싸우는 이유입니다: 권력을 책임지게 하고, 공동체가 행동할 수 있도록 힘을 주며, 리더십이 사람들의 필요와 목소리를 반영하는 미래를 만드는 것입니다. 함께 우리는 더 나은 것을 요구하고, 우리가 마땅히 받아야 할 변화를 만들어낼 수 있습니다.**

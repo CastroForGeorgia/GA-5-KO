@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Why 'We Are Family' Defines My Campaign"
-description: "Whether you’re a working parent, a veteran, an immigrant, or someone just trying to make ends meet, I believe we’re all connected. My campaign is built on the belief that we must uplift one another like family—because that’s how we create real change."
+title: "'우리는 가족입니다'가 내 캠페인을 정의하는 이유"
+description: "당신이 일하는 부모이든, 퇴역 군인이든, 이민자이든, 아니면 그저 생계를 유지하려고 애쓰는 사람이라면, 우리는 모두 연결되어 있다고 믿습니다. 내 캠페인은 우리가 가족처럼 서로를 지지해야 한다는 믿음 위에 세워졌습니다. 그것이 진정한 변화를 만드는 방법입니다."
 date: 2024-12-17
 image: '/images/housing-policy-header.webp'
 
@@ -9,42 +9,42 @@ redirect_from:
   - /2025-01-01-we-are-family-campaign/
 ---
 
-When I think about the challenges we face as a community, one thing becomes clear: we can’t tackle them alone. Whether it’s the struggle to find affordable housing, access healthcare, or make ends meet, these challenges affect us all. And just like in a family, the only way to overcome them is by looking out for one another, lifting each other up, and fighting for a better future together.
+우리 지역 사회가 직면한 도전에 대해 생각할 때, 한 가지는 분명해집니다: 우리는 혼자서는 이겨낼 수 없습니다. 저렴한 주택을 찾는 어려움, 의료 서비스에 접근하는 문제, 생계를 유지하는 고난 등 이러한 도전은 우리 모두에게 영향을 미칩니다. 그리고 가족처럼, 이를 극복하는 유일한 방법은 서로를 배려하고, 서로를 격려하며, 함께 더 나은 미래를 위해 싸우는 것입니다.
 
-That’s why “We Are Family” is more than just a campaign slogan—it’s the foundation of everything I stand for. It’s the belief that our differences don’t divide us; they make us stronger. It’s the commitment to building a community where everyone has a place, where no one is left behind, and where we rise together.
+그래서 “우리는 가족입니다”는 단순한 캠페인 슬로건이 아닙니다. 그것은 내가 지지하는 모든 것의 기초입니다. 우리의 차이가 우리를 나누는 것이 아니라, 오히려 우리를 더 강하게 만든다는 믿음입니다. 모든 사람이 자리를 가질 수 있고, 누구도 뒤처지지 않으며, 함께 일어설 수 있는 공동체를 만드는 약속입니다.
 
-## The Power of Connection
+## 연결의 힘
 
-Growing up, I learned the importance of family in all its forms. My own family was a mix of cultures, identities, and perspectives—immigrants, veterans, working parents, and queer relatives who taught me the value of acceptance and resilience. I’ve seen the strength that comes from coming together, even when times are hard.
+나는 성장하면서 다양한 형태의 가족의 중요성을 배웠습니다. 내 가족은 이민자, 퇴역 군인, 일하는 부모, 그리고 수용성과 회복력을 가르쳐 준 성소수자 친척들로 이루어진 다양한 문화와 정체성을 가진 집단이었습니다. 힘든 시기에도 함께 모였을 때 나오는 강함을 보았습니다.
 
-I also learned that family isn’t just about blood. It’s about the people who stand by you, who support you, and who fight for you. That’s the spirit I want to bring to this campaign: a sense of connection that reminds us we’re all in this together.
+또한 가족은 혈연만이 아니라는 것도 배웠습니다. 당신을 지지하고, 당신을 위해 싸우는 사람들과의 관계입니다. 내가 이 캠페인에 가져오고 싶은 정신은 바로 이런 연결감입니다: 우리가 모두 함께 이 길을 걷고 있다는 것을 상기시켜주는 것입니다.
 
-## Who We Fight For
+## 우리가 싸우는 이유
 
-When I say, “We Are Family,” I’m talking about all of us:
+“우리는 가족입니다”라고 말할 때, 나는 우리 모두를 이야기하고 있습니다:
 
-- **If you’re a working parent trying to provide for your children**—we are family.
-- **If you’re a veteran who’s sacrificed for this country**—we are family.
-- **If you’re an immigrant chasing the promise of a better life**—we are family.
-- **If you’re struggling with healthcare costs or fighting for your reproductive rights**—we are family.
-- **If you’re an LGBTQ+ individual demanding equality**—we are family.
-- **If you’re a teacher, a nurse, or a service worker keeping our communities strong**—we are family.
-- **If you’re just trying to make ends meet**—we are family.
+- **자녀를 위해 애쓰는 일하는 부모라면**—우리는 가족입니다.
+- **이 나라를 위해 희생한 퇴역 군인이라면**—우리는 가족입니다.
+- **더 나은 삶의 약속을 쫓는 이민자라면**—우리는 가족입니다.
+- **의료비 문제로 힘들거나 생식권을 위해 싸우고 있다면**—우리는 가족입니다.
+- **평등을 요구하는 LGBTQ+ 개인이라면**—우리는 가족입니다.
+- **우리 공동체를 강하게 유지하는 교사, 간호사, 서비스 근로자라면**—우리는 가족입니다.
+- **그저 생계를 유지하려고 애쓰고 있다면**—우리는 가족입니다.
 
-No matter your background, your struggles, or your dreams, we are connected. And when we embrace that connection, we can achieve real change.
+당신의 배경, 고난, 꿈에 관계없이 우리는 연결되어 있습니다. 그리고 그 연결을 받아들일 때, 우리는 진정한 변화를 이룰 수 있습니다.
 
-## A Campaign Rooted in Solidarity
+## 연대의 기반 위에 세운 캠페인
 
-The challenges we face—rising inequality, unaffordable housing, systemic injustice—require bold solutions. But bold solutions don’t happen in isolation. They happen when we come together, when we share our stories, and when we fight for one another like family.
+우리가 직면한 도전—높아지는 불평등, 저렴하지 않은 주택, 체계적인 불의—은 대담한 해결책을 필요로 합니다. 하지만 대담한 해결책은 고립된 상태에서 이루어지지 않습니다. 우리는 함께 모이고, 이야기를 나누며, 가족처럼 서로를 위해 싸울 때 이루어집니다.
 
-This campaign is built on solidarity. It’s about listening to your needs, amplifying your voices, and creating policies that uplift everyone—not just the wealthy or powerful. It’s about recognizing that when one of us struggles, we all do, and when one of us succeeds, we all benefit.
+이 캠페인은 연대 위에 세워졌습니다. 당신의 필요를 듣고, 당신의 목소리를 높이며, 부유한 사람이나 권력자뿐만 아니라 모두를 위한 정책을 만드는 것입니다. 한 사람이 어려움을 겪을 때, 우리 모두가 어려움을 겪고, 한 사람이 성공할 때, 우리 모두가 그 혜택을 누린다는 것을 인식하는 것입니다.
 
-## Uplifting Each Other, Building Together
+## 서로를 격려하고 함께 세우기
 
-The idea of family reminds us of our responsibility to each other. It’s about lifting up those who’ve been left behind, empowering those who’ve been silenced, and building systems that work for all of us. Whether it’s fighting for universal healthcare, affordable housing, or economic justice, every step we take together brings us closer to a brighter future.
+가족의 개념은 서로에 대한 책임을 상기시킵니다. 뒤처진 사람들을 일으켜 세우고, 침묵한 사람들에게 힘을 주며, 우리 모두를 위한 시스템을 만드는 것입니다. 보편적인 의료, 저렴한 주택, 경제 정의를 위해 싸우는 것이든, 우리가 함께 나아가는 모든 걸음이 더 밝은 미래에 가까워지게 합니다.
 
-“We Are Family” isn’t just a slogan—it’s a call to action. It’s a reminder that we’re stronger when we stand together, that our shared humanity is more powerful than our differences, and that the future we want is one we must build as one.
+“우리는 가족입니다”는 단순한 슬로건이 아닙니다—행동을 촉구하는 것입니다. 우리가 함께 서 있을 때 더 강해진다는 것, 우리의 공통된 인류애가 우리의 차이보다 더 강력하다는 것, 우리가 원하는 미래는 우리가 하나로서 만들어야 한다는 것을 상기시킵니다.
 
 ---
 
-**This is why I’m running: to fight for all of us, to stand by you like family, and to build a future where no one is left behind. Let’s create real change—together.**
+**이것이 내가 출마하는 이유입니다: 우리 모두를 위해 싸우고, 가족처럼 당신 곁에 서며, 누구도 뒤처지지 않는 미래를 만드는 것입니다. 함께 진정한 변화를 만들어 갑시다.**

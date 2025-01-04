@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Lessons from a Diverse Family: Bridging Divides"
-description: "With a family that spans diverse identities and ideologies, I’ve learned how to listen and build understanding across differences. This ability to connect with people from all walks of life is at the core of my leadership and advocacy."
+title: "다양한 가족에게서 배운 교훈: 간극을 메우기"
+description: "다양한 정체성과 이념을 가진 가족과 함께하면서, 나는 차이를 넘어 이해를 쌓는 방법을 배웠습니다. 모든 삶의 길에서 온 사람들과 연결하는 이 능력은 나의 리더십과 옹호의 핵심입니다."
 date: 2025-01-01
 image: '/images/civil-rights-equality.webp'
 
@@ -9,40 +9,18 @@ redirect_from:
   - /2025-01-01-lessons-from-diverse-family/
 ---
 
-Family shapes us in profound ways. Mine has taught me how to navigate diversity—not just of culture but of values, identities, and ideologies. With a family that spans a wide spectrum—from immigrants to veterans, feminists to conservative Trump supporters, and queer relatives to deeply religious ones—I’ve had to learn how to listen, empathize, and connect with people who see the world differently.
+가족은 우리를 깊은 방식으로 형성합니다. 나의 가족은 문화뿐만 아니라 가치, 정체성, 이념의 다양성을 탐색하는 방법을 가르쳐 주었습니다. 이민자부터 재향군인, 페미니스트부터 보수적인 트럼프 지지자, 성소수자 친척부터 깊이 신앙이 있는 이들까지 다양한 스펙트럼을 아우르는 가족과 함께하면서, 나는 세상을 다르게 보는 사람들과 어떻게 경청하고 공감하며 연결할 수 있는지를 배워야 했습니다.
 
-These lessons didn’t just help me build understanding within my family; they’ve become the foundation of my leadership and advocacy. They’ve shown me that real progress doesn’t come from avoiding our differences but from bridging them.
+이러한 교훈은 단순히 내 가족 내에서 이해를 쌓는 데 그치지 않았습니다; 그것들은 나의 리더십과 옹호의 기초가 되었습니다. 그들은 나에게 진정한 진전은 우리의 차이를 피하는 것이 아니라 그것을 연결하는 것에서 온다는 것을 보여주었습니다.
 
-## A Family of Contrasts
+## 대조의 가족
 
-My family is a microcosm of the diversity we see in our communities. On one side, there are my immigrant roots. On the other, there’s my wife’s family, which includes both radically feminist relatives and conservative Trump supporters. These contrasts have often sparked intense conversations, but they’ve also been a gift—a chance to see the world through multiple lenses.
+내 가족은 우리가 지역 사회에서 보는 다양성의 축소판입니다. 한쪽에는 내 이민자 뿌리가 있습니다. 다른 쪽에는 내 아내의 가족이 있는데, 그곳에는 급진적인 페미니스트 친척과 보수적인 트럼프 지지자가 모두 포함되어 있습니다. 이러한 대조는 종종 격렬한 대화를 촉발하지만, 또한 여러 관점을 통해 세상을 볼 수 있는 기회를 제공하는 선물이기도 합니다.
 
-I’ve learned that behind every perspective is a story. Behind every argument is a fear or a hope that drives it. And behind every person, no matter how different they seem, is a shared humanity that connects us all.
+나는 모든 관점 뒤에는 이야기가 있다는 것을 배웠습니다. 모든 주장 뒤에는 그것을 이끄는 두려움이나 희망이 있습니다. 그리고 얼마나 다르게 보일지라도 모든 사람 뒤에는 우리를 연결하는 공유된 인류가 있습니다.
 
-## The Power of Working Family Ties
+## 일하는 가족의 유대의 힘
 
-Despite our differences, what truly connects my family—and so many families—is the shared experience of being working people. We all understand the value of hard work, the sacrifices made to provide for loved ones, and the hope for a better future. These ties bind us far more strongly than any ideology or background ever could.
+우리의 차이에도 불구하고, 나의 가족과 많은 가족들을 진정으로 연결하는 것은 일하는 사람으로서의 공유된 경험입니다. 우리는 모두 열심히 일하는 것의 가치, 사랑하는 사람들을 위해 치른 희생, 그리고 더 나은 미래에 대한 희망을 이해합니다. 이러한 유대는 어떤 이념이나 배경보다도 우리를 더 강하게 묶어줍니다.
 
-But while families like mine are connected by shared struggles and aspirations, it’s the system that divides us. Economic inequality, systemic injustices, and policies that prioritize the wealthy over working families create barriers that pit us against one another. These aren’t natural divisions—they’re structural ones, and they can be changed.
-
-## Bridging Divides
-
-One of the greatest lessons my family has taught me is that unity doesn’t mean uniformity. We don’t have to agree on everything to work together. What matters is our ability to see beyond our differences and focus on the values we share: a desire for safety, opportunity, dignity, and a better future for those we love.
-
-This perspective drives my approach to leadership. I believe in creating spaces where everyone feels heard, valued, and included. I believe in finding solutions that uplift us all, rather than pitting us against each other. And I believe that by bridging divides, we can build stronger, more resilient communities.
-
-## A Leadership Rooted in Empathy
-
-My family’s diversity hasn’t just shaped how I see the world—it’s shaped how I lead. It’s shown me that empathy is the foundation of meaningful change. It’s taught me that listening, understanding, and connecting are far more powerful than arguing or dividing. And it’s given me the tools to bring people together, even in the face of disagreement.
-
-In a time when our society feels increasingly divided, this ability to bridge differences is more important than ever. Whether it’s addressing economic inequality, systemic racism, or climate change, the challenges we face demand solutions that include everyone. They demand leadership that prioritizes connection over conflict, and collaboration over competition.
-
-## Why It Matters
-
-The lessons I’ve learned from my family are lessons we can all apply to our communities and our country. They remind us that our diversity is our strength, that our differences don’t have to divide us, and that progress comes when we work together. The ties we share as working families can be a powerful force for unity—but only if we confront and dismantle the systems that seek to divide us.
-
-This is the kind of leadership I’m committed to: leadership that listens, empathizes, and unites. Together, we can build a future where everyone has a voice, everyone has a place, and everyone can thrive—no matter who they are or where they come from.
-
----
-
-**This is why I fight: to bridge divides, to uplift every voice, and to create a future that reflects the strength of our shared humanity. Let’s build that future together.**
+하지만 내 가족과 같은 가족들이 공유된 투쟁과 열망으로 연결되어 있는 반면,

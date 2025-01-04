@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "How the 2008 Financial Crisis Opened My Eyes to Broken Systems"
-description: "The 2008 crisis devastated families like mine, while the wealthy escaped accountability. Watching the system fail to protect everyday people was a turning point for me—it’s why I fight for policies that hold the powerful accountable and empower working families."
+title: "2008년 금융위기가 나에게 깨달음을 준 이유"
+description: "2008년 위기는 나와 같은 가족들을 황폐화시켰고, 부유한 이들은 책임에서 벗어났습니다. 일상적인 사람들을 보호하지 못하는 시스템을 지켜보는 것은 나에게 전환점이었습니다. 그래서 나는 권력을 가진 이들을 책임지게 하고, 일하는 가족들을 지원하는 정책을 위해 싸웁니다."
 date: 2024-12-28
 image: '/images/criminal-justice-reform.webp'
 
@@ -9,43 +9,43 @@ redirect_from:
   - /2025-01-01-2008-financial-crisis/
 ---
 
-The 2008 financial crisis was more than a headline—it was a turning point for millions of families, including mine. I watched as hardworking people lost their homes, their savings, and their sense of security, while the wealthy and powerful walked away unscathed. It was a wake-up call that opened my eyes to the deep flaws in our systems—systems that prioritize profits over people and protect the powerful while leaving working families to fend for themselves.
+2008년 금융위기는 단순한 헤드라인이 아니었습니다. 그것은 나를 포함한 수백만 가족에게 전환점이었습니다. 나는 열심히 일하는 사람들이 집과 저축, 그리고 안정감을 잃어가는 모습을 지켜보았습니다. 반면 부유하고 권력 있는 이들은 아무런 피해 없이 빠져나갔습니다. 이는 우리 시스템의 깊은 결함을 깨닫게 해준 경각심이었습니다. 이 시스템은 사람보다 이익을 우선시하고, 권력 있는 이들을 보호하는 반면, 일하는 가족들은 스스로 생존해야 했습니다.
 
-That crisis didn’t just change the economy; it changed me. It’s one of the reasons I fight for policies that hold the powerful accountable, protect everyday people, and ensure no family has to endure the devastation that mine and so many others faced.
+그 위기는 단순히 경제를 변화시킨 것이 아니라, 나 자신도 변화시켰습니다. 그것은 내가 권력을 가진 이들을 책임지게 하고, 일상적인 사람들을 보호하며, 내 가족과 많은 이들이 겪었던 파괴를 어떤 가족도 겪지 않도록 보장하는 정책을 위해 싸우는 이유 중 하나입니다.
 
-## Watching My Family Struggle
+## 내 가족의 고난을 지켜보며
 
-The 2008 crisis hit families like mine hard. Jobs disappeared, bills piled up, and the dream of stability felt further away than ever. I saw how the ripple effects of Wall Street’s greed reached into the lives of everyday people—people who had done everything right but still found themselves on the losing end.
+2008년 위기는 나와 같은 가족들에게 큰 타격을 주었습니다. 일자리는 사라지고, 청구서가 쌓이며, 안정에 대한 꿈은 그 어느 때보다 멀어졌습니다. 나는 월스트리트의 탐욕이 일상적인 사람들의 삶에 미치는 파급 효과를 보았습니다. 모든 것을 올바르게 해왔던 사람들이었지만, 여전히 패배의 쪽에 서게 되었습니다.
 
-We weren’t just dealing with an economic downturn. We were dealing with a system that allowed banks and corporations to gamble with people’s futures and face no real consequences. Meanwhile, families like mine were left to pick up the pieces, with little to no support.
+우리는 단순히 경제적 침체를 겪고 있었던 것이 아닙니다. 우리는 은행과 기업들이 사람들의 미래를 걸고 도박을 하도록 허용하는 시스템과 맞서 싸우고 있었습니다. 그들은 실질적인 결과 없이 도망쳤고, 우리와 같은 가족들은 조각난 삶을 다시 맞추기 위해 힘겨운 싸움을 해야 했습니다.
 
-## A System Built to Protect the Powerful
+## 권력을 보호하기 위해 만들어진 시스템
 
-What struck me most about the crisis was the stark contrast between who was held accountable and who wasn’t. While families struggled to rebuild, the same corporations that caused the crash were bailed out with taxpayer dollars. Executives kept their bonuses, and the cycle of inequality continued.
+위기에서 가장 인상 깊었던 것은 책임을 지는 이들과 그렇지 않은 이들 간의 극명한 대조였습니다. 가족들이 재건을 위해 애쓰는 동안, 사고를 일으킨 같은 기업들은 세금으로 구제받았습니다. 경영자들은 보너스를 유지했고, 불평등의 악순환은 계속되었습니다.
 
-The message was clear: the system wasn’t built to protect people like us. It was built to shield the wealthy and powerful from the consequences of their actions, while leaving working families to bear the brunt of their mistakes. This realization was a turning point for me. I knew then that if we wanted real change, we needed to rebuild the system from the ground up.
+메시지는 분명했습니다: 이 시스템은 우리 같은 사람들을 보호하기 위해 만들어진 것이 아니었습니다. 그것은 부유하고 권력 있는 이들을 그들의 행동 결과로부터 보호하기 위해 만들어졌고, 일하는 가족들은 그들의 실수의 대가를 치러야 했습니다. 이 깨달음은 나에게 전환점이었습니다. 진정한 변화를 원한다면, 우리는 시스템을 처음부터 다시 세워야 한다는 것을 알았습니다.
 
-## Fighting for Accountability and Change
+## 책임과 변화를 위한 싸움
 
-The 2008 crisis showed me the urgent need for policies that prioritize people over profits. It’s why I fight for:
+2008년 위기는 사람보다 이익을 우선시하는 정책의 긴급한 필요성을 보여주었습니다. 그래서 나는 다음과 같은 정책을 위해 싸웁니다:
 
-- **Holding Corporations Accountable**: Corporations that harm communities or engage in reckless practices should face real consequences—not golden parachutes.
-- **Protecting Working Families**: Policies like affordable housing, universal healthcare, and a living wage ensure that families have the stability they need to thrive.
-- **Breaking the Cycle of Inequality**: Closing tax loopholes, ending corporate greed, and reinvesting in education and infrastructure can level the playing field for everyone.
-- **Strengthening Economic Protections**: We need stronger regulations to prevent another crisis and ensure that financial institutions serve the public good, not just their shareholders.
+- **기업에 대한 책임 부여**: 지역 사회에 해를 끼치거나 무모한 행동을 하는 기업은 실질적인 결과에 직면해야 하며, 금전적 보상으로 빠져나가서는 안 됩니다.
+- **일하는 가족 보호**: 저렴한 주택, 보편적 의료보험, 생활 임금과 같은 정책은 가족들이 번영할 수 있는 안정성을 보장합니다.
+- **불평등의 악순환 끊기**: 세금 회피 구멍을 막고, 기업의 탐욕을 끝내며, 교육과 인프라에 재투자함으로써 모두에게 공정한 경쟁의 장을 마련할 수 있습니다.
+- **경제적 보호 강화**: 또 다른 위기를 예방하고 금융 기관이 주주가 아닌 공공의 이익을 위해 봉사하도록 보장하기 위해 더 강력한 규제가 필요합니다.
 
-## A Call for Leadership
+## 리더십에 대한 촉구
 
-The 2008 crisis wasn’t just an economic failure—it was a failure of leadership. It was a failure to prioritize the needs of the many over the greed of the few. But we can do better. We can build a system that works for everyone, not just the wealthy and powerful.
+2008년 위기는 단순한 경제적 실패가 아니라, 리더십의 실패였습니다. 다수의 필요보다 소수의 탐욕을 우선시한 실패였습니다. 하지만 우리는 더 나은 시스템을 만들 수 있습니다. 우리는 부유한 이들만을 위한 것이 아닌, 모든 이를 위한 시스템을 구축할 수 있습니다.
 
-This requires bold leadership—leaders who are willing to stand up to corporate interests, listen to the voices of working families, and fight for policies that ensure stability, fairness, and opportunity for all.
+이를 위해서는 대담한 리더십이 필요합니다. 기업의 이익에 맞서고, 일하는 가족들의 목소리를 듣고, 모든 이를 위한 안정성, 공정성, 기회를 보장하는 정책을 위해 싸울 준비가 된 리더들이 필요합니다.
 
-## Why It Matters
+## 왜 이것이 중요한가
 
-The scars of the 2008 crisis are still visible today. Families are still struggling to recover, and the systems that caused the crash remain largely intact. But it doesn’t have to be this way. By holding the powerful accountable and prioritizing the needs of everyday people, we can create an economy that works for everyone.
+2008년 위기의 상처는 오늘날에도 여전히 보입니다. 가족들은 여전히 회복하기 위해 고군분투하고 있으며, 위기를 초래한 시스템은 여전히 대체로 그대로 남아 있습니다. 하지만 이렇게 될 필요는 없습니다. 권력을 가진 이들을 책임지게 하고, 일상적인 사람들의 필요를 우선시함으로써, 우리는 모두를 위한 경제를 만들 수 있습니다.
 
-The 2008 financial crisis opened my eyes to the broken systems that shape our lives. It’s why I fight for accountability, equity, and opportunity. It’s why I believe in rebuilding the system to serve the people it was meant to protect.
+2008년 금융위기는 우리 삶을 형성하는 깨진 시스템을 깨닫게 해주었습니다. 그래서 나는 책임, 공정성, 기회를 위해 싸웁니다. 내가 믿는 것은 이 시스템을 재건하여 그것이 보호해야 할 사람들을 위해 봉사하도록 하는 것입니다.
 
 ---
 
-**This is why I fight: to hold the powerful accountable, to empower working families, and to build an economy that works for everyone. Together, we can create a future where no family is left behind.**
+**이것이 내가 싸우는 이유입니다: 권력을 가진 이들을 책임지게 하고, 일하는 가족들을 지원하며, 모두를 위한 경제를 만드는 것입니다. 함께 우리는 어떤 가족도 소외되지 않는 미래를 만들 수 있습니다.**

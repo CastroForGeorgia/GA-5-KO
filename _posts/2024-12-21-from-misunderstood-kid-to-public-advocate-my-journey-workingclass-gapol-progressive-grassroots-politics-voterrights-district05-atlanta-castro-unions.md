@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "From Misunderstood Kid to Public Advocate: My Journey"
-description: "I’ve always been the nerdy, introverted kid who questioned the status quo. Over time, I found my voice—not just for myself but for others who’ve felt overlooked. My journey is a testament to the power of understanding and persistence in creating change."
+title: "오해받던 아이에서 공공 옹호자로: 나의 여정"
+description: "나는 항상 현상 유지에 의문을 제기하는 내성적이고 괴짜 같은 아이였다. 시간이 지나면서 나는 나 자신뿐만 아니라 소외된 사람들을 위해 목소리를 찾았다. 나의 여정은 이해와 끈기의 힘이 변화를 만드는 데 얼마나 중요한지를 보여주는 증거이다."
 date: 2024-12-21
 image: '/images/education-policy-header.webp'
 
@@ -9,46 +9,46 @@ redirect_from:
   - /2025-01-01-from-misunderstood-to-advocate/
 ---
 
-Growing up, I was always a little different. I was the nerdy, introverted kid who loved books, tinkering with ideas, and asking questions about how things worked—and why they worked that way. I wasn’t the loudest voice in the room or the most popular person in school. And while I embraced my curiosity, I often felt like I didn’t belong.
+어릴 적, 나는 항상 조금 달랐다. 나는 책을 사랑하고, 아이디어를 가지고 놀며, 사물의 작동 방식과 그 이유에 대해 질문하는 것을 좋아하는 내성적이고 괴짜 같은 아이였다. 나는 방에서 가장 큰 목소리를 내는 아이도, 학교에서 가장 인기 있는 아이도 아니었다. 호기심을 받아들이면서도 나는 종종 소외감을 느꼈다.
 
-But over time, I found strength in being different. I found my voice—not just for myself but for others who’ve felt overlooked or misunderstood. My journey from being a quiet observer to becoming a public advocate is a testament to the power of understanding, persistence, and the belief that everyone has something valuable to contribute.
+하지만 시간이 지나면서 나는 다름에서 힘을 찾았다. 나는 나 자신뿐만 아니라 소외되거나 오해받은 다른 사람들을 위해 목소리를 찾았다. 조용한 관찰자에서 공공 옹호자로의 나의 여정은 이해와 끈기, 그리고 모든 사람이 소중한 기여를 할 수 있다는 믿음의 힘을 보여준다.
 
-## Questioning the Status Quo
+## 현상 유지에 의문을 제기하다
 
-Even as a kid, I couldn’t accept things at face value. If a rule didn’t make sense, I questioned it. If someone said, “That’s just how it is,” I wondered why it couldn’t be different. This curiosity made me a problem-solver, but it also made me feel like an outsider in a world that often values conformity over questions.
+어릴 적부터 나는 사물을 있는 그대로 받아들이지 못했다. 규칙이 이해가 되지 않으면 나는 그것에 의문을 제기했다. 누군가가 “그냥 그렇게 되어 있어”라고 말하면, 나는 왜 다르게 할 수 없는지 궁금해했다. 이러한 호기심은 나를 문제 해결자로 만들었지만, 또한 종종 질문보다 순응을 중시하는 세상에서 외부인처럼 느끼게 했다.
 
-At the time, I didn’t realize how much this perspective would shape my future. It wasn’t just about challenging the status quo—it was about seeing the possibility for change and believing that things could be better.
+그 당시 나는 이 시각이 내 미래를 얼마나 형성할지 깨닫지 못했다. 현상 유지에 도전하는 것만이 아니라, 변화의 가능성을 보고 상황이 더 나아질 수 있다는 믿음이 중요했다.
 
-## Feeling Overlooked
+## 소외감을 느끼다
 
-Being different can feel isolating. There were times I felt overlooked or underestimated because I wasn’t the loudest or the flashiest. I learned what it’s like to feel unheard, to have your ideas dismissed before they’re fully understood, and to navigate a world that often values style over substance.
+다른 것이 느끼는 것은 고립감을 줄 수 있다. 나는 가장 시끄럽거나 화려하지 않아서 소외되거나 과소평가받는 느낌을 받았던 때가 있었다. 나는 내 아이디어가 완전히 이해되기 전에 무시당하는 느낌, 그리고 종종 스타일이 본질보다 더 중요시되는 세상을 헤쳐 나가는 것이 어떤 것인지 배웠다.
 
-But those experiences gave me a deep empathy for others who’ve felt unseen or left out. They taught me to listen, to look for the potential in people, and to recognize that the quietest voices often have the most profound ideas.
+하지만 이러한 경험은 나에게 보이지 않거나 소외된 사람들에 대한 깊은 공감을 주었다. 그들은 나에게 경청하는 법, 사람들 속에서 잠재력을 찾는 법, 그리고 가장 조용한 목소리가 가장 깊은 아이디어를 가지고 있다는 것을 인식하는 법을 가르쳐 주었다.
 
-## Finding My Voice and Learning Responsibility
+## 나의 목소리를 찾고 책임을 배우다
 
-Finding my voice was deeply tied to learning how to be a man. For me, like many others, that meant stepping up and taking on responsibilities I hadn’t faced before. As I grew older, I saw the role I had to play within my family—not just as a son or a sibling, but as someone who could shoulder the burdens we all carried. 
+나의 목소리를 찾는 것은 남자로서의 배움과 깊은 연관이 있었다. 나에게, 그리고 많은 이들에게 그것은 이전에 직면하지 않았던 책임을 맡는 것을 의미했다. 나이가 들면서 나는 가족 내에서 내가 맡아야 할 역할을 보았다. 단순히 아들이나 형제가 아니라 우리가 짊어져야 할 짐을 나눌 수 있는 사람이었다.
 
-I saw how my actions could shape our future, how the choices I made could either ease my family’s struggles or add to them. This understanding of responsibility transformed me. It wasn’t just about speaking up; it was about showing up—for my family, for my community, and now, in public life.
+내 행동이 우리의 미래를 어떻게 형성할 수 있는지, 내가 내린 선택이 가족의 고통을 덜어줄 수도 있고 더할 수도 있다는 것을 보았다. 이러한 책임의 이해는 나를 변화시켰다. 그것은 단순히 목소리를 내는 것이 아니라, 가족과 지역 사회, 그리고 이제는 공적 삶을 위해 존재하는 것이었다.
 
-That sense of responsibility echoes in everything I do today. Just as I learned to support my family, I feel the need to support those who feel left behind or overlooked. It’s what drives me to come out of the shadows of private advocacy and take the reins of public leadership.
+그 책임감은 오늘 내가 하는 모든 일에 반영된다. 내가 가족을 지원하는 법을 배운 것처럼, 나는 소외되거나 간과된 사람들을 지원해야 할 필요성을 느낀다. 그것이 나를 개인적인 옹호의 그림자에서 벗어나 공적 리더십의 역할을 맡도록 이끄는 원동력이다.
 
-## Becoming a Public Advocate
+## 공공 옹호자가 되다
 
-Over the years, my journey from a misunderstood kid to a public advocate has been about more than just finding my voice. It’s been about creating space for others to find theirs. I’ve come to believe that true leadership isn’t about being the loudest or most dominant voice in the room—it’s about building systems and communities where everyone’s voice can be heard.
+수년 동안, 오해받던 아이에서 공공 옹호자로의 나의 여정은 단순히 나의 목소리를 찾는 것 이상의 의미가 있었다. 그것은 다른 사람들이 자신의 목소리를 찾을 수 있는 공간을 만드는 것이었다. 나는 진정한 리더십은 방에서 가장 시끄럽거나 지배적인 목소리가 되는 것이 아니라, 모든 사람의 목소리가 들릴 수 있는 시스템과 공동체를 구축하는 것이라고 믿게 되었다.
 
-Whether it’s fighting for affordable housing, healthcare, or economic justice, my advocacy is rooted in the belief that everyone deserves a seat at the table. No one should feel overlooked or left behind.
+저렴한 주택, 의료, 경제 정의를 위해 싸우는 것이든, 나의 옹호는 모든 사람이 테이블에 앉을 자격이 있다는 믿음에 뿌리를 두고 있다. 아무도 소외되거나 뒤처져서는 안 된다.
 
-## Lessons from the Journey
+## 여정에서 배운 교훈
 
-If there’s one thing my journey has taught me, it’s that our differences are our strengths. The qualities that make us feel out of place at first can become the very traits that drive us to create change. Persistence, empathy, and the courage to question the status quo aren’t just personal tools—they’re the foundation of building a better world.
+내 여정이 나에게 가르쳐 준 한 가지가 있다면, 그것은 우리의 차이가 우리의 강점이라는 것이다. 처음에는 우리를 불편하게 만드는 특성이 결국 변화를 이끌어내는 원동력이 될 수 있다. 끈기, 공감, 그리고 현상 유지에 의문을 제기하는 용기는 단순한 개인적인 도구가 아니라, 더 나은 세상을 만드는 기초가 된다.
 
-## Why It Matters
+## 왜 이것이 중요한가
 
-I know what it’s like to feel unseen, to feel like your voice doesn’t matter. That’s why I’m committed to being a leader who listens, who values every perspective, and who fights for systems that include everyone. I’ve stepped forward not just because it’s the right thing to do, but because I feel the responsibility to advocate for others and ensure that no one is left behind.
+나는 보이지 않는 느낌, 내 목소리가 중요하지 않은 느낌이 어떤 것인지 안다. 그래서 나는 모든 관점을 소중히 여기고, 모든 사람을 포함하는 시스템을 위해 싸우는 리더가 되기로 다짐했다. 나는 단지 옳은 일을 하기 위해 나선 것이 아니라, 다른 사람들을 옹호하고 아무도 소외되지 않도록 할 책임을 느끼기 때문이다.
 
-My journey is proof that even the quietest, most misunderstood among us can make a difference. Together, we can create a world where everyone’s voice is heard, and everyone’s potential is realized.
+나의 여정은 가장 조용하고 오해받는 사람들조차도 변화를 만들 수 있다는 증거이다. 함께 우리는 모든 사람의 목소리가 들리고, 모든 사람의 잠재력이 실현되는 세상을 만들 수 있다.
 
 ---
 
-**This is why I fight: to ensure that no one feels overlooked, that every voice matters, and that we create a future where everyone has the chance to thrive. Let’s build that future together.**
+**이것이 내가 싸우는 이유이다: 아무도 소외되지 않도록 하고, 모든 목소리가 중요하다는 것을 보장하며, 모두가 번영할 기회를 가지는 미래를 함께 만들어 가자.**

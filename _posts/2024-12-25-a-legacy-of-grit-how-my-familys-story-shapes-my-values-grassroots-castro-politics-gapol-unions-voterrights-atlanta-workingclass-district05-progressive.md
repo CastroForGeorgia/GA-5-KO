@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "A Legacy of Grit: How My Family’s Story Shapes My Values"
-description: "My family’s Grit in the face of adversity taught me to never back down from a challenge. It’s this legacy that drives my commitment to fighting for justice, equity, and opportunity for all."
+title: "끈기의 유산: 내 가족의 이야기가 내 가치를 어떻게 형성했는가"
+description: "역경 속에서도 끈기를 발휘한 우리 가족의 이야기는 나에게 도전에서 물러서지 말라는 교훈을 주었습니다. 이 유산이 바로 정의, 공정성, 그리고 모든 이를 위한 기회를 위해 싸우는 나의 헌신을 이끌고 있습니다."
 date: 2024-12-25
 image: '/images/immigration-policy-header.webp'
 
@@ -9,49 +9,49 @@ redirect_from:
   - /2025-01-01-legacy-of-grit/
 ---
 
-Grit isn’t something you’re born with—it’s something you learn through experience, through struggle, and through the examples of the people who come before you. For me, that example was my family. Their grit in the face of adversity shaped not only who I am but also the values I carry with me every day. 
+끈기는 타고나는 것이 아니라 경험과 고난, 그리고 앞서간 사람들의 본보기를 통해 배우는 것입니다. 나에게 그 본보기는 바로 내 가족이었습니다. 그들이 역경 속에서도 보여준 끈기는 내가 누구인지, 그리고 내가 매일 지니고 있는 가치관을 형성하는 데 큰 영향을 미쳤습니다.
 
-Their Grit taught me to never back down from a challenge and to always fight for what’s right, no matter how steep the climb. It’s this legacy that drives my commitment to fighting for justice, equity, and opportunity for all.
+그들의 끈기는 나에게 도전에서 물러서지 말고, 어떤 어려움이 있더라도 옳은 것을 위해 항상 싸워야 한다는 것을 가르쳐 주었습니다. 이 유산이 바로 정의, 공정성, 그리고 모든 이를 위한 기회를 위해 싸우는 나의 헌신을 이끌고 있습니다.
 
-## Lessons of Grit From My Mother
+## 어머니에게서 배운 끈기의 교훈
 
-My mother’s story is the cornerstone of my family’s legacy of grit. As an immigrant, she worked tirelessly to build a better life for her children. Balancing multiple jobs, navigating a system that wasn’t built for people like her, and sacrificing so much along the way, she showed me the power of determination.
+내 어머니의 이야기는 우리 가족의 끈기 유산의 초석입니다. 이민자로서 그녀는 자녀들을 위해 더 나은 삶을 만들기 위해 끊임없이 노력했습니다. 여러 직업을 병행하며, 그녀와 같은 사람들을 위해 만들어지지 않은 시스템을 헤쳐 나가고, 많은 것을 희생하면서 그녀는 결단력의 힘을 보여주었습니다.
 
-Her journey to citizenship through the Reagan-era Amnesty program wasn’t just a milestone for her—it was a turning point for our family. It gave us stability, opportunity, and the chance to dream bigger. Her strength in the face of struggle taught me the value of perseverance and the importance of creating systems that offer everyone a fair shot.
+레이건 시대의 사면 프로그램을 통한 시민권 취득은 그녀에게 단순한 이정표가 아니었습니다. 그것은 우리 가족에게 안정성과 기회, 그리고 더 큰 꿈을 꿀 수 있는 기회를 주는 전환점이었습니다. 그녀의 고난 속에서도 보여준 강인함은 나에게 인내의 가치와 모든 이에게 공정한 기회를 제공하는 시스템을 만드는 것의 중요성을 가르쳐 주었습니다.
 
-## Watching My Sister’s Struggle
+## 언니의 고난을 지켜보며
 
-Another profound influence on my understanding of Grit came from watching my sister navigate life as a teen mom. At just 17, she faced challenges that could have overwhelmed anyone. Balancing school, work, and raising my niece, she showed me what it means to rise to the occasion, even when the odds are stacked against you.
+내가 끈기에 대한 이해를 깊게 한 또 다른 중요한 영향은 언니가 십대 엄마로서 삶을 헤쳐 나가는 모습을 지켜보면서 얻은 것입니다. 겨우 17세에 그녀는 누구라도 압도당할 수 있는 도전들을 마주했습니다. 학교와 일을 병행하며 조카를 키우는 그녀는 역경이 닥쳐도 상황에 맞서 일어서는 것이 무엇인지 보여주었습니다.
 
-Her experience also opened my eyes to the systemic barriers young mothers face—the lack of affordable childcare, limited access to education, and the judgment from a society that too often offers criticism instead of support. Her Grit inspired me to fight for policies that uplift families and ensure that no one has to face these challenges alone.
+그녀의 경험은 또한 젊은 어머니들이 직면하는 체계적 장벽에 대한 나의 시각을 열어주었습니다. 저렴한 보육 서비스의 부족, 교육에 대한 접근 제한, 그리고 종종 비판보다는 지지를 제공해야 할 사회의 판단이 그것입니다. 그녀의 끈기는 나에게 가족을 지원하고 이러한 도전에 홀로 맞서지 않도록 하는 정책을 위해 싸우도록 영감을 주었습니다.
 
-## The Grit of Everyday People
+## 일상 속 사람들의 끈기
 
-What I’ve learned from my family’s story is that grit isn’t unique to us—it’s a quality shared by millions of families across this country. It’s the single mother working overtime to provide for her kids. It’s the immigrant striving for a better future despite countless obstacles. It’s the student juggling work and school to create a path forward.
+내 가족의 이야기를 통해 배운 것은 끈기가 우리에게만 국한된 것이 아니라는 것입니다. 그것은 이 나라의 수백만 가족이 공유하는 특성입니다. 아이들을 위해 열심히 일하는 한부모, 수많은 장애물에도 불구하고 더 나은 미래를 위해 노력하는 이민자, 그리고 일과 학업을 병행하며 앞으로 나아갈 길을 만드는 학생들입니다.
 
-This grit is what drives our communities, but it’s not enough on its own. People shouldn’t have to rely solely on Grit to get by. That’s why I’m committed to building systems that don’t just reward grit but actively support it—systems that provide opportunity, stability, and fairness for everyone.
+이 끈기가 우리 공동체를 이끌지만, 그것만으로는 충분하지 않습니다. 사람들은 생존을 위해 오직 끈기에만 의존해서는 안 됩니다. 그래서 나는 끈기를 보상하는 것뿐만 아니라 적극적으로 지원하는 시스템을 구축하는 데 헌신하고 있습니다. 모든 이를 위한 기회, 안정성, 그리고 공정성을 제공하는 시스템이 필요합니다.
 
-## Fighting for Justice and Equity
+## 정의와 공정성을 위한 싸움
 
-My family’s legacy of grit is the foundation of my commitment to justice and equity. It’s why I fight for:
+내 가족의 끈기 유산은 정의와 공정성에 대한 나의 헌신의 기초입니다. 그래서 나는 다음과 같은 것들을 위해 싸웁니다:
 
-- **Affordable Housing**: Ensuring every family has a safe and stable place to call home.  
-- **Universal Healthcare**: Guaranteeing access to quality care for everyone, regardless of income.  
-- **Equitable Education**: Providing resources and opportunities that empower all students, no matter their background.  
-- **Economic Justice**: Closing wage gaps, creating fair job opportunities, and supporting working families.  
+- **저렴한 주택**: 모든 가족이 안전하고 안정적인 집을 가질 수 있도록 보장합니다.  
+- **보편적 의료 서비스**: 소득에 관계없이 모든 사람이 양질의 치료를 받을 수 있도록 보장합니다.  
+- **공정한 교육**: 모든 학생이 배경에 관계없이 자원과 기회를 제공받을 수 있도록 합니다.  
+- **경제적 정의**: 임금 격차를 줄이고, 공정한 일자리 기회를 창출하며, 일하는 가족을 지원합니다.  
 
-These policies aren’t just abstract goals—they’re solutions rooted in the struggles I’ve seen and the values I hold dear.
+이 정책들은 단순한 추상적 목표가 아닙니다. 그것들은 내가 목격한 고난과 내가 소중히 여기는 가치에 뿌리를 둔 해결책입니다.
 
-## A Legacy That Drives Action
+## 행동을 이끄는 유산
 
-The grit my family showed in overcoming adversity isn’t just a source of pride—it’s a call to action. It reminds me that while Grit is admirable, it shouldn’t be a requirement for survival. Everyone deserves a fair chance, and it’s the responsibility of leaders to create the systems that make that possible.
+내 가족이 역경을 극복하며 보여준 끈기는 단순한 자부심의 원천이 아닙니다. 그것은 행동을 촉구하는 것입니다. 끈기가 존경받을 만한 것이지만, 생존을 위한 필수 조건이 되어서는 안 됩니다. 모든 사람은 공정한 기회를 누릴 자격이 있으며, 그것을 가능하게 하는 시스템을 만드는 것은 지도자의 책임입니다.
 
-My leadership is built on this legacy: a deep understanding of the struggles families face, a commitment to addressing systemic barriers, and a determination to fight for justice and equity every step of the way.
+나의 리더십은 이 유산에 기반하고 있습니다: 가족들이 직면하는 고난에 대한 깊은 이해, 체계적 장벽을 해결하려는 헌신, 그리고 정의와 공정성을 위해 매 순간 싸우겠다는 결단입니다.
 
-## Why It Matters
+## 왜 중요한가
 
-Grit is what gets us through hard times, but it shouldn’t be the only thing people can rely on. My family’s story is proof of what’s possible when Grit meets opportunity. It’s a reminder of the power of determination, but also of the need for leaders who fight to make opportunity accessible to everyone.
+끈기는 힘든 시간을 극복하게 해주지만, 사람들이 의존할 수 있는 유일한 것이 되어서는 안 됩니다. 내 가족의 이야기는 끈기가 기회와 만날 때 가능한 것의 증거입니다. 그것은 결단력의 힘을 상기시켜 주지만, 또한 모든 사람이 기회를 누릴 수 있도록 싸우는 지도자의 필요성을 일깨워 줍니다.
 
 ---
 
-**This is why I fight: to honor the legacy of grit that shaped me, to create systems that uplift every family, and to ensure that justice, equity, and opportunity are within reach for all. Together, we can build a future that reflects the strength of our shared Grit.**
+**이것이 내가 싸우는 이유입니다: 나를 형성한 끈기의 유산을 기리기 위해, 모든 가족을 지원하는 시스템을 만들기 위해, 그리고 정의, 공정성, 그리고 기회가 모든 이에게 닿을 수 있도록 하기 위해. 함께 우리는 우리의 공유된 끈기의 힘을 반영하는 미래를 만들어 갈 수 있습니다.**

@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Fighting for Opportunity: How My Mother’s Story Inspires Me"
-description: "My mother’s journey to citizenship taught me the transformative power of opportunity. Her determination inspires my fight for policies that honor immigrant families, promote equity, and create pathways for success."
+title: "기회를 위한 싸움: 어머니의 이야기가 나에게 주는 영감"
+description: "어머니의 시민권 획득 여정은 기회의 변혁적 힘을 가르쳐 주었습니다. 그녀의 결단력은 이민자 가족을 존중하고, 형평성을 촉진하며, 성공의 길을 만드는 정책을 위한 나의 싸움에 영감을 줍니다."
 date: 2024-12-08
 image: '/images/immigration-policy-header.webp'
 
@@ -9,41 +9,41 @@ redirect_from:
   - /2025-01-01-fighting-for-opportunity/
 ---
 
-When I think about the power of opportunity, I think of my mother. Her journey to citizenship wasn’t easy—it was a story of grit, determination, and faith in a better future. Watching her navigate the challenges of being an immigrant while raising a family taught me lessons I carry with me every day. Her story is a testament to how transformative opportunity can be when it’s paired with hard work and hope.
+기회의 힘에 대해 생각할 때, 나는 어머니를 떠올립니다. 그녀의 시민권 획득 여정은 쉽지 않았습니다. 그것은 끈기, 결단력, 그리고 더 나은 미래에 대한 믿음의 이야기였습니다. 이민자로서 가족을 키우며 겪는 도전들을 헤쳐 나가는 모습을 지켜보면서, 나는 매일 지니고 있는 교훈을 배웠습니다. 그녀의 이야기는 기회가 노력과 희망과 결합될 때 얼마나 변혁적일 수 있는지를 증명합니다.
 
-Her determination didn’t just shape my life—it inspires my fight for policies that honor immigrant families, promote equity, and create pathways for success for everyone.
+그녀의 결단력은 단순히 내 삶을 형성한 것이 아니라, 이민자 가족을 존중하고, 형평성을 증진하며, 모두를 위한 성공의 길을 만드는 정책을 위한 나의 싸움에 영감을 줍니다.
 
-## My Mother’s Journey
+## 어머니의 여정
 
-My mother immigrated to the United States with nothing but her grit and a dream. She worked tirelessly, often taking on multiple jobs just to keep our family afloat. For years, she lived in the shadows, like so many undocumented immigrants who contribute so much to our communities but are denied basic recognition and rights.
+어머니는 아무것도 없이 끈기와 꿈만을 가지고 미국으로 이민하셨습니다. 그녀는 가족을 부양하기 위해 여러 직업을 맡으며 끊임없이 일했습니다. 수년 동안, 그녀는 기본적인 인정과 권리를 부여받지 못한 많은 불법 이민자들처럼 그림자 속에서 살았습니다.
 
-Everything changed for her—and for us—when she had the chance to apply for citizenship through the Reagan-era Amnesty program. That opportunity gave her the stability to buy her first home, to provide more for her children, and to dream beyond survival. Her life transformed, and with it, so did ours.
+모든 것은 그녀가 레이건 시대의 사면 프로그램을 통해 시민권을 신청할 기회를 얻었을 때 바뀌었습니다. 그 기회는 그녀에게 첫 집을 구입할 수 있는 안정성을 주었고, 자녀들에게 더 많은 것을 제공할 수 있게 해주었으며, 생존을 넘어 꿈꿀 수 있게 해주었습니다. 그녀의 삶은 변했고, 그에 따라 우리의 삶도 변했습니다.
 
-## The Transformative Power of Opportunity
+## 기회의 변혁적 힘
 
-My mother’s story taught me that opportunity isn’t just about individual success—it’s about the ripple effects it creates for families and communities. When we invest in people, when we give them the tools and resources they need to thrive, the results are extraordinary.
+어머니의 이야기는 기회가 개인의 성공만을 의미하는 것이 아니라, 가족과 공동체에 미치는 파급 효과에 관한 것임을 가르쳐 주었습니다. 우리가 사람들에게 투자하고, 그들이 번창하는 데 필요한 도구와 자원을 제공할 때, 결과는 놀랍습니다.
 
-But opportunity shouldn’t be a matter of luck or timing. It should be a guarantee—a promise that everyone, regardless of where they come from, has a fair shot at building a better life. That’s why I fight for policies that ensure opportunity isn’t reserved for the few but available to all.
+하지만 기회는 운이나 타이밍의 문제가 되어서는 안 됩니다. 그것은 보장되어야 하며, 누구나 출신에 관계없이 더 나은 삶을 구축할 수 있는 공정한 기회를 가져야 한다는 약속이어야 합니다. 그래서 나는 기회가 소수에게만 주어지는 것이 아니라 모두에게 제공되도록 보장하는 정책을 위해 싸웁니다.
 
-## Fighting for Immigrant Families
+## 이민자 가족을 위한 싸움
 
-My mother’s journey showed me the struggles immigrant families face and the immense contributions they make to our society. Yet, too often, our policies fail to reflect their humanity. That’s why I’m committed to:
+어머니의 여정은 이민자 가족이 직면한 고난과 그들이 우리 사회에 기여하는 막대한 양을 보여주었습니다. 그러나 우리의 정책은 그들의 인성을 반영하지 못하는 경우가 너무 많습니다. 그래서 나는 다음과 같은 일에 전념하고 있습니다:
 
-- **Pathways to Citizenship**: Advocating for legislation that provides undocumented immigrants with a clear, fair, and accessible pathway to legal status.  
-- **Family Unity**: Prioritizing policies that keep families together and end practices like detention and deportation that tear loved ones apart.  
-- **Economic Equity**: Creating opportunities for immigrants to access education, job training, and small business resources to help them succeed and contribute to our communities.  
-- **Protection and Dignity**: Ensuring that no one is forced to live in fear by ending exploitative practices and promoting humane immigration reform.
+- **시민권 획득 경로**: 불법 이민자들에게 법적 지위로 가는 명확하고 공정하며 접근 가능한 경로를 제공하는 법안을 지지합니다.  
+- **가족 단합**: 가족을 함께 지키고 사랑하는 이들을 갈라놓는 구금 및 추방과 같은 관행을 끝내는 정책을 우선시합니다.  
+- **경제적 형평성**: 이민자들이 교육, 직업 훈련, 소규모 비즈니스 자원에 접근할 수 있는 기회를 창출하여 성공하고 우리 공동체에 기여할 수 있도록 돕습니다.  
+- **보호와 존엄성**: 누구도 두려움 속에서 살지 않도록 착취적 관행을 끝내고 인도적인 이민 개혁을 촉진합니다.
 
-## Promoting Equity and Pathways for Success
+## 형평성과 성공의 길을 촉진하기
 
-The lessons I learned from my mother’s story go beyond immigration. They remind me of the importance of creating systems that uplift everyone, not just those who are already at the top. From affordable housing to universal healthcare to equitable education, every policy I fight for is rooted in the belief that opportunity should be universal.
+어머니의 이야기에서 배운 교훈은 이민을 넘어섭니다. 그것은 모든 사람을 높이는 시스템을 만드는 것의 중요성을 일깨워 줍니다. 저렴한 주택에서 보편적인 의료 서비스, 공정한 교육에 이르기까지, 내가 싸우는 모든 정책은 기회가 보편적이어야 한다는 믿음에 뿌리를 두고 있습니다.
 
-Opportunity is transformative, but it requires investment. It requires leaders who are willing to act boldly to remove barriers, close gaps, and build pathways that allow people to thrive.
+기회는 변혁적이지만, 투자가 필요합니다. 그것은 장벽을 제거하고 격차를 좁히며 사람들이 번창할 수 있는 길을 만드는 데 기꺼이 행동할 수 있는 리더가 필요합니다.
 
-## Why It Matters
+## 왜 중요한가
 
-My mother’s story is one of millions. It’s a reminder that behind every struggle is a family striving for something better, and behind every opportunity is the potential to change lives. Her determination inspires me to fight for a future where no one is left behind—a future where opportunity isn’t just a dream but a reality for all.
+어머니의 이야기는 수백만 개의 이야기 중 하나입니다. 그것은 모든 고난 뒤에는 더 나은 무언가를 위해 애쓰는 가족이 있으며, 모든 기회 뒤에는 삶을 변화시킬 잠재력이 있다는 것을 상기시켜 줍니다. 그녀의 결단력은 나에게 아무도 뒤처지지 않는 미래, 즉 기회가 단순한 꿈이 아니라 모두에게 현실이 되는 미래를 위해 싸우도록 영감을 줍니다.
 
 ---
 
-**This is why I fight: to honor stories like my mother’s, to create policies that uplift immigrant families, and to build a future where opportunity belongs to everyone. Together, we can ensure that every family has the chance to thrive.**
+**이것이 내가 싸우는 이유입니다: 어머니와 같은 이야기를 존중하고, 이민자 가족을 고양하는 정책을 만들며, 기회가 모두의 것이 되는 미래를 구축하기 위해서입니다. 함께, 우리는 모든 가족이 번창할 수 있는 기회를 가질 수 있도록 보장할 수 있습니다.**
