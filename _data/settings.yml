@@ -15,7 +15,7 @@ menu_settings:
     - title: '소개'
       url: '/about/'
     - title: "출마 이유"
-      url: '/blog/leadership-grounded-in-experience-why-im-running-for-congress-district05-unions-voterrights-grassroots-progressive-workingclass-atlanta-politics-castro-gapol'
+      url: '/blog/why-im-running/'
     - title: '정책'
       url: '/projects/'
     - title: '블로그'

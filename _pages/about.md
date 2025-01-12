@@ -23,7 +23,7 @@ keywords: [안드레스 카스트로, 노동계급 리더십, 조지아 5지구,
 이번 캠페인은 **여러분**과 여러분의 가족, 그리고 모두가 번영할 수 있는 미래를 만드는 것입니다.
 
 ## 제 이야기와 비전에 대해 더 알아보세요:
-- [왜 의회에 출마하는지](/blog/leadership-grounded-in-experience-why-im-running-for-congress-district05-unions-voterrights-grassroots-progressive-workingclass-atlanta-politics-castro-gapol/)
+- [왜 의회에 출마하는지](/blog/why-im-running/)
 - [근로자 주택 보장: 모두를 위한 저렴한 주택](/project/housing-community/)
 - [의료는 인권이다: 모두를 위한 메디케어 계획](/project/healthcare/)
 - [시민권과 평등: 정의를 위한 싸움](/project/civil-rights-equality)
