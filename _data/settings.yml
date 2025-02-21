@@ -1,10 +1,10 @@
 #-------------------------------
 # 사이트 설정
 title: CastroForGeorgia
-logo: '/images/logo.png' # 로고를 추가할 수 있습니다. 예: '/images/logo.png'.
+logo: '/images/logo.png' # 자신의 로고를 추가할 수 있습니다. 예: '/images/logo.png'.
 logo_dark: '/images/logo.png'
-description: 조지아 제5선거구에서 사람들을 위해 싸우는 안드레스 카스트로.
-color_scheme: auto # 세 가지 모드(auto, light, dark) 중 선택 가능합니다. 기본값은 auto로 설정되어 있으며, 사용자가 light 또는 dark 모드를 스스로 선택할 수 있습니다.
+description: 조지아 5선거구의 사람들을 위한 챔피언, 안드레스 카스트로.
+color_scheme: auto # 자동, 밝은 모드, 어두운 모드 중에서 선택할 수 있습니다. 기본적으로 자동 모드가 설정되어 있으며, 사용자가 직접 밝은 모드 또는 어두운 모드를 선택할 수 있습니다.
 
 #-------------------------------
 # 내비게이션 설정
@@ -14,17 +14,15 @@ menu_settings:
       url: '/'
     - title: '소개'
       url: '/about/'
-    - title: "출마 이유"
-      url: '/blog/why-im-running/'
+    - title: "내가 출마하는 이유"
+      url: '/blog/why-im-running'
     - title: '정책'
       url: '/projects/'
-    - title: '블로그'
-      url: '/blog/'
-    - title: '연락하기'
+    - title: '연락처'
       url: 'https://actionnetwork.org/forms/connect-with-andres-share-your-vision'
 
 #-------------------------------
-# 작성자 설정
+# 저자 설정
 author:
   author_name: 안드레스 카스트로
   author_avatar: '/images/about-me-photo-zoom.jpg'
@@ -33,10 +31,10 @@ author:
 # 히어로 설정
 hero:
   enable: true
-  hero_role: "미국 하원의원 후보 (조지아 제5선거구) ∙ 노동 가정, 주택 보급, 경제적 존엄성을 위해 싸웁니다"
-  hero_title: "안녕하세요! 저는 안드레스입니다 <img src=\"/images/about-me-photo-zoom.jpg\" alt=\"Andres Castro Picture\" loading=\"lazy\"> <br> 조지아 제5선거구를 위해 싸웁니다"
-  hero_description: "함께라면 모두를 위한 미래를 만들 수 있습니다—공정, 정의, 기회가 약속이 아니라 현실이 되는 미래. 조지아의 노동 가정을 위한 의미 있는 변화를 만들어갑시다."
-  hero_button_text: "운동에 동참하세요"
+  hero_role: "미국 하원 후보 (GA-05) ∙ 일하는 가족, 저렴한 주택, 경제적 존엄을 위한 싸움"
+  hero_title: "안녕하세요! 저는 안드레스입니다. <br> 조지아 5선거구를 위한 싸움"
+  hero_description: "함께라면 모든 사람을 위한 미래를 만들 수 있습니다—형평성, 정의, 기회가 단순한 약속이 아닌 현실이 되는 곳. 조지아의 일하는 가족들을 위해 의미 있는 변화를 만들어 봅시다."
+  hero_button_text: "운동에 참여하세요"
   hero_button_link: "https://actionnetwork.org/forms/connect-with-andres-share-your-vision"
 
 #-------------------------------
@@ -44,53 +42,67 @@ hero:
 projects:
   enable: true
   projects_title: 정책
-  projects_description: 조지아 제5선거구의 더 공정하고 정의로운 비전을 탐구하세요. 함께라면 번영하고 공정한 미래를 만들어갈 수 있습니다.
+  projects_description: 조지아 5선거구를 위한 더 공정하고 정의로운 비전을 탐구해 보세요. 함께 번영하고 공정한 미래를 만들어 갑니다.
 
 #-------------------------------
 # 블로그 섹션 설정
 blog:
   enable: true
   blog_title: 블로그
-  blog_description: 우리 모두를 위한 미래를 함께 만들어갑시다.
+  blog_description: 우리 모두를 위한 미래를 만들어 봅시다.
 
 #-------------------------------
 # 소개 섹션 설정
 about:
   enable: true
   about_image: "/images/about-me-photo.jpg"
-  about_title: "변화를 위해 함께"
-  about_description: "조지아 제5선거구의 모든 가정이 기회와 공정, 정의에 접근할 수 있는 미래를 만들어갑시다. 노동 가정을 돕고, 시민권을 보호하며, 모두를 위해 제대로 작동하는 정부를 만드는 과감한 해결책을 위해 저와 함께하세요."
+  about_title: "변화를 위한 함께"
+  about_description: "조지아 5선거구의 모든 가족이 기회, 형평성, 정의에 접근할 수 있는 미래를 만들어 봅시다. 일하는 가족들을 위한 대담한 해결책을 위해 싸우고, 시민권을 보호하며, 우리 모두를 위해 진정으로 작동하는 정부를 만들기 위해 함께해 주세요."
 
 #-------------------------------
-# FAQ(자주 묻는 질문) 설정
+# 자주 묻는 질문(FAQ) 설정
 faq:
   enable: true
-  faq_title: "궁금한 점이 있나요?"
-  faq_description: "조지아 제5선거구에서 더 공정하고 포괄적인 지역사회를 만들기 위해 노력하는 안드레스 카스트로와 그의 헌신에 대해 알아보세요."
+  faq_title: "답변이 필요하신가요?"
+  faq_description: "안드레스 카스트로와 조지아 5선거구에서 더 공정하고 포용적인 커뮤니티를 만들기 위한 그의 헌신을 알아보세요."
   faq_items:
-    - title: "안드레스 카스트로가 출마를 결심한 계기는 무엇인가요?"
-      description: "안드레스 카스트로는 현 민주당 지도부가 더 이상 국민의 필요를 우선시하지 않는다는 좌절감에서 출마를 결심했습니다. 그는 주민들의 목소리를 듣지 않고 행동이 느리며, 노동 가정에 대한 약속을 타협하는 지도자들을 목격했습니다. 안드레스는 조지아 제5선거구 주민들을 우선시하는 과감하고 타협 없는 리더십을 제공하기 위해 나섰습니다."
+    - title: "안드레스 카스트로가 공직에 출마하게 된 동기는 무엇인가요?"
+      description: "안드레스 카스트로는 현재 민주당 지도부에 대한 불만으로 출마하게 되었습니다. 그는 이들이 사람들의 필요를 우선시하지 않고 있다고 믿습니다. 그는 경청하지 않는 지도자들, 행동이 느린 지도자들, 일하는 계층 가족들에게 약속한 것을 타협하는 지도자들을 보고 있습니다. 안드레스는 조지아 5선거구 주민들을 최우선으로 두는 대담하고 타협하지 않는 리더십을 제공하기 위해 나섭니다."
 
     - title: "안드레스 카스트로는 누구인가요?"
-      description: "안드레스 카스트로는 메트로 애틀랜타에서 태어나 마리에타, 파우더 스프링스, 애틀랜타에 깊은 뿌리를 두고 있습니다. 가난 속에서 자라며 노동 가정의 어려움을 직접 경험했습니다. 그는 결단력과 노력으로 스태프 소프트웨어 엔지니어가 되어 복잡한 문제를 해결하는 기술을 연마했습니다. 이제 그는 조지아 제5선거구의 미국 하원의원 후보로서, 노동 가정을 돕고, 경제적 정의를 이루며, 투명한 통치를 보장하는 해결책을 제시하는 데 주력하고 있습니다."
+      description: "안드레스 카스트로는 메트로 애틀랜타의 자랑스러운 아들로, 마리에타, 파우더 스프링스, 애틀랜타에 깊은 뿌리를 두고 있습니다. 가난 속에서 성장하며 일하는 가족들의 고난을 직접 경험했습니다. 결단력과 노력으로 안드레스는 직원 소프트웨어 엔지니어가 되었고, 복잡한 문제를 해결하기 위해 기술을 활용하는 전문성을 키웠습니다. 이제 조지아 5선거구의 미국 하원 후보로서, 그는 저렴한 주택, 경제적 정의, 투명한 거버넌스를 위한 해결책을 만드는 데 집중하고 있으며, 모든 사람에게 기회와 형평성을 보장하고자 합니다."
 
-    - title: "안드레스 카스트로의 주요 정책 우선순위는 무엇인가요?"
-      description: "안드레스 카스트로의 우선순위는 시스템적 불평등을 해결하기 위한 과감한 해결책입니다: 노동자의 주택 보장 프로그램을 통한 주택 보급, 모두를 위한 보편적 의료, 자동화에 대비한 직업 재교육 프로그램, 그리고 대기업을 공정한 임금과 세금 기준에 맞게 책임지게 만드는 기업 책임 강화. 기술적 배경을 바탕으로 안드레스는 윤리적인 AI와 노동자와 지역사회를 지원하는 혁신적이고 공정한 해결책을 지지합니다."
+    - title: "안드레스 카스트로의 주요 정책 우선사항은 무엇인가요?"
+      description: "안드레스 카스트로의 우선사항은 체계적인 불평등을 해결하기 위한 대담한 해결책을 포함합니다: 근로자 주택 보장을 통한 저렴한 주택, 모든 사람의 접근을 보장하는 보편적 의료, 자동화에 대비한 직업 재교육 프로그램, 그리고 대기업이 공정한 임금과 세금 기준을 준수하도록 하는 기업 책임입니다. 그의 기술적 배경을 바탕으로 안드레스는 윤리적 AI와 근로자 및 지역 사회를 강화하는 혁신적이고 공정한 해결책을 옹호합니다."
 
-    - title: "안드레스 카스트로의 캠페인에 지지자로서 어떻게 참여할 수 있나요?"
-      description: "캠페인 메시지를 소셜 미디어에서 공유하고, 캠페인 뉴스레터를 구독해 정보를 얻으며 행동에 나서주세요. 조지아 제5선거구에 의미 있는 변화를 이끄는 데 있어 여러분의 지지와 참여가 중요합니다."
+    - title: "지지자들은 안드레스 카스트로의 캠페인에 어떻게 참여할 수 있나요?"
+      description: "지지자들은 캠페인에 참여하여 유세, 전화 홍보, 이벤트 조직, 타운홀 및 커뮤니티 회의에 참석하고, 소셜 미디어 플랫폼에서 캠페인 메시지를 공유할 수 있습니다. 또한 캠페인 뉴스레터를 구독하여 정보를 얻고 행동에 나설 수 있습니다. 여러분의 지원과 참여는 조지아 5선거구를 위한 의미 있는 변화를 이끌어내는 데 매우 중요합니다."
 
 #-------------------------------
 # 소셜 링크
 social:
-- {icon: "fa-brands fa-instagram", name: "Instagram", link: "https://www.instagram.com/castroforgeorgia/"}
-- {icon: "fa-brands fa-github", name: "Github", link: "https://github.com/CastroForGeorgia"}
-- {icon: "fa-brands fa-bluesky", name: "Bluesky", link: "https://bsky.app/profile/castroforgeorgia.bsky.social"}
-- {icon: "fa-brands fa-huggingface", name: "Huggingface", link: "https://huggingface.co/CastroForGeorgia"}
+- {icon: "fa-brands fa-instagram", name: "인스타그램", link: "https://www.instagram.com/castroforgeorgia/"}
+- {icon: "fa-brands fa-github", name: "깃허브", link: "https://github.com/CastroForGeorgia"}
+- {icon: "fa-brands fa-bluesky", name: "블루스카이", link: "https://bsky.app/profile/castroforgeorgia.bsky.social"}
+- {icon: "fa-brands fa-huggingface", name: "허깅페이스", link: "https://huggingface.co/CastroForGeorgia"}
 
-# 푸터에 새 링크 추가 예시 - {icon: "fa-brands fa-mastodon", name: "Mastodon", link: "https://mastodon.social"}
+# 푸터에 새로운 링크를 추가하는 예 - {icon: "fa-brands fa-mastodon", name: "마스토돈", link: "https://mastodon.social"}
 # 다른 아이콘은 https://fontawesome.com/icons 에서 찾을 수 있습니다.
 
 #-------------------------------
 # 구글 애널리틱스
 google-analytics: G-8XLD5HNY8Q
+
+#-------------------------------
+# 지역화 설정
+languages:
+  default: "en"
+  supported:
+  - lang_code: en
+    lang_name: "영어 (미국)"
+  - lang_code: es
+    lang_name: "스페인어 (멕시코)"
+  - lang_code: vi
+    lang_name: "베트남어 (베트남)"
+  - lang_code: ko
+    lang_name: "한국어 (한국)"
