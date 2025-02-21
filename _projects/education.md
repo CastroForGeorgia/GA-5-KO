@@ -1,131 +1,126 @@
 ---
-title: "교육"
-description: "교사에 대한 투자, 공립학교 현대화, 공정한 교육 자금 지원을 통해 조지아 5지구의 더 밝고 공정한 미래를 만듭니다."
+title: "Education"
+description: "Strengthening public education by raising teacher pay, modernizing schools, and ensuring equitable funding for all students."
 date: 2024-11-28 00:00:00 +0000
-label: "정책"
+label: "Policy"
 image: "/images/education-policy-header.webp"
-keywords: [공공 교육, 교사 급여, 교육 형평성, 조지아 5지구, 저렴한 교육, 교실 자금, 현대 학교, 지역 사회 학교, 교육 개혁, 정신 건강 지원]
 ---
 
-# 모두를 위한 교육: 공립학교를 통한 더 밝은 미래
+# **Education for All: A Stronger Future Starts in Our Schools**  
 
-## 개요
+## **Public Education is the Foundation of Opportunity**  
 
-**공공 교육은 위대한 평등의 도구입니다**—모든 아이가 배경에 관계없이 기회를 가질 수 있다는 약속입니다. 그러나 자금 부족, 교사의 소진, 공공 자원의 사립 기관으로의 전환은 이 기반을 약화시킵니다. **조지아 5지구**에서는 교사를 지원하고, 학교를 현대화하며, 모든 학생이 성공할 수 있도록 공공 교육에 재투자할 것입니다.
+A strong public education system is **the bedrock of democracy and economic prosperity**—but chronic underfunding, teacher burnout, and inequitable resource distribution threaten that promise. In **Georgia’s 5th Congressional District**, we are fighting to ensure **every student, no matter their zip code, has access to high-quality education**.  
 
----
-
-## **우리의 교육 목표**
-
-### 👩‍🏫 **1. 교사를 지원합니다**
-- **교사 급여 인상**:  
-  모든 교사가 생계를 유지하기 위해 두 번째 직업을 가질 필요가 없도록 경쟁력 있는 급여 체계를 시행합니다.  
-- **개인 비용 중단**:  
-  교실 용품을 전액 지원하고 교사가 개인 돈을 자원에 쓰지 않도록 합니다.  
-- **종합 복지 혜택**:  
-  교사의 신체적 및 정신적 건강을 지원하기 위해 양질의 의료 서비스, 퇴직 연금 및 웰니스 프로그램을 제공합니다.
+That means **investing in teachers, modernizing schools, and prioritizing equity** so that every child gets a fair chance at success.  
 
 ---
 
-### 🏫 **2. 공공 교육 자금 증대 및 공정한 분배**
-- **연방 및 주 투자 증대**:  
-  학교를 현대화하고 저소득 지역 사회의 자원 격차를 해소하기 위해 자금을 확보합니다.  
-- **소외된 학교에 집중 지원**:  
-  교육 불평등을 줄이기 위해 가장 필요로 하는 지역에 자금을 직접 지원합니다.  
-- **사립 학교에 공공 자금 사용 금지**:  
-  공공 교육에서 자원을 빼앗는 바우처 및 민영화 계획을 종료합니다.
+## **The Challenges We Must Address**  
+
+### ❌ **Teachers Are Underpaid and Overworked**  
+- Many teachers **work second jobs** to make ends meet.  
+- Out-of-pocket spending on classroom supplies is the norm.  
+- Burnout and lack of support are driving **teacher shortages**.  
+
+### ❌ **School Funding is Unequal**  
+- Wealthier districts have better resources, while lower-income schools **struggle with outdated textbooks, technology, and facilities**.  
+- Public money is being siphoned off to **private and charter schools**, leaving public schools underfunded.  
+
+### ❌ **Schools Need Mental Health and Community Support**  
+- Students face **mental health challenges**, but there aren’t enough counselors or support services.  
+- Families need access to **after-school programs, tutoring, and community-based education support**.  
 
 ---
 
-### 🛠️ **3. 학교 현대화**
-- **인프라 업그레이드**:  
-  안전하고 현대적이며 에너지 효율적인 학습 공간을 제공하기 위해 노후된 학교 건물을 개보수합니다.  
-- **모든 교실에 기술 도입**:  
-  학생들이 디지털 경제에 대비할 수 있도록 학교에 최신 기술, 인터넷 접근 및 교사 교육을 제공합니다.  
+## **A Bold Plan to Strengthen Public Education**  
+
+### 👩‍🏫 **1. Pay and Support Teachers Like the Professionals They Are**  
+- **Raise Teacher Salaries**  
+  - Ensure teachers earn a **living wage** that reflects their expertise and dedication.  
+- **End Out-of-Pocket Expenses**  
+  - Fully fund classroom supplies so teachers don’t have to pay for essentials.  
+- **Expand Healthcare and Retirement Benefits**  
+  - Offer **comprehensive wellness programs**, including mental health resources for teachers.  
 
 ---
 
-### 🤝 **4. 포용적이고 지원적인 학습 공동체 구축**
-- **정신 건강 서비스**:  
-  학생들의 정서적 및 정신 건강 요구를 다루기 위해 학교 상담사, 심리학자 및 사회 복지사를 지원합니다.  
-- **다양성 및 차별 금지 정책**:  
-  모든 학생을 위한 포용적이고 공정한 학교 환경을 조성하는 정책을 시행합니다.  
-- **지역 사회 학교**:  
-  방과 후 프로그램, 가족 자원 및 의료 접근을 제공하는 지역 사회 허브로서 학교를 지원합니다.
+### 🏫 **2. Fully Fund Public Schools and End Privatization Schemes**  
+- **Increase Federal and State Education Funding**  
+  - Secure **equitable funding** to support struggling schools.  
+- **Target Resources Where They’re Needed Most**  
+  - Prioritize **low-income and underfunded schools** to close the achievement gap.  
+- **Ban Public Money from Going to Private Schools**  
+  - Stop **vouchers and charter school programs** that drain resources from public education.  
 
 ---
 
-## **정책 이니셔티브**
-
-### **1. 공정한 급여 및 교사에 대한 전폭적 지원**
-- **급여 개혁**: 교사의 중요한 역할에 맞춰 급여를 인상합니다.  
-- **개인 비용 제거**: 재정적 부담을 덜기 위해 용품, 자료 및 교육 보조 기구를 전액 지원합니다.  
-- **복지 패키지**: 교육자를 위한 의료 옵션, 퇴직 연금 및 유급 휴가를 확대합니다.
-
----
-
-### **2. 공정한 교육 자금 지원**
-- **자금 공식 개정**: 저소득 학교와 소외된 지역 사회에 자원을 직접 지원합니다.  
-- **민영화 중단**: 공공 자금이 사립 또는 차터 학교에 사용되지 않도록 방지합니다.  
-- **투명성 및 책임성**: 공정한 지출을 보장하기 위해 학교 예산에 대한 명확한 보고를 요구합니다.
+### 🏗️ **3. Modernize Schools and Improve Learning Environments**  
+- **Renovate Aging Buildings**  
+  - Invest in **safe, modern, energy-efficient school facilities**.  
+- **Equip Classrooms with Technology**  
+  - Ensure every student has **high-speed internet access, updated computers, and STEM learning tools**.  
 
 ---
 
-### **3. 시설 및 기술 현대화**
-- **안전하고 현대적인 교실**: 노후된 시설을 개보수하고 에너지 효율 시스템을 도입합니다.  
-- **모든 학교에 기술 접근 제공**: 모든 학교에 컴퓨터, 고속 인터넷 및 새로운 기술에 대한 교사 교육을 제공합니다.  
+### 💡 **4. Expand Mental Health and Community-Based Support**  
+- **Fund School Counselors and Psychologists**  
+  - Lower student-to-counselor ratios so every child has **access to mental health support**.  
+- **Develop Community Schools**  
+  - Turn schools into hubs that provide **after-school programs, tutoring, healthcare, and family resources**.  
+- **Support Anti-Discrimination and Equity Initiatives**  
+  - Ensure schools are **safe, inclusive, and culturally responsive** learning environments.  
 
 ---
 
-### **4. 정신 건강 및 포용적 교육**
-- **정신 건강 지원**: 학교 내 상담사, 치료사 및 정신 건강 프로그램에 자금을 지원합니다.  
-- **차별 금지 프로그램**: 학생들이 편견과 괴롭힘으로부터 보호받고 다양성을 기념할 수 있도록 정책을 시행합니다.  
-- **지역 사회 학교 확대**: 가족 서비스, 방과 후 프로그램 및 의료 서비스를 제공하는 학교를 개발합니다.
+## **Our Action Plan: A Fair, Well-Funded Education System**  
+
+✅ **1. Raise Teacher Pay and Fully Fund Schools**  
+- Pass federal legislation to **increase teacher salaries and fully fund public education**.  
+- End public funding for private school voucher programs.  
+
+✅ **2. Invest in School Infrastructure and Technology**  
+- Secure funding to **modernize schools and provide state-of-the-art learning tools**.  
+- Expand access to **STEM education, trade programs, and digital literacy training**.  
+
+✅ **3. Strengthen Mental Health Support in Schools**  
+- Increase funding for **school-based counselors and social workers**.  
+- Establish **free mental health programs for students and teachers**.  
+
+✅ **4. Expand Access to Early Childhood and After-School Programs**  
+- Invest in **universal pre-K** and quality childcare for working families.  
+- Fund **after-school programs and summer learning opportunities**.  
+
+✅ **5. Ensure Community Participation in Education Policy**  
+- Hold **town halls and school forums** to engage parents, students, and teachers in decision-making.  
+- Require **public transparency in school funding allocations**.  
 
 ---
 
-## **조지아 5지구에 대한 이점**
+## **Why This Matters for Georgia’s 5th District**  
 
-### 🎓 **향상된 교육 성과**
-- 더 잘 자금 지원된 학교와 잘 지원받는 교사는 높은 졸업률과 학업 성공으로 이어집니다.  
+### ✅ **Higher Teacher Retention and Better Learning Outcomes**  
+- **Well-paid, well-supported teachers** create **more stable** learning environments.  
 
-### 💼 **강한 지역 경제**
-- 공공 교육에 대한 투자는 내일의 일자리에 대비한 숙련되고 경쟁력 있는 노동력을 만듭니다.  
+### 📈 **Economic Growth and Workforce Development**  
+- Strong public education **prepares students for high-paying careers** and strengthens the local economy.  
 
-### 🏘️ **번영하는 공동체**
-- 학교는 지역 사회 참여, 가족 지원 및 경제적 기회의 중심지가 됩니다.  
+### 🏡 **Thriving Communities**  
+- Community schools and education investment **create safer, more engaged neighborhoods**.  
 
-### 🤝 **불평등 감소**
-- 공정한 자금 지원은 모든 아이가—우편번호에 관계없이—양질의 교육을 받을 수 있도록 보장합니다.
-
----
-
-## **행동 계획**
-
-✅ **1. 입법 리더십**  
-- 교사 급여 인상, 학교 전액 자금 지원 및 공공 자금이 사립 기관을 지원하지 않도록 하는 법안을 도입합니다.  
-- 교실 현대화 및 불균형 해소를 위한 연방 자금 증대를 촉구합니다.
-
-✅ **2. 정신 건강에 투자**  
-- 정신 건강 상담사에 대한 자금을 확보하고 학생과 직원을 지원하기 위한 학교 기반 웰니스 프로그램을 만듭니다.  
-
-✅ **3. 인프라 및 기술 투자**  
-- 학교를 개보수하고 최신 학습 도구를 제공하기 위해 연방 및 지역 프로그램과 협력합니다.  
-
-✅ **4. 지역 사회 참여**  
-- 타운홀 미팅을 개최하여 피드백을 수집하고 지역 사회의 목소리가 교육 정책에 반영되도록 합니다.  
-- 지역 조직과 협력하여 지역 사회 학교 모델을 개발합니다.
+### 🎓 **Education Equity for All**  
+- Every child, **no matter their background**, gets **a fair shot at success**.  
 
 ---
 
-## 결론: 함께 만들어갈 미래
+## **A Future Where Every Child Thrives**  
 
-**공공 교육은 단순한 정책이 아닙니다—그것은 약속입니다.** 모든 아이가 성공할 수 있는 도구를 가질 것이라는 약속, 모든 교사가 존중받고 지원받을 것이라는 약속, 모든 공동체가 번영할 것이라는 약속입니다.  
+We have a **responsibility to invest in the next generation**. That starts with fully funding public education, supporting teachers, and **ensuring every student in Georgia’s 5th District has access to a high-quality education**.  
 
-**조지아 5지구**에서 우리는 공공 교육을 복원하고 강화하기 위해 싸울 것입니다. 교사에 대한 투자, 학교 현대화, 형평성 우선 순위를 통해 우리는 우리 아이들, 가족 및 공동체를 위한 더 밝고 공정한 미래를 만들 수 있습니다.  
-
-**모두를 위한 강력한 공립학교를 위한 싸움에 동참하세요. 함께, 우리는 교육의 약속을 실현할 것입니다.**
+Public education is **not just a policy—it’s a promise**. A promise that every child can succeed, every teacher is valued, and every community benefits from strong schools.  
 
 ---
 
-**#공공교육 #교사급여 #현대학교 #교육정의 #학생지원 #조지아5지구**
+### **Join the Fight for Public Education**  
+
+Education should empower—not limit—our children’s futures. **Let’s fight for the schools, teachers, and students that make our communities strong.** 

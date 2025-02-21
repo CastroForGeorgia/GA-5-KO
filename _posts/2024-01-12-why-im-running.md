@@ -1,61 +1,38 @@
 ---
-
-layout: post  
-title: "민주당은 길을 잃었습니다: 제가 의회에 출마하는 이유"  
-description: "기업의 영향으로 부패한 민주당의 실패는 제가 그 뿌리로 돌아가기 위해 싸우도록 촉발했습니다."  
-date: 2025-01-12  
-image: '/images/about-me-photo.jpg'
-
-redirect_from:  
-  - /blog/why-im-running/
-
+layout: post
+title: "Why I’m Running for Congress in Georgia’s 5th District"
+description: "The failures of the Democratic Party, corrupted by corporate influence, have pushed me to fight for its return to its roots."
+date: 2025-01-12
+image: '/images/about-me-photo-zoom.jpg'
 ---
 
-# 민주당은 길을 잃었습니다
+## **The Democratic Party Has Lost Its Way—It’s Time to Take It Back**  
 
-민주당은 한때 노동 계급의 챔피언이었으며, 경제 정의, 시민권, 그리고 모든 사람을 위한 기회를 위해 싸웠습니다. 그러나 시간이 지남에 따라, 당은 기업의 영향으로 인해 사람보다 이익을, 원칙보다 권력을 우선시하게 되었습니다. 이는 저를 포함한 수백만 명의 노동 계급 미국인들을 실망시키고 변화를 요구하게 만들었습니다.
+The Democratic Party has abandoned its working-class roots, succumbing to corporate influence at the expense of everyday Americans. I’m running for Congress in **Georgia’s 5th District** because I refuse to stand by while our party prioritizes profit over people. We need leadership that fights for economic justice, civil rights, and bold, transformative change—not incrementalism that keeps us struggling.  
 
-저는 우리가 할 수 있는 최선이 이것이라고 받아들이기를 거부하기 때문에 의회에 출마하고 있습니다. 제가 믿는 당—노동자들, 어려움을 겪는 가족들, 무시당하는 사람들을 위해 싸워야 하는 당—은 되찾아져야 합니다. 이제는 기업의 이익에 맞서고 사람들을 우선시하는 것을 두려워하지 않는 지도자들이 필요합니다.
+## **A Party at a Crossroads**  
 
-## 저는 좌파도 우파도 아닙니다—저는 아래에서 왔습니다
+Our bills keep rising, healthcare remains unaffordable, and wages don’t keep up—yet too many Democratic leaders accept the status quo. They talk about change but never fight for it. The party must choose: Will it stand with the people or remain a pawn of corporate America?  
 
-저는 투쟁이 무엇인지 알고 있습니다. 저는 월급에서 월급으로 살아가는 것이 무엇인지, 우리를 억제하기 위해 만들어진 것처럼 보이는 시스템을 탐색하는 것이 무엇인지, 그리고 우리를 위해 싸운다고 주장하지만 중요한 순간에 행동하지 않는 지도자들을 보는 것이 무엇인지 알고 있습니다.
+## **I Am Not From the Left or the Right—I’m From the Bottom**  
 
-그렇기 때문에 저는 절대 기업의 돈을 받지 않을 것입니다. **저의 충성은 사람들에게 있습니다—기업, 로비스트, 그리고 자신을 매수되도록 허용한 정치 엘리트들에게 있지 않습니다.**
+I know what it means to struggle. Unlike politicians who take corporate money and ignore the rest of us, I will **never** accept corporate donations. My loyalty is to the working class—renters, families, and everyone living paycheck to paycheck in **GA-05**.  
 
-오늘날 민주당의 실패는 우리가 보편적 의료를 가지지 못한 이유입니다. 그것들은 당신의 주택 보험이 치솟고, 가스 요금이 계속 오르고, 조지아의 전기 요금이 상승하는 이유입니다. 너무 많은 지도자들이 노동자 가족들을 위해 싸우는 대신, 부유하고 잘 연결된 사람들의 이익을 보호하기로 선택했습니다.
+## **Choosing a Side**  
 
-그것은 지도력이 아닙니다. 그것은 공모입니다.
+Democrats fall into two categories:  
 
-## 한쪽을 선택해야 하는 당
+- **Those who see change as essential**—because their survival depends on it.  
+- **Those who see it as a nice idea**—supporting it in theory but never feeling its urgency.  
 
-제가 민주당원으로서—그리고 이제 GA-05의 후보로서—여정을 이어오면서, 저는 우리 당에서 두 그룹을 보았습니다:
+For working people in **GA-05**, incrementalism isn’t an option. Justice and equity can’t be empty slogans. We need action, now.  
 
-- **진보적인 변화가 필수적인 사람들.** 그들의 자유, 생계, 그리고 생존이 그것에 달려 있습니다.
-- **진보적인 변화가 좋은 아이디어라고 생각하는 사람들.** 이론적으로는 지지하지만, 그들의 삶에 의미 있는 영향을 미치지 않는 것.
+## **A Political Multiplier for Change**  
 
-기득권층은 너무 자주 후자와 연합하여, 정의와 공정을 슬로건으로 취급하고 필요로 여기지 않습니다. 그들은 현상 유지를 결코 방해하지 않는 느리고 점진적인 변화에 만족합니다. 그러나 노동 계급 사람들, 어려움을 겪는 가족들, 기다릴 수 없는 우리에게 그것은 충분하지 않습니다.
+This campaign isn’t just about winning—it’s about building a movement. I will be a **political multiplier**, using technology and grassroots power to make politics more accessible and inclusive. Together, we can create a coalition to hold our leaders accountable and return the Democratic Party to its rightful place: **on the side of the people**.  
 
-우리는 대담한 행동이 필요합니다. 그리고 우리는 그것을 지금 필요로 합니다.
+## **Time for a Political Revolution**  
 
-## 변화를 위한 나의 비전: 정치적 배가
+The corporate takeover of the Democratic Party has made it disconnected and out of touch. **It’s time to clean house.** We need representatives who are unapologetically loyal to their communities, not corporate donors.  
 
-이 캠페인은 하나의 선거보다 더 큽니다. **저는 단지 한 자리를 얻기 위해 출마하는 것이 아닙니다; 저는 운동을 구축하기 위해 출마하고 있습니다.**
-
-진정한 변화는 우리가 조직하고, 동원하고, 매수되기를 거부하는 지도자들을 모든 수준에서 높일 때 발생합니다. 저의 비전은 **정치적 배가**가 되는 것입니다—제 지역구를 위해 싸울 뿐만 아니라, 다른 사람들이 그들의 커뮤니티에서 이 싸움을 시작하도록 권한을 부여하는 대표가 되는 것입니다. 우리는 책임을 요구하고 민주당을 그 뿌리로 되돌리기 위해 노동 계급 사람들의 연합을 구축할 것입니다.
-
-우리는 정치에 접근할 수 있도록 만들고 더 많은 사람들을 싸움에 참여시키기 위해 최첨단 기술을 포함한 모든 도구를 사용할 것입니다. 왜냐하면 이것은 단지 정책에 관한 것이 아니라—권력에 관한 것이기 때문입니다. 그리고 이제 그 권력을 되찾을 때입니다.
-
-## 정치 혁명의 시간
-
-기업이 민주당을 장악한 것은 당을 약하고, 영감을 잃고, 그들이 섬긴다고 주장하는 사람들과 단절되게 만들었습니다. **이제 집을 청소할 때입니다.** 이제 오늘날의 거래적 정치를 대담하고, 두려움 없고, 평범한 사람들의 투쟁에 깊이 뿌리내린 지도력으로 대체할 때입니다.
-
-이것이 제가 출마하는 이유입니다. **이 캠페인은 저에 관한 것이 아닙니다; 우리에 관한 것입니다.**
-
-그것은 노동자들, 세입자들, 부모들, 그리고 무시당하는 것에 지친 젊은이들에 관한 것입니다.
-
-그것은 우리의 정치에 무결성을 회복하고, 우리의 정부가 강자들을 위해서가 아니라 사람들을 위해 일하도록 보장하는 것에 관한 것입니다.
-
-**저는 물러서지 않을 것입니다. 저는 매수되지 않을 것입니다. 저와 함께 하여, 우리 당과 우리의 미래를 되찾기 위해 함께 싸웁시다.**
-
---- 
+I’m running in **GA-05** because this fight isn’t about me—it’s about all of us who’ve been ignored for too long. **I will not hold back. I will not be bought.** Join me, and let’s reclaim our party—and our future—together.

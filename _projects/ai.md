@@ -1,148 +1,167 @@
 ---
-title: "인공지능 일반화 (AGI)"
-description: "AI와 자동화가 근로자에게 힘을 주고, 일자리를 보호하며, 조지아 5지구에서 윤리적이고 사람 중심의 발전을 촉진하도록 보장합니다."
+title: "Artificial General Intelligence (AGI)"
+description: "Ensuring AI and automation empower workers, protect jobs, and promote ethical, people-first development."
 date: 2024-12-09 00:00:00 +0000
-label: "정책"
+label: "Policy"
 image: "/images/agi-header.webp"
-keywords: [AI 정책, 인공지능 일반화, 근로자 보호, 일자리 안정, 윤리적 AI 개발, 자동화 영향, 조지아 5지구, 재교육 프로그램, 인간 중심 기술, 경제 민주주의, 사회 안전망]
 ---
 
-# 인공지능: 근로자를 위한 기술
+# **Artificial Intelligence: Technology That Works for Workers**  
 
-## 개요
+## **AI Must Serve People—Not Replace Them**  
 
-**인공지능(AI)**과 **자동화**의 발전은 우리 세대의 가장 중요한 경제적 변화 중 하나를 나타냅니다. 그러나 기술은 **사람을 대체하는 것이 아니라, 사람을 위해 존재해야 합니다**. **조지아 5지구**에서는 AI와 로봇 기술이 **인간의 잠재력을 향상시키고**, 일자리를 보호하며, 경제적 기회를 촉진하는 미래를 약속합니다.  
+The rise of **Artificial Intelligence (AI) and automation** is transforming industries, but without **worker-first policies**, technology risks displacing jobs and deepening inequality. In **Georgia’s 5th Congressional District**, we are committed to ensuring AI enhances human potential, **protects workers, and expands economic opportunity—without leaving anyone behind**.  
 
-이 정책은 AI가 근로자를 위해 작동하도록 보장합니다—**커뮤니티에 힘을 주고, 안전성을 높이며**, 누구도 소외되지 않는 공유 번영의 길을 만듭니다.
-
----
-
-## **우리의 주요 목표**
-
-### 🛠️ **1. 인간 중심 기술을 통한 근로자 보호**  
-- **외골격 및 보조 도구**:  
-  제조업 및 건설업과 같은 산업에서 근로자의 안전과 생산성을 높이는 착용 가능한 기술에 투자합니다. 이러한 도구는 **신체적 부담을 줄이고** 부상을 예방하며 일자리를 안전하게 유지합니다.  
-
-- **강화 없이는 일자리 대체 금지**:  
-  기업이 자동화 시스템을 배치하기 전에 AI가 **근로자의 능력을 강화**해야 한다는 법안을 통과시킵니다.  
+**Our goal: a future where AI works for us, not against us.**  
 
 ---
 
-### 📋 **2. 자동화에서의 일자리 안정과 근로자 목소리**  
-- **자동화 영향 평가**:  
-  기업이 일자리를 자동화하기 전에 **공공 영향 평가**를 실시하도록 요구하여 근로자를 보호하거나 실직한 직원의 재교육 방법을 설명합니다.  
+## **The Challenges We Face**  
 
-- **근로자 대표성**:  
-  일터에서 AI 배치를 감독할 **근로자 위원회**를 설립하여 직원들이 자신의 일에 영향을 미치는 결정에 목소리를 낼 수 있도록 합니다.  
+### ❌ **Job Displacement Without Protections**  
+- AI and robotics are replacing workers in **manufacturing, logistics, retail, and even white-collar industries**.  
+- Companies prioritize automation **for profit**, ignoring its impact on workers.  
 
-- **근로자 친화적 AI 기준**:  
-  AI 시스템이 **직접적인 인간 감독** 없이 채용, 해고 또는 임금에 대한 결정을 독립적으로 내리는 것을 금지합니다.
+### ❌ **Lack of AI Oversight and Transparency**  
+- AI-driven hiring, firing, and wage decisions often happen **without human oversight**.  
+- Workers are excluded from discussions on how AI is implemented in their workplaces.  
 
----
+### ❌ **Inequitable Access to AI Jobs and Training**  
+- Without investment in **reskilling programs**, displaced workers are left behind.  
+- **Low-income communities and workers of color** have fewer opportunities in AI-driven industries.  
 
-### 📚 **3. 미래를 위한 재교육 및 교육**  
-- **무료 재교육 프로그램**:  
-  근로자에게 AI 유지보수, 로봇 프로그래밍 및 기타 미래 지향적인 분야의 기술을 가르치는 무료 또는 저비용 프로그램을 시작합니다.  
-
-- **커뮤니티 기술 허브**:  
-  주민들이 새로운 기술을 배우고, 프로젝트에 협력하며, 기업가 정신 기회를 탐색할 수 있는 **지역 기술 허브**를 설립합니다.  
-
-- **접근의 공정성**:  
-  이민자, 저소득층 및 소외된 근로자가 **다양한 언어와 유연한 형식**으로 재교육 프로그램에 접근할 수 있도록 보장합니다.
+### ❌ **The Risk of AI-Owned Monopolies**  
+- A handful of corporations dominate AI, **centralizing power and wealth** at the expense of workers.  
+- Without policy intervention, **workers will lose control over how technology impacts their livelihoods**.  
 
 ---
 
-### 🛡️ **4. 사회 안전망 강화**  
-- **실업 지원 및 재교육**:  
-  AI 도입으로 실직한 근로자를 위한 재교육 프로그램에 대한 수당과 더 긴 보장을 포함하도록 실업 수당을 확대합니다.  
+## **A People-First AI Agenda**  
 
-- **보편적 기본 소득(UBI) 파일럿 프로그램**:  
-  자동화와 경제적 혼란으로 인한 전환을 겪는 가족을 위한 안전망으로 UBI를 탐색합니다.  
+### 🛠️ **1. Protect Jobs Through Worker-Centric AI**  
+- **AI Should Assist, Not Replace:**  
+  - Require companies to use AI **to enhance, not eliminate** human labor.  
+  - Invest in **wearable exoskeletons and AI-assisted tools** to prevent injuries and improve productivity.  
 
-- **의료 및 정신 건강 지원**:  
-  기술적 실직으로 영향을 받은 근로자를 위해 저렴한 의료 및 정신 건강 서비스에 대한 접근을 보장합니다.
+- **Automation Impact Assessments:**  
+  - Companies must conduct **public impact reports** before automating jobs.  
+  - Businesses must commit to **worker retraining programs** before job cuts.  
 
----
-
-### 💡 **5. 경제 민주주의 촉진**  
-- **AI 기업의 근로자 소유**:  
-  근로자에게 기술 발전과 이익에 대한 지분을 부여하기 위해 AI 및 로봇 산업에서 **근로자 소유 기업**의 창출을 장려합니다.  
-
-- **지역 혁신 지원**:  
-  근로자와 소기업이 **AI 기반 스타트업**을 구축하여 일자리를 창출하고 지역 사회에 봉사할 수 있도록 보조금, 대출 및 멘토링을 제공합니다.  
+- **Worker Oversight of AI Decisions:**  
+  - **Ban AI from making firing and wage decisions** without human review.  
+  - Establish **worker-led AI oversight committees** in major industries.  
 
 ---
 
-### 🧭 **6. 윤리적 AI 개발 및 감독**  
-- **자동화 이전의 윤리**:  
-  기업이 AI 시스템이 근로자, 지역 사회 및 개인 정보에 미치는 영향을 평가하기 위해 **영향 평가**를 실시하도록 요구합니다.  
+### 📚 **2. Reskilling and Education for the Future**  
+- **Free AI and Robotics Training for Workers**  
+  - Provide free or low-cost **training programs** in AI maintenance, robotics, and automation management.  
+  - Ensure courses are accessible in **multiple languages and flexible formats**.  
 
-- **투명성과 책임**:  
-  AI 시스템이 투명하도록 하고, 의사 결정 과정에 대한 명확한 문서를 요구합니다.  
+- **Community Tech Hubs in Georgia’s 5th District**  
+  - Establish **public AI learning centers** to train residents in tech-driven industries.  
+  - Offer workshops on **AI entrepreneurship** to help small businesses use automation ethically.  
 
-- **커뮤니티 감독**:  
-  AI가 공공 및 민간 부문에 통합되는 방식에 대한 의견과 감독을 제공하기 위해 시민 주도의 위원회를 설립합니다.
-
----
-
-## **행동 계획**
-
-✅ **1. 입법 리더십**  
-- AI 시스템이 근로자 안전을 우선시하고, 인간의 역할을 강화하며, 지역 사회 영향 검토를 거치도록 요구하는 법안을 도입합니다.  
-- 노동 조합 및 산업 전문가와 협력하여 일자리와 지역 사회를 보호하는 **윤리적 AI 기준**을 수립합니다.  
-
-✅ **2. 인력 및 교육 투자**  
-- 근로자가 AI 주도의 산업에 적응할 수 있도록 **무료 재교육 프로그램**과 커뮤니티 기술 허브에 자금을 지원합니다.  
-- 지역 학교, 대학 및 노동 조합과 협력하여 유연하고 미래 지향적인 교육 프로그램을 제공합니다.  
-
-✅ **3. 사회 안전망 확대**  
-- 실업 수당을 강화하고 실직한 근로자를 위한 재교육 수당을 제공합니다.  
-- 자동화로 인한 경제적 전환 동안 재정적 안정성을 보장하기 위해 **UBI 프로그램**을 시범 운영합니다.  
-
-✅ **4. 지역 혁신 기회 창출**  
-- AI를 사용하여 **좋은 보수를 제공하는 지역 일자리**를 창출하는 소기업 및 스타트업에 보조금, 저금리 대출 및 멘토링을 제공합니다.  
-- 근로자 소유 AI 기업을 장려하여 직원들이 기술 발전의 직접적인 혜택을 누릴 수 있도록 합니다.  
-
-✅ **5. 윤리적이고 투명한 개발**  
-- 의무적인 **영향 평가**를 시행하고 기업이 AI 시스템의 사회적 영향을 공개하도록 요구합니다.  
-- 공공 및 민간 부문에서 윤리적 AI 배치를 감독하기 위해 시민 주도의 공개 위원회를 설립합니다.  
+- **Equity in Access**  
+  - Prioritize funding for **Black, immigrant, and low-income workers** to access AI training programs.  
 
 ---
 
-## **왜 이것이 중요한가**
+### 🛡️ **3. Strengthen Social Safety Nets**  
+- **Unemployment and Retraining Benefits**  
+  - Expand **unemployment protections** for workers displaced by automation.  
+  - Provide **stipends for workers** who enroll in retraining programs.  
 
-### ✅ **일자리 보호**  
-기술이 **인간의 노동을 향상시키고**, 생계를 없애지 않으면서 더 안전하고 생산적인 작업 환경을 조성해야 합니다.
+- **Universal Basic Income (UBI) Pilot for AI-Displaced Workers**  
+  - Launch a **UBI trial** in Georgia’s 5th District to support workers affected by automation.  
+  - Measure its impact on job transitions and economic stability.  
 
-### 📈 **경제적 기회**  
-재교육, 혁신 및 기업가 정신에 투자함으로써 AI 주도의 산업에서 수요가 높은 일자리를 위해 근로자를 준비시킬 것입니다.  
-
-### 🌍 **윤리적 개발**  
-AI는 투명하고 책임감 있게 개발되어야 하며, 이익보다 사람들의 복지를 우선시해야 합니다.  
-
-### 🛡️ **근로자에 대한 지원**  
-강력한 안전망, 정신 건강 지원 및 소유권으로의 경로는 근로자와 가족이 이 전환기 동안 번영할 수 있도록 보장합니다.
+- **Affordable Healthcare for AI-Disrupted Workers**  
+  - Ensure all displaced workers receive **healthcare, mental health support, and job placement assistance**.  
 
 ---
 
-## **조지아 5지구에 대한 우리의 약속**
+### 💡 **4. Promote Worker Ownership and Economic Democracy**  
+- **AI Should Generate Shared Wealth, Not Just Corporate Profits**  
+  - Incentivize **worker-owned AI cooperatives** that allow employees to benefit from automation.  
+  - Provide grants and loans for **AI-driven small businesses** that create local jobs.  
 
-일의 미래는 불확실성을 의미할 필요가 없습니다. AI와 자동화가 **책임감 있게 배치되도록 보장함으로써**, 우리는 근로자를 보호하고, 지역 사회를 강화하며, 공유 번영의 기회를 창출할 수 있습니다.  
-
-기술은 **우리에게 도움이 되어야 하며, 대체되어서는 안 됩니다**—그리고 대담하고 사람 중심의 정책으로 우리는 공정하고 포용적인 미래를 구축하는 길을 선도할 것입니다.
-
----
-
-## 결론: 모두를 위한 미래  
-
-우리는 전환점에 서 있습니다. AI와 자동화의 발전은 불평등을 확대하거나 권한 부여와 발전의 경로를 창출할 수 있습니다. **근로자를 우선시하고**, 재교육에 투자하며, 윤리적 개발을 시행하는 정책으로 우리는 기술 혁명에서 **누구도 소외되지 않도록** 보장할 수 있습니다.  
-
-**함께, 우리는 기술이 우리 모두를 위해 작동하는 미래를 구축할 것입니다—특권층만을 위한 것이 아닙니다.**
+- **Tech Innovation That Stays in Georgia’s 5th**  
+  - Support AI research and development that **benefits the local economy**.  
+  - Ensure **public funding for AI projects** benefits communities, not just corporations.  
 
 ---
 
-### **사람 중심의 AI 미래를 형성하는 데 함께하세요**
+### 🤖 **5. Ethical AI Development and Public Oversight**  
+- **AI Impact Reports Before Deployment**  
+  - Require companies to conduct **community impact studies** before launching AI-driven automation.  
 
-근로자를 보호하고, 혁신을 촉진하며, AI가 인류를 위해 봉사하도록 보장하는 정책을 위해 함께 싸웁니다.  
+- **Transparency in AI Decision-Making**  
+  - **Mandate AI explainability**—workers should know how AI makes decisions affecting their jobs.  
+  - Create **public AI oversight boards** to hold companies accountable.  
 
-**#근로자를위한기술 #인간우선AI #일자리안정 #모두를위한AI #조지아5지구**
+- **Ban AI in High-Risk Areas**  
+  - Prohibit AI from **making life-or-death decisions in healthcare, policing, and legal sentencing**.  
+  - Establish **ethical guidelines for AI** in public safety and labor markets.  
+
+---
+
+## **Action Plan for Georgia’s 5th District**  
+
+✅ **1. Legislative Action**  
+- Introduce laws requiring **AI to enhance, not replace, human labor**.  
+- Require **corporate accountability** for job displacement and automation.  
+- Ban **AI-only hiring and firing decisions** without human oversight.  
+
+✅ **2. Workforce Investment**  
+- Fund **free reskilling programs** and **tech hubs** across Georgia’s 5th District.  
+- Ensure **displaced workers receive financial support** during job transitions.  
+
+✅ **3. AI Transparency and Ethics Enforcement**  
+- Establish **worker and citizen oversight boards** to regulate AI use in workplaces.  
+- Mandate **public disclosure of AI-driven decisions** in employment and wages.  
+
+✅ **4. Support for Local Innovation**  
+- Invest in **worker-owned AI startups** and small businesses using AI ethically.  
+- Provide funding for **public-sector AI projects** that benefit Georgia’s 5th District.  
+
+---
+
+## **Why This Matters for Georgia’s 5th District**  
+
+### ✅ **Protecting Jobs and Workers**  
+We must ensure AI **enhances human labor**, keeping workplaces **safer and more productive** without eliminating livelihoods.  
+
+### 📈 **Expanding Economic Opportunity**  
+Investing in **AI reskilling, innovation, and entrepreneurship** will prepare Georgia’s 5th for high-demand, future-ready jobs.  
+
+### 🌍 **Ethical, Transparent Development**  
+AI should work for **all of us, not just Big Tech and corporations**.  
+
+### 🛡️ **Stronger Safety Nets for Workers**  
+By expanding **unemployment support, training benefits, and UBI pilots**, we can protect workers from economic shocks.  
+
+---
+
+## **Our Commitment to Georgia’s 5th District**  
+
+The future of work **shouldn’t be dictated by corporations alone**. We need **bold policies** that protect workers, ensure AI is used responsibly, and create opportunities for shared prosperity in **Georgia’s 5th District**.  
+
+Technology must **work for us—not replace us**. By investing in **people-first AI policies**, we will lead the way in building an economy that **works for everyone**.  
+
+---
+
+## **Conclusion: A Future That Works for Everyone**  
+
+AI and automation **don’t have to be a threat**—but without action, they will be. The choice is clear:  
+
+✅ **We can let corporations control AI, displace workers, and hoard profits.**  
+✅ **Or we can build a people-first AI economy that protects jobs, strengthens workers, and expands opportunity.**  
+
+**Georgia’s 5th District must lead in making AI a tool for justice, prosperity, and equity.**  
+
+---
+
+### **Join Us in Shaping a People-First AI Future**  
+
+Stand with us as we fight for policies that protect workers, promote innovation, and ensure AI serves humanity.
