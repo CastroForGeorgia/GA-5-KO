@@ -1,101 +1,101 @@
 ---
-title: "Housing"
-description: "Affordable, sustainable homes and creating good-paying jobs without displacement or environmental harm."
+title: "주택"
+description: "저렴하고 지속 가능한 주택과 이주나 환경 피해 없이 좋은 일자리를 창출합니다."
 date: 2025-02-19 00:00:00 +0000
-label: "Policy"
+label: "정책"
 image: "/images/housing-policy-header.webp"
 ---
 
-# **🏠 Build Baby Build: Housing for Georgia’s 5th District**  
+# **🏠 건설하자, 아기야: 조지아 5지구의 주택**  
 
-## **Housing Is a Right—Not a Commodity**  
+## **주택은 권리입니다—상품이 아닙니다**  
 
-Housing costs in **Georgia’s 5th Congressional District** are rising, families are being priced out of their own neighborhoods, and development too often prioritizes profit over people. Our **Workers’ Housing Guarantee**, guided by the motto **Build Baby Build**, ensures that **affordable, sustainable housing** is a right—not a privilege.  
+**조지아 5지구**의 주택 비용이 상승하고 있으며, 가족들은 자신의 동네에서 가격이 오르면서 밀려나고 있습니다. 개발은 사람보다 이익을 우선시하는 경우가 많습니다. 우리의 **근로자 주택 보장**은 **건설하자, 아기야**라는 모토 아래, **저렴하고 지속 가능한 주택**이 권리임을 보장합니다—특권이 아닙니다.  
 
-This plan **modernizes existing buildings, builds smartly**, and creates **good-paying jobs** in the process. By focusing on **homeownership, condos, and energy-efficient redevelopment**, we will expand housing opportunities **without displacing residents or harming the environment**.  
-
----
-
-## **The Housing Crisis in Georgia’s 5th District**  
-
-- **🏠 Homeownership is out of reach**—Rising costs and stagnant wages have made it nearly impossible for working families to buy a home.  
-- **📈 Rents are skyrocketing**—Longtime residents are being pushed out by gentrification.  
-- **🔨 The housing supply is inadequate**—Developers prioritize luxury units, leaving affordable housing scarce.  
-- **💼 Housing construction should create jobs**—We need to train and employ **local workers**, not just bring in outside developers.  
-- **🌱 Sustainability matters**—New housing must be built responsibly to lower energy costs and protect our environment.  
-
-Georgia’s 5th District **has the land, the workforce, and the need.** Now, we need bold leadership to build smarter, fairer, and sustainably.  
+이 계획은 **기존 건물을 현대화하고, 스마트하게 건설하며**, 그 과정에서 **좋은 일자리**를 창출합니다. **주택 소유, 콘도, 에너지 효율적인 재개발**에 집중함으로써, 우리는 **거주자를 이주시키거나 환경을 해치지 않고** 주택 기회를 확장할 것입니다.  
 
 ---
 
-## **The Workers’ Housing Guarantee: A Bold Solution**  
+## **조지아 5지구의 주택 위기**  
 
-### 🏗️ **1. Modernize and Expand Affordable Housing**  
-- **Revitalize underutilized buildings** into modern, energy-efficient homes.  
-- **Prioritize first-time homeownership** through affordable condos and starter homes.  
-- **Use green building materials** to reduce costs and lower utility bills.  
+- **🏠 주택 소유는 손이 닿지 않는 곳에 있습니다**—상승하는 비용과 정체된 임금으로 인해 일하는 가족들이 집을 사는 것이 거의 불가능해졌습니다.  
+- **📈 임대료가 급등하고 있습니다**—오랜 거주자들이 젠트리피케이션으로 밀려나고 있습니다.  
+- **🔨 주택 공급이 부족합니다**—개발자들이 고급 유닛을 우선시하여 저렴한 주택이 부족합니다.  
+- **💼 주택 건설은 일자리를 창출해야 합니다**—우리는 외부 개발자를 데려오는 것이 아니라 **지역 근로자**를 교육하고 고용해야 합니다.  
+- **🌱 지속 가능성이 중요합니다**—새로운 주택은 에너지 비용을 낮추고 환경을 보호하기 위해 책임감 있게 건설되어야 합니다.  
 
-### 💼 **2. Create Good-Paying Jobs Through Housing Works**  
-- **Hire and train local workers** to build and renovate homes.  
-- **Employment for the unhoused**—Provide job training in construction, sustainability, and property rehabilitation.  
-- **Support union labor** and fair wages for workers modernizing our housing stock.  
-
-### 🏠 **3. Build Pathways to Homeownership**  
-- **Offer down-payment assistance** for first-time buyers.  
-- **Allow workers to earn home credits** toward purchasing properties they helped build or renovate.  
-- **Protect longtime residents** by prioritizing affordable housing within their communities.  
-
-### 🌱 **4. Smart Growth Without Displacement**  
-- **Build in underutilized areas**—No need to bulldoze neighborhoods or green spaces.  
-- **Prioritize mixed-use developments**—Condos, townhomes, and small first-time homes instead of high-rise luxury apartments.  
-- **Ensure environmental sustainability**—Energy-efficient construction lowers costs for homeowners and renters.  
+조지아 5지구는 **토지, 노동력, 필요**를 갖추고 있습니다. 이제 우리는 더 스마트하고 공정하며 지속 가능한 건설을 위한 대담한 리더십이 필요합니다.  
 
 ---
 
-## **How We Make It Happen**  
+## **근로자 주택 보장: 대담한 해결책**  
 
-✅ **1. Renovate and Build Smart**  
-- Identify **vacant and underused buildings** for modernization.  
-- Develop **mixed-income housing** that keeps communities diverse and thriving.  
+### 🏗️ **1. 저렴한 주택 현대화 및 확장**  
+- **활용되지 않는 건물**을 현대적이고 에너지 효율적인 주택으로 재활성화합니다.  
+- **저렴한 콘도와 스타터 홈**을 통해 첫 주택 소유를 우선시합니다.  
+- **친환경 건축 자재**를 사용하여 비용을 줄이고 공과금을 낮춥니다.  
 
-✅ **2. Implement the Housing Works Program**  
-- Train and hire **local workers**, including those in need of housing, to build homes.  
-- **Provide skills training** in sustainable construction and energy efficiency.  
+### 💼 **2. 주택 건설을 통한 좋은 일자리 창출**  
+- **주택을 건설하고 개조하기 위해 지역 근로자**를 고용하고 교육합니다.  
+- **주거가 없는 사람들을 위한 고용**—건설, 지속 가능성 및 재산 복원에 대한 직업 교육을 제공합니다.  
+- **노조 노동**과 주택 현대화를 위한 공정한 임금을 지원합니다.  
 
-✅ **3. Make Homeownership Possible**  
-- Down-payment assistance and financing for first-time homebuyers.  
-- Offer **work-to-own programs** that reward workers with homeownership opportunities.  
+### 🏠 **3. 주택 소유로 가는 길 만들기**  
+- **첫 주택 구매자를 위한 다운 페이먼트 지원**을 제공합니다.  
+- **근로자들이 자신이 도와준 주택을 구매할 수 있도록** 주택 크레딧을 받을 수 있게 합니다.  
+- **오랜 거주자를 보호**하기 위해 그들의 지역 내 저렴한 주택을 우선시합니다.  
 
-✅ **4. Preserve Neighborhoods, Protect the Environment**  
-- Use **infill development** to prevent urban sprawl and environmental harm.  
-- Ensure **community-led development** that respects local history and culture.  
-
----
-
-## **Why This Matters for Georgia’s 5th District**  
-
-### 🏠 **Affordable Homes Without Displacement**  
-- Keeps **longtime residents in their communities** instead of pushing them out.  
-- Creates **housing people can actually afford**—not just luxury units for developers.  
-
-### 💼 **Jobs for the Community, Built by the Community**  
-- Thousands of **good-paying jobs** in construction, renovation, and sustainable energy.  
-- Training programs create **long-term employment and wealth-building opportunities**.  
-
-### 🌱 **Sustainable, Future-Focused Housing**  
-- **Energy-efficient homes** lower costs for families.  
-- **Green building practices** protect the environment and reduce emissions.  
+### 🌱 **이주 없는 스마트 성장**  
+- **활용되지 않는 지역에 건설**—동네나 녹지를 파괴할 필요가 없습니다.  
+- **혼합 용도 개발을 우선시**—고층 고급 아파트 대신 콘도, 타운홈, 작은 첫 주택을 건설합니다.  
+- **환경 지속 가능성을 보장**—에너지 효율적인 건설은 주택 소유자와 임차인의 비용을 낮춥니다.  
 
 ---
 
-## **A New Vision for Housing in Georgia’s 5th District**  
+## **우리가 실현하는 방법**  
 
-We **don’t** have to accept skyrocketing rents, corporate-driven development, and the displacement of working families. The **Workers’ Housing Guarantee** under **Build Baby Build** will **expand affordable housing, create good jobs, and build a sustainable future for everyone**.  
+✅ **1. 스마트하게 개조하고 건설하기**  
+- **빈 건물과 활용되지 않는 건물**을 현대화할 수 있도록 식별합니다.  
+- **다양성을 유지하고 번영하는 지역 사회**를 위한 **혼합 소득 주택**을 개발합니다.  
 
-By investing in **modernization, smart growth, and homeownership**, we will make **Georgia’s 5th District a leader in housing justice and economic opportunity**.  
+✅ **2. 주택 작업 프로그램 시행**  
+- **주택이 필요한 사람들을 포함한 지역 근로자**를 교육하고 고용하여 주택을 건설합니다.  
+- **지속 가능한 건설과 에너지 효율성**에 대한 기술 교육을 제공합니다.  
+
+✅ **3. 주택 소유 가능하게 만들기**  
+- 첫 주택 구매자를 위한 다운 페이먼트 지원 및 금융 지원을 제공합니다.  
+- **근로자에게 주택 소유 기회를 보상하는** 작업-소유 프로그램을 제공합니다.  
+
+✅ **4. 지역 사회 보호, 환경 보호**  
+- **인필 개발**을 사용하여 도시 확장과 환경 피해를 방지합니다.  
+- **지역 역사와 문화를 존중하는** 지역 사회 주도의 개발을 보장합니다.  
 
 ---
 
-## **Join Us: Build Baby Build for a Stronger, Fairer Future**  
+## **조지아 5지구에 중요한 이유**  
 
-Housing is the foundation of opportunity. Let’s make sure **everyone** in Georgia’s 5th District has access to a home they can afford and a community they can thrive in.  
+### 🏠 **이주 없는 저렴한 주택**  
+- **오랜 거주자들이 그들의 지역 사회에 남아 있도록** 합니다.  
+- **사람들이 실제로 감당할 수 있는 주택**을 창출합니다—개발자를 위한 고급 유닛이 아닙니다.  
+
+### 💼 **지역 사회를 위한 일자리, 지역 사회에 의해 건설됨**  
+- 건설, 개조 및 지속 가능한 에너지 분야에서 **수천 개의 좋은 일자리**를 창출합니다.  
+- 교육 프로그램은 **장기적인 고용 및 부의 축적 기회**를 제공합니다.  
+
+### 🌱 **지속 가능하고 미래 지향적인 주택**  
+- **에너지 효율적인 주택**은 가족의 비용을 낮춥니다.  
+- **친환경 건축 관행**은 환경을 보호하고 배출량을 줄입니다.  
+
+---
+
+## **조지아 5지구의 주택에 대한 새로운 비전**  
+
+우리는 **급등하는 임대료, 기업 주도의 개발, 일하는 가족의 이주**를 받아들일 필요가 없습니다. **건설하자, 아기야** 아래의 **근로자 주택 보장**은 **저렴한 주택을 확장하고, 좋은 일자리를 창출하며, 모두를 위한 지속 가능한 미래를 건설할 것입니다**.  
+
+**현대화, 스마트 성장, 주택 소유**에 투자함으로써, 우리는 **조지아 5지구를 주택 정의와 경제 기회의 선두주자로 만들 것입니다**.  
+
+---
+
+## **함께 하세요: 더 강하고 공정한 미래를 위한 건설하자, 아기야**  
+
+주택은 기회의 기초입니다. 조지아 5지구의 **모든 사람**이 감당할 수 있는 집과 번영할 수 있는 지역 사회에 접근할 수 있도록 합시다.

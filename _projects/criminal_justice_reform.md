@@ -1,110 +1,110 @@
 ---
-title: "Criminal Justice Reform"
-description: "Ending mass incarceration, transforming policing, and investing in opportunity-driven communities to create real justice for all."
+title: "형사 사법 개혁"
+description: "대량 수감 종료, 경찰 개혁, 기회 중심 커뮤니티에 투자하여 모두를 위한 진정한 정의를 창출합니다."
 date: 2025-01-24 00:00:00 +0000
-label: "Policy"
+label: "정책"
 image: "/images/criminal-justice-reform.webp"
 ---
 
-# **Criminal Justice Reform: Justice Through Opportunity**  
+# **형사 사법 개혁: 기회를 통한 정의**  
 
-## **Our System is Broken—We Must Fix It**  
+## **우리 시스템은 고장났습니다—우리는 이를 고쳐야 합니다**  
 
-The criminal justice system in **Georgia’s 5th District** disproportionately harms Black, brown, and low-income communities. It over-polices neighborhoods, locks people away for non-violent offenses, and fails to address the root causes of crime. Instead of rehabilitation and prevention, our system fuels cycles of poverty and incarceration.  
+**조지아 5지구**의 형사 사법 시스템은 흑인, 라틴계, 저소득 커뮤니티에 불균형적으로 피해를 줍니다. 이 시스템은 이웃을 과도하게 단속하고, 비폭력 범죄로 사람들을 감금하며, 범죄의 근본 원인을 해결하지 못합니다. 재활과 예방 대신, 우리의 시스템은 빈곤과 수감의 악순환을 조장합니다.  
 
-We must **end mass incarceration, transform policing, and invest in opportunity-driven solutions** that build safer, more just communities.  
-
----
-
-## **The Reality: Why Reform is Urgent**  
-
-- **🚨 Georgia’s Incarceration Crisis**: Georgia imprisons more people per capita than any other democratic nation.  
-- **⚖️ Racial Disparities**: Black residents are incarcerated at nearly five times the rate of white residents.  
-- **💰 Cash Bail Punishes Poverty**: Low-income individuals remain in jail for minor offenses simply because they can’t afford bail.  
-- **🏥 Mental Health Criminalization**: Too many people are jailed instead of getting the **mental health and addiction treatment** they need.  
-- **🔄 Recidivism Cycle**: Without rehabilitation, housing, and job opportunities, people leaving prison are set up to fail.  
-
-This **does not** make our communities safer—it makes them more unstable.  
+우리는 **대량 수감을 종료하고, 경찰을 개혁하며, 안전하고 정의로운 커뮤니티를 구축하는 기회 중심의 솔루션에 투자해야 합니다.**  
 
 ---
 
-## **A New Vision for Criminal Justice**  
+## **현실: 왜 개혁이 시급한가**  
 
-### 🛑 **1. End Mass Incarceration**  
-- **Decriminalize non-violent offenses** and expunge past records.  
-- **Abolish cash bail** and replace it with risk-based systems that don’t punish poverty.  
-- **Reform sentencing laws** to eliminate mandatory minimums and reduce excessive punishments.  
+- **🚨 조지아의 수감 위기**: 조지아는 다른 민주 국가보다 인구 대비 더 많은 사람을 수감하고 있습니다.  
+- **⚖️ 인종 불균형**: 흑인 주민은 백인 주민보다 거의 다섯 배의 비율로 수감됩니다.  
+- **💰 현금 보석은 빈곤을 처벌합니다**: 저소득 개인은 보석금을 감당할 수 없어서 경미한 범죄로 감옥에 남아 있습니다.  
+- **🏥 정신 건강 범죄화**: 너무 많은 사람들이 필요한 **정신 건강 및 중독 치료**를 받지 못하고 감금됩니다.  
+- **🔄 재범의 악순환**: 재활, 주거 및 직업 기회가 없으면, 감옥에서 나오는 사람들은 실패하도록 내몰립니다.  
 
-### 🤝 **2. Transform Policing Practices**  
-- **Community-led policing** that builds trust and reduces harm.  
-- **End racial profiling and discriminatory stop-and-frisk policies**.  
-- **Increase police accountability** with independent oversight and mandatory body cameras.  
-
-### 🛠️ **3. Invest in Alternatives to Incarceration**  
-- Expand **restorative justice programs** to focus on rehabilitation, not punishment.  
-- **Fund mental health and addiction treatment** as alternatives to jail.  
-- **Create youth diversion programs** that offer education, mentorship, and job training instead of incarceration.  
-
-### 🌟 **4. Support Reentry and Rehabilitation**  
-- **Ban discrimination against formerly incarcerated individuals** in jobs and housing.  
-- **Fund job training, education, and housing assistance** for returning citizens.  
-- **Expand mental health care and counseling** to prevent recidivism.  
-
-### 🛡️ **5. Address Community Safety Holistically**  
-- **Invest in education, job creation, and housing stability** to prevent crime at its roots.  
-- **Strengthen protections for victims of crime** through legal aid and trauma-informed care.  
-- **Promote gun safety laws** like universal background checks to keep communities safe.  
+이것은 **우리 커뮤니티를 더 안전하게 만들지 않습니다—오히려 더 불안정하게 만듭니다.**  
 
 ---
 
-## **How We Deliver Justice Through Reform**  
+## **형사 사법에 대한 새로운 비전**  
 
-✅ **1. Decriminalize and Reform Sentencing**  
-- End harsh penalties for non-violent drug offenses and expunge past convictions.  
-- Eliminate **cash bail** for non-violent offenders.  
+### 🛑 **1. 대량 수감 종료**  
+- **비폭력 범죄 비범죄화** 및 과거 기록 삭제.  
+- **현금 보석 폐지** 및 빈곤을 처벌하지 않는 위험 기반 시스템으로 대체.  
+- **형량 법 개혁**으로 의무 최소형을 없애고 과도한 처벌을 줄입니다.  
 
-✅ **2. Expand Mental Health and Addiction Services**  
-- Divert individuals in crisis to **treatment, not prison**.  
-- Increase funding for **community-based mental health and rehabilitation centers**.  
+### 🤝 **2. 경찰 관행 개혁**  
+- **신뢰를 구축하고 피해를 줄이는 지역사회 주도 경찰**.  
+- **인종 프로파일링 및 차별적 정지 및 수색 정책 종료**.  
+- **독립적인 감독 및 의무 바디 카메라**를 통해 경찰의 책임성 강화.  
 
-✅ **3. Overhaul Policing and Accountability**  
-- **Mandatory body cameras** and **independent civilian review boards** for police misconduct.  
-- **Ban racial profiling** and end discriminatory stop-and-frisk policies.  
+### 🛠️ **3. 수감 대안에 투자**  
+- **재활에 초점을 맞춘 회복적 정의 프로그램** 확대.  
+- **감옥 대신 정신 건강 및 중독 치료**에 자금 지원.  
+- **교육, 멘토링 및 직업 훈련**을 제공하는 청소년 전환 프로그램 창설.  
 
-✅ **4. Invest in Opportunity, Not Incarceration**  
-- Fund **job training, education, and housing programs** for returning citizens.  
-- Expand **violence prevention and community-based safety programs**.  
+### 🌟 **4. 재진입 및 재활 지원**  
+- **이전 수감자에 대한 차별 금지** (직업 및 주거).  
+- **재진입 시민을 위한 직업 훈련, 교육 및 주거 지원**에 자금 지원.  
+- **재범 방지를 위한 정신 건강 관리 및 상담** 확대.  
 
-✅ **5. Prevent Crime by Addressing Root Causes**  
-- **Increase funding for youth mentorship, after-school programs, and job training.**  
-- Provide mental health, addiction recovery, and housing stability programs.  
-
----
-
-## **What This Means for Georgia’s 5th District**  
-
-### ⚖️ **Fair and Equitable Justice**  
-- No one should be jailed for being poor, Black, or struggling with addiction.  
-
-### 💰 **Investing in People, Not Prisons**  
-- Redirect taxpayer money from mass incarceration to education, job training, and mental health care.  
-
-### 🚔 **Trust-Based Public Safety**  
-- Community-led policing makes neighborhoods safer without excessive force or over-policing.  
-
-### 🔄 **Breaking the Cycle**  
-- Job training and housing assistance ensure people leaving prison **have a real second chance**.  
+### 🛡️ **5. 커뮤니티 안전을 총체적으로 다루기**  
+- **범죄의 근본 원인을 예방하기 위해 교육, 일자리 창출 및 주거 안정에 투자**.  
+- **법률 지원 및 트라우마 기반 치료**를 통해 범죄 피해자 보호 강화.  
+- **커뮤니티 안전을 위해 보편적 배경 조사와 같은 총기 안전 법률 촉진**.  
 
 ---
 
-## **A Justice System That Works for the People**  
+## **개혁을 통한 정의 제공 방법**  
 
-We **cannot police our way to safety**. True public safety comes from **investing in people, addressing systemic inequities, and creating opportunities** for all.  
+✅ **1. 비범죄화 및 형량 개혁**  
+- 비폭력 마약 범죄에 대한 가혹한 처벌 종료 및 과거 유죄 판결 삭제.  
+- 비폭력 범죄자에 대한 **현금 보석 폐지**.  
 
-By **ending mass incarceration, reforming policing, and funding prevention**, we will build a **fairer, safer** criminal justice system in **Georgia’s 5th District**—one that values rehabilitation over punishment, and justice over retribution.  
+✅ **2. 정신 건강 및 중독 서비스 확대**  
+- 위기 상황에 있는 개인을 **치료로 전환, 감옥이 아닌**.  
+- **지역 사회 기반 정신 건강 및 재활 센터**에 대한 자금 지원 증가.  
+
+✅ **3. 경찰 및 책임성 개혁**  
+- 경찰 비행에 대한 **의무 바디 카메라** 및 **독립적인 민간 검토 위원회**.  
+- **인종 프로파일링 금지** 및 차별적 정지 및 수색 정책 종료.  
+
+✅ **4. 수감이 아닌 기회에 투자**  
+- 재진입 시민을 위한 **직업 훈련, 교육 및 주거 프로그램**에 자금 지원.  
+- **폭력 예방 및 지역 사회 기반 안전 프로그램** 확대.  
+
+✅ **5. 근본 원인 해결을 통한 범죄 예방**  
+- **청소년 멘토링, 방과 후 프로그램 및 직업 훈련에 대한 자금 지원 증가.**  
+- 정신 건강, 중독 회복 및 주거 안정 프로그램 제공.  
 
 ---
 
-## **Join Us in the Fight for Justice**  
+## **조지아 5지구에 대한 의미**  
 
-Stand with us to create a system that **uplifts people instead of locking them away**. **Together, we can end mass incarceration and build a future based on opportunity, fairness, and dignity.**  
+### ⚖️ **공정하고 평등한 정의**  
+- 가난하거나, 흑인이거나, 중독으로 어려움을 겪는 이유로 누군가가 감옥에 가서는 안 됩니다.  
+
+### 💰 **감옥이 아닌 사람에 투자**  
+- 세금 돈을 대량 수감에서 교육, 직업 훈련 및 정신 건강 관리로 전환합니다.  
+
+### 🚔 **신뢰 기반 공공 안전**  
+- 지역 사회 주도 경찰이 과도한 힘이나 과도한 단속 없이 이웃을 더 안전하게 만듭니다.  
+
+### 🔄 **악순환 끊기**  
+- 직업 훈련 및 주거 지원이 감옥에서 나오는 사람들이 **진정한 두 번째 기회를 갖도록 보장합니다.**  
+
+---
+
+## **사람을 위한 형사 사법 시스템**  
+
+우리는 **안전으로 가는 길을 경찰로 해결할 수 없습니다**. 진정한 공공 안전은 **사람에 대한 투자, 체계적 불평등 해결, 그리고 모두를 위한 기회 창출**에서 옵니다.  
+
+**대량 수감을 종료하고, 경찰을 개혁하며, 예방에 자금을 지원함으로써**, 우리는 **조지아 5지구**에서 **재활을 처벌보다, 정의를 보복보다 중시하는** 더 공정하고 안전한 형사 사법 시스템을 구축할 것입니다.  
+
+---
+
+## **정의를 위한 싸움에 동참하세요**  
+
+사람들을 가두는 대신 **그들을 고양시키는 시스템을 만들기 위해 우리와 함께 하세요**. **함께 대량 수감을 종료하고 기회, 공정성 및 존엄성을 기반으로 한 미래를 구축할 수 있습니다.**

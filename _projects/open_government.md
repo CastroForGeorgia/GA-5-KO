@@ -1,136 +1,136 @@
 ---
-title: "Open Government"
-description: "Creating a transparent, accountable, and collaborative government that puts power in the hands of the people."
+title: "열린 정부"
+description: "권력을 국민의 손에 쥐어주는 투명하고 책임감 있으며 협력적인 정부를 만드는 것."
 date: 2024-11-28 00:00:00 +0000
-label: "Policy"
+label: "정책"
 image: "/images/open-government-header.webp"
 ---
 
-# **Open Government: A Transparent, Accountable Future**  
+# **열린 정부: 투명하고 책임 있는 미래**  
 
-## **Government Should Work for the People—Not Behind Closed Doors**  
+## **정부는 국민을 위해 일해야 하며, 폐쇄적인 공간 뒤에서가 아니다**  
 
-Trust in government is at an all-time low, and for good reason. **Too many decisions are made in secrecy, public funds are mismanaged, and people are left out of the political process.** In **Georgia’s 5th Congressional District**, we are fighting for a government that is fully **transparent, accountable, and collaborative**—a government that **works with the people, not against them**.  
+정부에 대한 신뢰는 사상 최저치에 이르렀고, 그럴만한 이유가 있습니다. **너무 많은 결정이 비밀리에 이루어지고, 공공 자금이 잘못 관리되며, 국민이 정치 과정에서 배제되고 있습니다.** **조지아 제5선거구**에서는 완전히 **투명하고, 책임감 있으며, 협력적인** 정부를 위해 싸우고 있습니다—국민과 함께 일하는 정부, 국민을 대적하지 않는 정부입니다.  
 
-Through **open data, participatory decision-making, and real-time transparency**, we will build a government where every resident can track **how money is spent, how policies are made, and how leaders are held accountable.**  
+**열린 데이터, 참여적 의사결정, 실시간 투명성**을 통해 모든 주민이 **자금이 어떻게 사용되고, 정책이 어떻게 만들어지며, 리더들이 어떻게 책임을 지는지를 추적할 수 있는 정부를 구축할 것입니다.**  
 
-**This is your government. It’s time to take it back.**  
-
----
-
-## **Why Open Government Matters in Georgia’s 5th District**  
-
-### 🔎 **Lack of Transparency Hurts Communities**  
-- **Public funds are mismanaged** when budgets are not easily accessible.  
-- **Decisions are made without input** from the people they impact the most.  
-- **Corruption and inefficiency thrive** when leaders are not held accountable.  
-
-### 🗳️ **People Deserve a Voice in Their Government**  
-- Residents should have **direct input on policy decisions, budgeting, and community projects**.  
-- A government that listens to its people is a government that works **better for everyone**.  
+**이것은 당신의 정부입니다. 이제 되찾을 시간입니다.**  
 
 ---
 
-## **A Bold Plan for Open Government**  
+## **조지아 제5선거구에서 열린 정부가 중요한 이유**  
 
-### 🏛️ **1. Full Transparency in Government Operations**  
-- **Public Access to Policies**  
-  - All **policy drafts, updates, and finalized documents** will be published on **open platforms** like GitHub for public review.  
-- **Live Updates on Legislative Progress**  
-  - Residents will have **real-time access** to legislation, amendments, and votes that affect their lives.  
-- **Open Access to Public Records**  
-  - Expand access to **meeting minutes, reports, and budget data**, so residents can track how decisions are made.  
+### 🔎 **투명성 부족은 지역 사회에 해를 끼친다**  
+- **예산이 쉽게 접근할 수 없을 때 공공 자금이 잘못 관리됩니다.**  
+- **가장 영향을 받는 사람들의 의견 없이 결정이 이루어집니다.**  
+- **리더들이 책임을 지지 않을 때 부패와 비효율성이 번성합니다.**  
 
----
-
-### 💰 **2. Transparent Budgeting and Spending**  
-- **Interactive Budget Dashboards**  
-  - Create **real-time tracking tools** where residents can see exactly how public funds are being spent.  
-- **Public Spending Reports**  
-  - Publish **quarterly spending reports** in plain language, ensuring all residents can understand where their tax dollars go.  
-- **Community Budget Oversight**  
-  - Establish **resident-led budget review committees** to hold government spending accountable.  
+### 🗳️ **국민은 정부에서 목소리를 낼 자격이 있다**  
+- 주민들은 **정책 결정, 예산 편성 및 지역 프로젝트에 대한 직접적인 의견을 가져야 합니다.**  
+- 국민의 말을 듣는 정부는 **모두를 위해 더 나은 정부**입니다.  
 
 ---
 
-### 🤝 **3. Collaborative Governance and Public Engagement**  
-- **Regular Town Halls and Open Forums**  
-  - Host **monthly in-person and virtual meetings** where residents can ask questions and offer ideas.  
-- **Community-Led Policy Sprints**  
-  - Invite residents to **help draft policies**, ensuring the community has a direct say in government decisions.  
-- **Participatory Budgeting**  
-  - Allow residents to **vote on how a portion of public funds are allocated**, giving direct power to the people.  
+## **열린 정부를 위한 대담한 계획**  
+
+### 🏛️ **1. 정부 운영의 완전한 투명성**  
+- **정책에 대한 공개 접근**  
+  - 모든 **정책 초안, 업데이트 및 최종 문서**는 **GitHub와 같은 열린 플랫폼**에 게시되어 공개 검토를 받을 것입니다.  
+- **입법 진행 상황에 대한 실시간 업데이트**  
+  - 주민들은 **자신의 삶에 영향을 미치는 법안, 수정안 및 투표**에 대한 실시간 접근을 가질 것입니다.  
+- **공공 기록에 대한 열린 접근**  
+  - **회의록, 보고서 및 예산 데이터**에 대한 접근을 확대하여 주민들이 결정이 어떻게 이루어지는지를 추적할 수 있도록 합니다.  
 
 ---
 
-### 📊 **4. Open Data for the Public**  
-- **User-Friendly Dashboards**  
-  - Provide easy-to-use tools for residents to **track government spending, project timelines, and policy updates**.  
-- **Training and Workshops**  
-  - Offer **free public training sessions** to help residents learn how to access and use open government data.  
-- **Real-Time Crime and Infrastructure Reports**  
-  - Provide **live updates** on crime statistics, road repairs, and city projects, keeping the community informed.  
+### 💰 **2. 투명한 예산 편성 및 지출**  
+- **인터랙티브 예산 대시보드**  
+  - 주민들이 공공 자금이 어떻게 사용되고 있는지를 정확히 볼 수 있는 **실시간 추적 도구**를 만듭니다.  
+- **공공 지출 보고서**  
+  - 모든 주민이 세금이 어떻게 사용되는지를 이해할 수 있도록 **분명한 언어로 된 분기별 지출 보고서**를 게시합니다.  
+- **지역 사회 예산 감독**  
+  - 정부 지출을 책임지기 위해 **주민 주도의 예산 검토 위원회**를 설립합니다.  
 
 ---
 
-### 🔎 **5. Stronger Oversight and Accountability**  
-- **Independent Government Audits**  
-  - Require **third-party financial and ethical audits** to ensure responsible governance.  
-- **Audit Trails for Policy Changes**  
-  - Track and publish **all changes** to policies and budgets, ensuring transparency in decision-making.  
-- **Public Scorecards on Government Performance**  
-  - Release **regular performance metrics** on how well public programs are working.  
+### 🤝 **3. 협력적 거버넌스 및 공공 참여**  
+- **정기적인 타운홀 및 공개 포럼**  
+  - 주민들이 질문하고 아이디어를 제안할 수 있는 **매월 대면 및 가상 회의**를 개최합니다.  
+- **지역 사회 주도의 정책 스프린트**  
+  - 주민들이 **정책 초안을 작성하는 데 참여하도록 초대하여** 지역 사회가 정부 결정에 직접적인 발언권을 갖도록 합니다.  
+- **참여적 예산 편성**  
+  - 주민들이 **공공 자금의 일부가 어떻게 배분될지를 투표할 수 있도록 하여** 국민에게 직접적인 권한을 부여합니다.  
 
 ---
 
-## **Action Plan for Georgia’s 5th District**  
-
-✅ **1. Launch Open Data Platforms**  
-- Publish all government spending and policy documents on **publicly accessible platforms**.  
-- Develop a **mobile-friendly dashboard** for real-time tracking of public funds and programs.  
-
-✅ **2. Increase Community Participation**  
-- Host **monthly town halls and virtual forums** to keep residents engaged.  
-- Launch a **public input system** where residents can submit feedback on policies before they pass.  
-
-✅ **3. Strengthen Oversight and Accountability**  
-- Implement **mandatory audits** to track government spending and prevent corruption.  
-- Establish **community watchdog groups** to oversee key government decisions.  
-
-✅ **4. Promote Public Awareness and Accessibility**  
-- Provide **free workshops** on how residents can access and use government data.  
-- Ensure all **public records and tools are available in multiple languages** for accessibility.  
-
-✅ **5. Report Progress Regularly**  
-- Publish **quarterly transparency reports** outlining what government actions have been taken and what’s coming next.  
-- Use **social media, newsletters, and in-person events** to ensure residents stay informed.  
+### 📊 **4. 대중을 위한 열린 데이터**  
+- **사용자 친화적인 대시보드**  
+  - 주민들이 **정부 지출, 프로젝트 일정 및 정책 업데이트**를 쉽게 추적할 수 있는 도구를 제공합니다.  
+- **교육 및 워크숍**  
+  - 주민들이 열린 정부 데이터를 접근하고 사용하는 방법을 배울 수 있도록 **무료 공공 교육 세션**을 제공합니다.  
+- **실시간 범죄 및 인프라 보고서**  
+  - **범죄 통계, 도로 수리 및 도시 프로젝트에 대한 실시간 업데이트**를 제공하여 지역 사회를 정보로 가득 채웁니다.  
 
 ---
 
-## **Why This Matters for Georgia’s 5th District**  
-
-### ✅ **Restoring Trust in Government**  
-A government that operates in the open earns the trust of its people.  
-
-### 🗳️ **Power Back to the People**  
-With **participatory budgeting and open forums**, every resident has a say in shaping their community.  
-
-### 📈 **Preventing Corruption and Waste**  
-Transparency eliminates the shadows where **waste, fraud, and backroom deals** thrive.  
-
-### 💡 **Better Solutions Through Collaboration**  
-When government listens, **the best ideas come from the people themselves**.  
+### 🔎 **5. 강력한 감독 및 책임**  
+- **독립적인 정부 감사**  
+  - 책임 있는 거버넌스를 보장하기 위해 **제3자 재무 및 윤리 감사**를 요구합니다.  
+- **정책 변경에 대한 감사 추적**  
+  - **정책 및 예산의 모든 변경 사항**을 추적하고 게시하여 의사 결정의 투명성을 보장합니다.  
+- **정부 성과에 대한 공개 점수 카드**  
+  - 공공 프로그램이 얼마나 잘 작동하고 있는지를 보여주는 **정기적인 성과 지표**를 발표합니다.  
 
 ---
 
-## **A Government That Works for You, Not Themselves**  
+## **조지아 제5선거구를 위한 행동 계획**  
 
-For too long, government decisions have been made behind closed doors. **That ends now.** Our **Open Government Policy** ensures that every decision, every dollar, and every document is accessible to the people of **Georgia’s 5th District**.  
+✅ **1. 열린 데이터 플랫폼 시작**  
+- 모든 정부 지출 및 정책 문서를 **공개 접근 가능한 플랫폼**에 게시합니다.  
+- 공공 자금 및 프로그램의 실시간 추적을 위한 **모바일 친화적인 대시보드**를 개발합니다.  
 
-This is **your government.** It should be transparent, accountable, and responsive to you.  
+✅ **2. 지역 사회 참여 증가**  
+- 주민들이 참여할 수 있도록 **매월 타운홀 및 가상 포럼**을 개최합니다.  
+- 주민들이 정책에 대한 피드백을 제출할 수 있는 **공공 의견 시스템**을 시작합니다.  
+
+✅ **3. 감독 및 책임 강화**  
+- 정부 지출을 추적하고 부패를 방지하기 위해 **의무 감사**를 시행합니다.  
+- 주요 정부 결정을 감독하기 위해 **지역 사회 감시 그룹**을 설립합니다.  
+
+✅ **4. 공공 인식 및 접근성 증진**  
+- 주민들이 정부 데이터를 접근하고 사용하는 방법에 대한 **무료 워크숍**을 제공합니다.  
+- 모든 **공공 기록 및 도구가 여러 언어로 제공되어 접근성을 보장합니다.**  
+
+✅ **5. 정기적으로 진행 상황 보고**  
+- 정부의 조치와 향후 계획을 설명하는 **분기별 투명성 보고서**를 게시합니다.  
+- 주민들이 정보를 얻을 수 있도록 **소셜 미디어, 뉴스레터 및 대면 이벤트**를 활용합니다.  
 
 ---
 
-### **Join the Fight for Open, Accountable Government**  
+## **조지아 제5선거구에 중요한 이유**  
 
-It’s time to **take back our government and demand real transparency.**  
+### ✅ **정부에 대한 신뢰 회복**  
+열린 정부는 국민의 신뢰를 얻습니다.  
+
+### 🗳️ **권력을 국민에게 돌려주기**  
+**참여적 예산 편성 및 공개 포럼**을 통해 모든 주민이 지역 사회 형성에 발언권을 가집니다.  
+
+### 📈 **부패 및 낭비 방지**  
+투명성은 **낭비, 사기 및 비밀 거래**가 번성하는 그림자를 없앱니다.  
+
+### 💡 **협력을 통한 더 나은 해결책**  
+정부가 귀 기울일 때, **최고의 아이디어는 국민 스스로 나옵니다.**  
+
+---
+
+## **당신을 위한 정부, 자신을 위한 정부가 아니다**  
+
+너무 오랫동안 정부의 결정은 폐쇄적인 공간에서 이루어졌습니다. **이제 그것은 끝났습니다.** 우리의 **열린 정부 정책**은 모든 결정, 모든 달러, 모든 문서가 **조지아 제5선거구**의 국민에게 접근 가능하도록 보장합니다.  
+
+이것은 **당신의 정부입니다.** 당신에게 투명하고, 책임감 있으며, 반응하는 정부가 되어야 합니다.  
+
+---
+
+### **열린 책임 있는 정부를 위한 싸움에 동참하세요**  
+
+이제 **우리 정부를 되찾고 진정한 투명성을 요구할 시간입니다.**

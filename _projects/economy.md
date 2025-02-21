@@ -1,128 +1,128 @@
 ---
-title: "Economy"
-description: "Strengthening local jobs, building affordable housing, and ensuring fair taxation to create a thriving and equitable economy."
+title: "경제"
+description: "지역 일자리 강화, 저렴한 주택 건설, 공정한 세금 부과를 통해 번영하고 공정한 경제를 창출합니다."
 date: 2025-02-16 00:00:00 +0000
-label: "Policy"
+label: "정책"
 image: "/images/economy-policy-header.webp"
 ---
 
-# **Building an Economy That Works for Everyone**  
+# **모두를 위한 경제 구축**  
 
-## **A Fair Economy Starts with the Working Class**  
+## **공정한 경제는 노동계급에서 시작된다**  
 
-The economy isn’t working for everyone. **While corporations dodge taxes and billionaires grow richer, working families struggle with stagnant wages, housing costs, and job instability.** In **Georgia’s 5th Congressional District**, we’re building an economy that puts people first—**protecting workers, ensuring fair taxation, and expanding economic opportunities.**  
+경제는 모두를 위해 작동하지 않습니다. **기업들이 세금을 회피하고 억만장자들이 더 부유해지는 동안, 노동자 가정은 정체된 임금, 주택 비용, 그리고 일자리 불안정으로 어려움을 겪고 있습니다.** **조지아 5지구**에서는 사람을 우선시하는 경제를 구축하고 있습니다—**근로자를 보호하고, 공정한 세금을 보장하며, 경제적 기회를 확대합니다.**  
 
-It’s time to **end corporate handouts, invest in affordable housing, and create a future where every family has a real chance at prosperity.**  
-
----
-
-## **The Challenges We Must Address**  
-
-### ❌ **Working Families Shoulder the Tax Burden While the Wealthy Pay Less**  
-- Billionaires and corporations **exploit loopholes** to avoid taxes while working people foot the bill.  
-- Stock-based wealth goes **untaxed**, even when used like income.  
-
-### ❌ **Housing Costs Are Out of Control**  
-- Wages haven’t kept up with rising **rent and home prices**.  
-- Public investments in **affordable housing have lagged**, leaving families vulnerable.  
-
-### ❌ **Jobs Are Being Replaced by Automation Without Worker Protections**  
-- Corporations cut costs with automation **while leaving workers behind**.  
-- Training programs and safety nets **aren’t keeping up** with job displacement.  
+이제는 **기업 보조금을 중단하고, 저렴한 주택에 투자하며, 모든 가정이 번영할 수 있는 진정한 기회를 가질 수 있는 미래를 만들어야 할 때입니다.**  
 
 ---
 
-## **A Bold Plan for Economic Justice**  
+## **우리가 해결해야 할 도전 과제**  
 
-### 🏛️ **1. Close Tax Loopholes and Make Corporations Pay Their Fair Share**  
-- **Tax Stock Leveraging Like Wages**  
-  - If the wealthy **borrow against stocks like income, they should be taxed like workers’ wages.**  
-- **End Corporate Tax Havens**  
-  - Stop companies from **hiding profits offshore** to avoid contributing to the economy.  
-- **Penalize Job Outsourcing**  
-  - Companies that move **over 1% of their workforce overseas per year** should face tax penalties.  
+### ❌ **부유한 사람들이 적게 세금을 내는 반면, 노동자 가정은 세금 부담을 짊어지고 있다**  
+- 억만장자와 기업들은 **세금 회피를 위한 허점을 이용**하며, 노동자들이 그 비용을 부담하고 있습니다.  
+- 주식 기반의 부는 **세금이 부과되지 않으며**, 소득처럼 사용될 때도 마찬가지입니다.  
 
----
+### ❌ **주택 비용이 통제 불능 상태**  
+- 임금은 **임대료와 주택 가격 상승**에 따라가지 못하고 있습니다.  
+- 저렴한 주택에 대한 **공공 투자가 부족하여** 가정들이 취약해지고 있습니다.  
 
-### 🏗️ **2. Expand Affordable Housing Through the Workers’ Housing Guarantee**  
-- **Build Affordable Homes for Working Families**  
-  - Invest in **energy-efficient, mixed-income housing** to make homeownership and renting more affordable.  
-- **Create Jobs Through Housing Construction**  
-  - Infrastructure projects will **stimulate industries** like construction, manufacturing, and local services.  
-- **Protect Longtime Residents from Displacement**  
-  - Introduce **tenant protections** to prevent unfair evictions and skyrocketing rent increases.  
+### ❌ **일자리가 자동화로 대체되고 있지만 근로자 보호는 없다**  
+- 기업들은 **비용 절감을 위해 자동화**를 도입하면서 근로자들은 뒤처지고 있습니다.  
+- 교육 프로그램과 안전망이 **일자리 대체에 따라가지 못하고 있습니다.**  
 
 ---
 
-### 🤖 **3. Regulate Automation to Protect Jobs**  
-- **Ensure AI and Robotics Work for Workers, Not Just CEOs**  
-  - Companies must **prove that automation benefits employees** before implementing mass layoffs.  
-- **Fund Job Retraining and Career Transitions**  
-  - Establish **free or low-cost reskilling programs** for workers impacted by automation.  
-- **Support Small Businesses Adopting Worker-Friendly Technology**  
-  - Offer tax incentives for **businesses that integrate automation while protecting jobs**.  
+## **경제 정의를 위한 대담한 계획**  
+
+### 🏛️ **1. 세금 허점을 없애고 기업들이 공정한 세금을 내도록 하라**  
+- **주식 차입을 소득처럼 세금 부과**  
+  - 부유한 사람들이 **주식을 소득처럼 차입한다면, 근로자의 임금처럼 세금을 부과해야 합니다.**  
+- **기업 세금 피난처 종료**  
+  - 기업들이 **이익을 해외에 숨기는 것을 막아** 경제에 기여하도록 해야 합니다.  
+- **일자리 아웃소싱에 대한 처벌**  
+  - 매년 **1% 이상의 인력을 해외로 이전하는 기업**은 세금 처벌을 받아야 합니다.  
 
 ---
 
-### 💼 **4. Invest in Local Jobs and Small Business Growth**  
-- **Expand Access to Capital for Small Businesses**  
-  - Provide **grants and low-interest loans** to local businesses and worker-owned cooperatives.  
-- **Strengthen Worker Protections and Unions**  
-  - Guarantee **fair wages, paid leave, and collective bargaining rights** for all workers.  
-- **Invest in Infrastructure That Creates Jobs**  
-  - Fund **transportation, broadband, and clean energy projects** that boost local employment.  
+### 🏗️ **2. 근로자 주택 보장을 통해 저렴한 주택 확대**  
+- **근로자 가정을 위한 저렴한 주택 건설**  
+  - **에너지 효율적이고 혼합 소득의 주택**에 투자하여 주택 소유와 임대가 더 저렴해지도록 합니다.  
+- **주택 건설을 통한 일자리 창출**  
+  - 인프라 프로젝트는 **건설, 제조, 지역 서비스**와 같은 산업을 자극할 것입니다.  
+- **오랜 거주자를 강제 퇴거로부터 보호**  
+  - 불공정한 퇴거와 급격한 임대료 인상을 방지하기 위한 **세입자 보호 조치를 도입**합니다.  
 
 ---
 
-## **How This Plan Benefits Georgia’s 5th District**  
-
-### 📈 **Economic Growth Through Fair Policies**  
-- Closing tax loopholes **raises revenue for public investments** and eases the burden on working families.  
-- Investing in **housing and local businesses** keeps money circulating in the community.  
-
-### 🏘️ **Stable and Affordable Housing for Workers**  
-- The **Workers’ Housing Guarantee** ensures housing is **affordable and accessible** for all.  
-- Construction projects **create thousands of jobs** across multiple industries.  
-
-### 🤝 **Future-Proofing Jobs in an Automated Economy**  
-- Training programs prepare workers for **sustainable, high-paying careers** in **tech, clean energy, and skilled trades**.  
-- Regulating automation ensures **workers aren’t sacrificed for corporate profit margins**.  
-
-### 💪 **Stronger Communities, Thriving Families**  
-- When people have stable **jobs and homes**, they can **save, invest, and participate in their communities**—leading to a stronger economy for everyone.  
+### 🤖 **3. 일자리를 보호하기 위한 자동화 규제**  
+- **AI와 로봇이 CEO만을 위한 것이 아니라 근로자를 위한 것이 되도록 보장**  
+  - 기업은 **대규모 해고를 시행하기 전에 자동화가 근로자에게 이익이 된다는 것을 입증해야 합니다.**  
+- **일자리 재교육 및 경력 전환 지원**  
+  - 자동화로 영향을 받은 근로자를 위한 **무료 또는 저비용 재교육 프로그램**을 마련합니다.  
+- **근로자 친화적인 기술을 채택하는 중소기업 지원**  
+  - **일자리를 보호하면서 자동화를 통합하는 기업**에 세금 인센티브를 제공합니다.  
 
 ---
 
-## **Action Plan: An Economy That Works for the Many, Not the Few**  
-
-✅ **1. Close Corporate Tax Loopholes**  
-- Tax stock leveraging as income and **end offshore tax avoidance schemes**.  
-- Penalize **companies that offshore jobs without reinvesting in local workers**.  
-
-✅ **2. Build Housing and Strengthen Tenant Protections**  
-- Expand affordable housing through **The Workers’ Housing Guarantee**.  
-- Strengthen **renter protections** against predatory landlords.  
-
-✅ **3. Protect Workers from Automation-Driven Layoffs**  
-- Require companies to **retrain and transition workers** before replacing jobs with automation.  
-- Incentivize **collaborative automation models** that improve jobs rather than eliminate them.  
-
-✅ **4. Invest in Local Business Growth**  
-- Provide **small business grants and cooperative ownership funding**.  
-- Invest in **public infrastructure projects** that create jobs and boost local economies.  
+### 💼 **4. 지역 일자리 및 중소기업 성장에 투자**  
+- **중소기업을 위한 자본 접근 확대**  
+  - 지역 기업과 근로자 소유 협동조합에 **보조금과 저금리 대출**을 제공합니다.  
+- **근로자 보호 및 노동조합 강화**  
+  - 모든 근로자에게 **공정한 임금, 유급 휴가, 단체 교섭권**을 보장합니다.  
+- **일자리를 창출하는 인프라에 투자**  
+  - **교통, 광대역, 청정 에너지 프로젝트**에 자금을 지원하여 지역 고용을 증대시킵니다.  
 
 ---
 
-## **Conclusion: A Fair Economy for Georgia’s 5th District**  
+## **이 계획이 조지아 5지구에 미치는 이점**  
 
-**The economy isn’t broken—it’s rigged.** It’s rigged to benefit corporations, billionaires, and Wall Street while working families struggle. We’re here to **change that**.  
+### 📈 **공정한 정책을 통한 경제 성장**  
+- 세금 허점을 닫는 것은 **공공 투자에 대한 수익을 증가시키고** 노동자 가정의 부담을 덜어줍니다.  
+- **주택과 지역 기업에 대한 투자**는 지역 사회에서 돈이 순환하도록 합니다.  
 
-By **closing tax loopholes, investing in affordable housing, and ensuring automation serves workers—not just CEOs—we will build an economy that works for everyone, not just the wealthy few.**  
+### 🏘️ **근로자를 위한 안정적이고 저렴한 주택**  
+- **근로자 주택 보장**은 모든 사람에게 주택이 **저렴하고 접근 가능**하도록 보장합니다.  
+- 건설 프로젝트는 **여러 산업에서 수천 개의 일자리를 창출**합니다.  
 
-This is about **fair wages, stable jobs, and secure homes.** This is about **restoring economic power to the people.**  
+### 🤝 **자동화된 경제에서 일자리의 미래 보장**  
+- 교육 프로그램은 근로자들을 **지속 가능하고 고임금의 경력**으로 준비시킵니다.  
+- 자동화를 규제하여 **근로자가 기업의 이익을 위해 희생되지 않도록** 합니다.  
+
+### 💪 **더 강한 공동체, 번영하는 가정**  
+- 사람들이 안정적인 **일자리와 주택을 갖게 되면, 그들은 **저축하고 투자하며 지역 사회에 참여**할 수 있습니다—모두를 위한 더 강한 경제로 이어집니다.  
 
 ---
 
-### **Join the Fight for Economic Justice**  
+## **행동 계획: 소수의 사람들을 위한 것이 아니라 다수를 위한 경제**  
 
-It’s time to demand an economy that works for the **many, not the few**. Stand with us.
+✅ **1. 기업 세금 허점 닫기**  
+- 주식 차입을 소득으로 세금 부과하고 **해외 세금 회피 계획을 종료**합니다.  
+- **지역 근로자에게 재투자하지 않고 일자리를 해외로 이전하는 기업**에 처벌을 부과합니다.  
+
+✅ **2. 주택 건설 및 세입자 보호 강화**  
+- **근로자 주택 보장**을 통해 저렴한 주택을 확대합니다.  
+- **착취적인 임대인**에 대한 세입자 보호를 강화합니다.  
+
+✅ **3. 자동화로 인한 해고로부터 근로자 보호**  
+- 기업이 **자동화로 일자리를 대체하기 전에 근로자를 재교육하고 전환**하도록 요구합니다.  
+- **일자리를 개선하는 협력적 자동화 모델**을 장려합니다.  
+
+✅ **4. 지역 기업 성장에 투자**  
+- **중소기업 보조금 및 협동조합 소유 자금**을 제공합니다.  
+- **일자리를 창출하고 지역 경제를 활성화하는 공공 인프라 프로젝트**에 투자합니다.  
+
+---
+
+## **결론: 조지아 5지구를 위한 공정한 경제**  
+
+**경제는 망가진 것이 아니라 조작된 것입니다.** 기업, 억만장자, 월스트리트를 위해 조작되었고, 노동자 가정은 고통받고 있습니다. 우리는 **이것을 바꾸기 위해 여기에 있습니다.**  
+
+세금 허점을 닫고, 저렴한 주택에 투자하며, 자동화가 근로자에게 봉사하도록 보장함으로써—우리는 모두를 위한 경제를 구축할 것입니다, 부유한 소수만을 위한 것이 아닙니다.  
+
+이것은 **공정한 임금, 안정적인 일자리, 안전한 주택**에 관한 것입니다. 이것은 **경제적 권력을 사람들에게 되돌리는 것**에 관한 것입니다.  
+
+---
+
+### **경제 정의를 위한 싸움에 동참하세요**  
+
+이제는 **다수를 위한 경제**를 요구할 때입니다. 우리와 함께 하세요.

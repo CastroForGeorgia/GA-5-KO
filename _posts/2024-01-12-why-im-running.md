@@ -1,38 +1,38 @@
 ---
 layout: post
-title: "Why I’m Running for Congress in Georgia’s 5th District"
-description: "The failures of the Democratic Party, corrupted by corporate influence, have pushed me to fight for its return to its roots."
+title: "왜 제가 조지아 5지구에서 의회에 출마하는가"
+description: "기업의 영향으로 부패한 민주당의 실패는 제가 그 뿌리로 돌아가도록 싸우게 만들었습니다."
 date: 2025-01-12
 image: '/images/about-me-photo-zoom.jpg'
 ---
 
-## **The Democratic Party Has Lost Its Way—It’s Time to Take It Back**  
+## **민주당은 길을 잃었다—우리가 되찾아야 할 때입니다**  
 
-The Democratic Party has abandoned its working-class roots, succumbing to corporate influence at the expense of everyday Americans. I’m running for Congress in **Georgia’s 5th District** because I refuse to stand by while our party prioritizes profit over people. We need leadership that fights for economic justice, civil rights, and bold, transformative change—not incrementalism that keeps us struggling.  
+민주당은 노동계급의 뿌리를 저버리고, 일상적인 미국인들의 희생을 감수하며 기업의 영향력에 굴복했습니다. 저는 **조지아 5지구**에서 의회에 출마하는 이유는, 우리 당이 사람보다 이익을 우선시하는 동안 가만히 있을 수 없기 때문입니다. 우리는 경제 정의, 시민권, 그리고 대담하고 변혁적인 변화를 위해 싸우는 리더십이 필요합니다—우리를 계속 힘들게 하는 점진적인 변화가 아니라요.  
 
-## **A Party at a Crossroads**  
+## **교차로에 선 당**  
 
-Our bills keep rising, healthcare remains unaffordable, and wages don’t keep up—yet too many Democratic leaders accept the status quo. They talk about change but never fight for it. The party must choose: Will it stand with the people or remain a pawn of corporate America?  
+우리의 청구서는 계속 오르고, 의료비는 여전히 감당할 수 없으며, 임금은 따라가지 못하고 있습니다—그런데도 너무 많은 민주당 지도자들은 현 상태를 받아들이고 있습니다. 그들은 변화를 이야기하지만, 결코 그것을 위해 싸우지 않습니다. 당은 선택해야 합니다: 사람들과 함께 할 것인가, 아니면 기업 미국의 꼭두각시로 남을 것인가?  
 
-## **I Am Not From the Left or the Right—I’m From the Bottom**  
+## **저는 좌파도 우파도 아닙니다—저는 바닥에서 왔습니다**  
 
-I know what it means to struggle. Unlike politicians who take corporate money and ignore the rest of us, I will **never** accept corporate donations. My loyalty is to the working class—renters, families, and everyone living paycheck to paycheck in **GA-05**.  
+저는 고군분투하는 것이 어떤 의미인지 압니다. 기업의 돈을 받고 나머지 사람들을 무시하는 정치인들과는 달리, 저는 **절대** 기업 기부를 받지 않을 것입니다. 저의 충성심은 노동계급—세입자, 가족들, 그리고 **GA-05**에서 월급을 쪼개 쓰는 모든 이들에게 있습니다.  
 
-## **Choosing a Side**  
+## **편을 선택하기**  
 
-Democrats fall into two categories:  
+민주당원은 두 가지 범주로 나뉩니다:  
 
-- **Those who see change as essential**—because their survival depends on it.  
-- **Those who see it as a nice idea**—supporting it in theory but never feeling its urgency.  
+- **변화를 필수로 여기는 사람들**—그들의 생존이 그것에 달려 있기 때문입니다.  
+- **변화를 좋은 아이디어로 여기는 사람들**—이론적으로 지지하지만 그 긴급성을 느끼지 못하는 사람들입니다.  
 
-For working people in **GA-05**, incrementalism isn’t an option. Justice and equity can’t be empty slogans. We need action, now.  
+**GA-05**의 노동자들에게 점진적인 변화는 선택지가 아닙니다. 정의와 평등은 공허한 슬로건이 되어서는 안 됩니다. 우리는 지금 행동이 필요합니다.  
 
-## **A Political Multiplier for Change**  
+## **변화를 위한 정치적 배가기**  
 
-This campaign isn’t just about winning—it’s about building a movement. I will be a **political multiplier**, using technology and grassroots power to make politics more accessible and inclusive. Together, we can create a coalition to hold our leaders accountable and return the Democratic Party to its rightful place: **on the side of the people**.  
+이번 캠페인은 단순히 승리를 위한 것이 아닙니다—운동을 만드는 것입니다. 저는 **정치적 배가기**가 되어, 기술과 풀뿌리의 힘을 활용해 정치가 더 접근 가능하고 포용적으로 만들겠습니다. 함께, 우리는 우리의 지도자들에게 책임을 묻고 민주당을 그 정당한 자리로 되돌릴 수 있는 연합을 만들 수 있습니다: **사람들의 편에 서서**.  
 
-## **Time for a Political Revolution**  
+## **정치 혁명의 시간**  
 
-The corporate takeover of the Democratic Party has made it disconnected and out of touch. **It’s time to clean house.** We need representatives who are unapologetically loyal to their communities, not corporate donors.  
+민주당의 기업 장악은 당을 단절되고 동떨어지게 만들었습니다. **이제 집안을 정리할 때입니다.** 우리는 기업 기부자가 아닌, 지역 사회에 충실한 대표가 필요합니다.  
 
-I’m running in **GA-05** because this fight isn’t about me—it’s about all of us who’ve been ignored for too long. **I will not hold back. I will not be bought.** Join me, and let’s reclaim our party—and our future—together.
+저는 **GA-05**에서 출마하는 이유는 이 싸움이 저에 관한 것이 아니라, 너무 오랫동안 무시당해온 우리 모두에 관한 것이기 때문입니다. **저는 물러서지 않을 것입니다. 저는 사지 않을 것입니다.** 저와 함께 하세요, 그리고 우리 당과 우리의 미래를 함께 되찾아 봅시다.

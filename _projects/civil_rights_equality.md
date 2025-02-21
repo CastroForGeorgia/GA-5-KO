@@ -1,112 +1,112 @@
 ---
-title: "Civil Rights and Equality"
-description: "Stopping government overreach, protecting marginalized communities, and ensuring equal rights and justice for all."
+title: "시민권과 평등"
+description: "정부의 과도한 권력 행사를 막고, 소외된 공동체를 보호하며, 모든 사람에게 동등한 권리와 정의를 보장합니다."
 date: 2025-02-17 00:00:00 +0000
-label: "Policy"
+label: "정책"
 image: "/images/civil-rights-equality.webp"
 ---
 
-# **Civil Rights and Equality: Justice for Georgia’s 5th District**  
+# **시민권과 평등: 조지아 5지구의 정의**  
 
-## **Equal Rights Are Non-Negotiable**  
+## **동등한 권리는 타협할 수 없습니다**  
 
-Discrimination, systemic racism, and economic inequality continue to hold back **Georgia’s 5th Congressional District**. **Civil rights must be protected, expanded, and enforced—without compromise.** From racial and gender justice to LGBTQ+ protections and disability rights, we will fight to ensure **every resident has equal opportunities, dignity, and protection under the law**.  
+차별, 체계적인 인종차별, 경제적 불평등은 여전히 **조지아 5선거구**를 억압하고 있습니다. **시민권은 보호되고, 확대되며, 강제되어야 합니다—타협 없이.** 인종 및 성별 정의부터 LGBTQ+ 보호, 장애인 권리에 이르기까지, 우리는 **모든 주민이 법 아래서 동등한 기회, 존엄성, 보호를 받을 수 있도록 싸울 것입니다.**  
 
-We need bold action to **end systemic injustices, uplift marginalized communities, and build a society where everyone can thrive**.  
-
----
-
-## **The Reality: Inequality Still Exists**  
-
-- **🏛️ Racial injustice** persists in **housing, education, and employment**, disproportionately harming Black, Latino, and Indigenous communities.  
-- **💰 Economic inequality** locks working-class families out of good-paying jobs and homeownership.  
-- **🌈 LGBTQ+ rights** remain under attack through discriminatory laws.  
-- **♀️ Gender inequities** limit access to fair wages, reproductive rights, and safety from violence.  
-- **♿ Disability barriers** restrict access to education, public spaces, and employment opportunities.  
-
-We cannot move forward when **so many are still held back**.  
+우리는 **체계적인 불의**를 종식하고, 소외된 공동체를 지원하며, 모두가 번영할 수 있는 사회를 만들기 위해 대담한 행동이 필요합니다.  
 
 ---
 
-## **Our Civil Rights Plan**  
+## **현실: 불평등은 여전히 존재합니다**  
 
-### 🛡️ **1. Strengthen Anti-Discrimination Protections**  
-- Expand **federal civil rights laws** to prevent discrimination in housing, employment, education, and healthcare.  
-- Protect **whistleblowers** who expose systemic discrimination.  
+- **🏛️ 인종 불의**는 **주택, 교육, 고용**에서 지속적으로 발생하며, 주로 흑인, 라틴계, 원주율 공동체에 피해를 줍니다.  
+- **💰 경제적 불평등**은 노동자 계층 가족을 양질의 일자리와 주택 소유에서 배제합니다.  
+- **🌈 LGBTQ+ 권리**는 차별적인 법률로 인해 여전히 공격받고 있습니다.  
+- **♀️ 성별 불평등**은 공정한 임금, 재생산 권리, 폭력으로부터의 안전에 대한 접근을 제한합니다.  
+- **♿ 장애인 장벽**은 교육, 공공 공간, 고용 기회에 대한 접근을 제한합니다.  
 
-### 🌍 **2. Empower Marginalized Communities**  
-- Address racial and economic disparities in **education, jobs, and healthcare access**.  
-- Expand resources for **Black, Indigenous, and People of Color (BIPOC)** communities, women, and LGBTQ+ individuals.  
-
-### 💼 **3. Economic Justice for All**  
-- Support **minority- and women-owned businesses** through grants and mentorship.  
-- Ensure equal access to **good-paying jobs and affordable housing**.  
-
-### ✊ **4. Protect LGBTQ+ Rights**  
-- Codify **federal protections** against discrimination in **employment, housing, and healthcare**.  
-- Ensure **gender-affirming care** is protected and accessible.  
-
-### 🚨 **5. Combat Hate and Systemic Violence**  
-- Strengthen hate crime laws and ensure **strict penalties for offenders**.  
-- Promote **community-based policing** to rebuild trust with marginalized communities.  
-
-### ♿ **6. Advance Disability Rights**  
-- Mandate **universal accessibility** in public spaces, transportation, and workplaces.  
-- Expand **employment, education, and healthcare opportunities** for individuals with disabilities.  
+**아직도 많은 사람들이 억압받고 있는 상황에서 우리는 앞으로 나아갈 수 없습니다.**  
 
 ---
 
-## **How We Deliver Civil Rights Protections**  
+## **우리의 시민권 계획**  
 
-✅ **1. Strengthen and Enforce Civil Rights Laws**  
-- Expand anti-discrimination protections and hold violators accountable.  
-- Increase funding for federal agencies that enforce civil rights protections.  
+### 🛡️ **1. 차별 방지 보호 강화**  
+- 주택, 고용, 교육 및 의료에서의 차별을 방지하기 위해 **연방 시민권 법**을 확대합니다.  
+- 체계적인 차별을 폭로하는 **내부 고발자**를 보호합니다.  
 
-✅ **2. Equal Opportunity in Jobs and Education**  
-- Promote **blind recruitment, fair hiring practices, and diversity programs**.  
-- Expand **scholarships and mentorship programs** for underrepresented communities.  
+### 🌍 **2. 소외된 공동체의 권한 강화**  
+- **교육, 일자리, 의료 접근**에서의 인종적 및 경제적 불균형을 해결합니다.  
+- **흑인, 원주율, 유색인종(BIPOC)** 공동체, 여성 및 LGBTQ+ 개인을 위한 자원을 확대합니다.  
 
-✅ **3. Affordable Housing and Economic Equity**  
-- Enforce **fair housing laws** to eliminate discrimination.  
-- Invest in **affordable housing initiatives** to prevent displacement.  
+### 💼 **3. 모두를 위한 경제 정의**  
+- **소수자 및 여성 소유 기업**을 지원하기 위해 보조금과 멘토십을 제공합니다.  
+- **양질의 일자리와 저렴한 주택**에 대한 동등한 접근을 보장합니다.  
 
-✅ **4. Protect LGBTQ+ and Disability Rights**  
-- Strengthen **LGBTQ+ legal protections** in all areas of life.  
-- Mandate **accessibility upgrades** in public spaces and workplaces.  
+### ✊ **4. LGBTQ+ 권리 보호**  
+- **고용, 주택, 의료**에서의 차별 방지를 위한 **연방 보호 법**을 제정합니다.  
+- **성별 확인 치료**가 보호되고 접근 가능하도록 보장합니다.  
 
-✅ **5. End Systemic Violence and Discrimination**  
-- Strengthen hate crime legislation and fund **support services for victims**.  
-- Expand **community-led policing and accountability measures**.  
+### 🚨 **5. 증오와 체계적 폭력에 맞서 싸우기**  
+- 증오 범죄 법을 강화하고 **범죄자에 대한 엄격한 처벌**을 보장합니다.  
+- 소외된 공동체와의 신뢰를 재건하기 위해 **지역 사회 기반 경찰**을 촉진합니다.  
 
----
-
-## **What This Means for Georgia’s 5th District**  
-
-### ⚖️ **Equal Justice for All**  
-- Stronger **legal protections** ensure fairness in **jobs, housing, and healthcare**.  
-
-### 💰 **Economic Power for Marginalized Communities**  
-- More opportunities for **minority- and women-owned businesses**.  
-- A stronger **pathway to homeownership and economic mobility**.  
-
-### 🚨 **Safer Communities**  
-- **Tougher penalties** for hate crimes and **better victim protections**.  
-- **Trust-based policing** to ensure justice and accountability.  
-
-### 🌍 **An Inclusive, Fair Society**  
-- **Diverse leadership, fair wages, and equal protections** for all.  
-- **A future where no one is left behind**.  
+### ♿ **6. 장애인 권리 증진**  
+- 공공 공간, 교통 및 직장에서 **보편적 접근성**을 의무화합니다.  
+- 장애인을 위한 **고용, 교육 및 의료 기회**를 확대합니다.  
 
 ---
 
-## **The Future of Civil Rights in Georgia’s 5th District**  
+## **시민권 보호를 위한 우리의 실행 방안**  
 
-Justice and equality are **not optional—they are fundamental.** We will fight for stronger laws, better enforcement, and real protections that **dismantle systemic oppression and uplift every community**.  
+✅ **1. 시민권 법 강화 및 집행**  
+- 차별 방지 보호를 확대하고 위반자를 처벌합니다.  
+- 시민권 보호를 집행하는 연방 기관에 대한 자금을 늘립니다.  
 
-We **will not wait** for change—we will demand it.  
+✅ **2. 일자리와 교육에서의 동등한 기회**  
+- **블라인드 채용, 공정한 채용 관행, 다양성 프로그램**을 촉진합니다.  
+- 소외된 공동체를 위한 **장학금 및 멘토십 프로그램**을 확대합니다.  
+
+✅ **3. 저렴한 주택과 경제적 평등**  
+- 차별을 없애기 위해 **공정 주택 법**을 집행합니다.  
+- 이주를 방지하기 위해 **저렴한 주택 이니셔티브**에 투자합니다.  
+
+✅ **4. LGBTQ+ 및 장애인 권리 보호**  
+- 모든 분야에서 **LGBTQ+ 법적 보호**를 강화합니다.  
+- 공공 공간과 직장에서 **접근성 개선**을 의무화합니다.  
+
+✅ **5. 체계적 폭력과 차별 종식**  
+- 증오 범죄 법을 강화하고 **피해자를 위한 지원 서비스**에 자금을 지원합니다.  
+- **지역 사회 주도 경찰 및 책임 조치**를 확대합니다.  
 
 ---
 
-### **Join Us in the Fight for Justice**  
+## **조지아 5지구에 대한 의미**  
 
-It’s time to build a future where **every person—no matter their race, gender, sexual orientation, or background—has the opportunity to thrive.** 
+### ⚖️ **모두를 위한 동등한 정의**  
+- 강력한 **법적 보호**가 일자리, 주택 및 의료에서의 공정성을 보장합니다.  
+
+### 💰 **소외된 공동체의 경제적 힘**  
+- **소수자 및 여성 소유 기업**을 위한 더 많은 기회.  
+- **주택 소유와 경제적 이동성**을 위한 강력한 경로.  
+
+### 🚨 **더 안전한 공동체**  
+- 증오 범죄에 대한 **더 강력한 처벌**과 **피해자 보호 강화**.  
+- 정의와 책임을 보장하기 위한 **신뢰 기반 경찰**.  
+
+### 🌍 **포용적이고 공정한 사회**  
+- **다양한 리더십, 공정한 임금, 모든 사람을 위한 동등한 보호**.  
+- **아무도 뒤처지지 않는 미래**.  
+
+---
+
+## **조지아 5지구의 시민권 미래**  
+
+정의와 평등은 **선택이 아닙니다—기본입니다.** 우리는 강력한 법, 더 나은 집행, 그리고 **체계적 억압을 해체하고 모든 공동체를 강화하는 진정한 보호**를 위해 싸울 것입니다.  
+
+우리는 **변화를 기다리지 않을 것입니다—변화를 요구할 것입니다.**  
+
+---
+
+### **정의를 위한 싸움에 동참하세요**  
+
+모든 사람이 **인종, 성별, 성적 지향 또는 배경에 관계없이 번영할 기회를 가질 수 있는 미래를 만들어야 할 때입니다.**

@@ -1,108 +1,108 @@
 ---
-title: "Reproductive Rights"
-description: "Defending every woman's right to make her own healthcare decisions."
+title: "재생산 권리"
+description: "모든 여성이 자신의 건강 관리 결정을 내릴 권리를 옹호합니다."
 date: 2025-01-22 00:00:00 +0000
-label: "Policy"
+label: "정책"
 image: "/images/reproductive-rights-header.webp"
 ---
 
-# **Reproductive Rights: Protecting Freedom, Ensuring Access**  
+# **재생산 권리: 자유를 보호하고 접근성을 보장하기**  
 
-## **The Fight for Reproductive Freedom**  
+## **재생산 자유를 위한 싸움**  
 
-Reproductive rights are under attack across the country, and **Georgia’s 5th Congressional District** is no exception. **Georgia has one of the highest maternal mortality rates** in the nation, and restrictive laws disproportionately harm **Black women, low-income families, and rural communities**.  
+재생산 권리는 전국적으로 공격받고 있으며, **조지아 5선거구**도 예외가 아닙니다. **조지아는 국가에서 가장 높은 모성 사망률** 중 하나를 기록하고 있으며, 제한적인 법률은 **흑인 여성, 저소득 가정 및 농촌 지역 사회**에 불균형적으로 해를 끼칩니다.  
 
-We must take bold action to **codify abortion rights, expand reproductive healthcare, and guarantee free birthing services**. No one should be forced to **travel out of state, struggle financially, or suffer from medical neglect** just to get the care they need.  
+우리는 **낙태 권리를 법제화하고, 재생산 건강 관리를 확대하며, 무료 출산 서비스를 보장하기 위해 대담한 행동을 취해야 합니다.** 누구도 **주를 넘어 여행하거나, 재정적으로 어려움을 겪거나, 의료 방치로 고통받아** 필요한 치료를 받는 것을 강요받아서는 안 됩니다.  
 
-**Reproductive justice is non-negotiable.** We won’t back down.  
-
----
-
-## **Why This Matters in Georgia’s 5th District**  
-
-### 📉 **Georgia’s Maternal Mortality Crisis**  
-- **Georgia has the 2nd highest maternal mortality rate** in the nation—**33.9 deaths per 100,000 births**.  
-- Black women face **higher risks of complications** due to systemic healthcare disparities.  
-- Hospital closures and lack of funding in **Atlanta’s underserved neighborhoods** make access even worse.  
-
-**Reproductive rights are about survival. Georgia’s 5th District deserves better.**  
+**재생산 정의는 타협할 수 없습니다.** 우리는 물러서지 않을 것입니다.  
 
 ---
 
-## **A Bold Agenda for Reproductive Justice**  
+## **조지아 5선거구에서 이것이 중요한 이유**  
 
-### 🛡️ **1. Codify the Right to Choose**  
-- **Enshrine abortion access into federal law** to prevent restrictive state policies.  
-- **End unnecessary barriers** like waiting periods and burdensome clinic regulations.  
+### 📉 **조지아의 모성 사망 위기**  
+- **조지아는 국가에서 두 번째로 높은 모성 사망률**을 기록하고 있으며—**100,000명 출생당 33.9명의 사망**이 발생합니다.  
+- 흑인 여성은 **체계적인 의료 불균형**으로 인해 **합병증의 위험이 더 높습니다.**  
+- **애틀랜타의 저소득 지역**에서 병원 폐쇄와 자금 부족은 접근성을 더욱 악화시킵니다.  
 
-### 🌐 **2. Expand Access to Reproductive Healthcare**  
-- **Guarantee free contraception** and family planning services for all.  
-- **Fund local reproductive health centers** to ensure access in underserved areas.  
-
-### ✊ **3. Address Racial and Economic Health Disparities**  
-- **Invest in maternal health programs** tailored for **Black women and low-income communities**.  
-- **Train local healthcare providers** to deliver culturally competent, high-quality reproductive care.  
-
-### 🏥 **4. Make Birthing and Maternal Care Free**  
-- **Ensure all prenatal, birthing, and postnatal services** are free for families.  
-- **Integrate comprehensive reproductive care into Medicare for All** to remove financial barriers.  
-
-### 📚 **5. Educate and Empower**  
-- **Implement evidence-based sex education** in public schools.  
-- **Raise awareness** about reproductive rights and available healthcare resources.  
+**재생산 권리는 생존에 관한 것입니다. 조지아 5선거구는 더 나은 대우를 받아야 합니다.**  
 
 ---
 
-## **How We Deliver Reproductive Justice**  
+## **재생산 정의를 위한 대담한 의제**  
 
-✅ **1. Codify Abortion Rights in Federal Law**  
-- Protect women from restrictive state laws by ensuring federal protections.  
-- Repeal the **Hyde Amendment** so Medicaid covers abortion services.  
+### 🛡️ **1. 선택할 권리 법제화**  
+- **낙태 접근을 연방법으로 보장**하여 제한적인 주 정책을 방지합니다.  
+- **대기 기간 및 부담스러운 클리닉 규정**과 같은 불필요한 장벽을 없애야 합니다.  
 
-✅ **2. Fund and Expand Healthcare Access**  
-- Increase federal support for **reproductive health clinics in underserved areas**.  
-- Guarantee **free contraception and family planning services** for all.  
+### 🌐 **2. 재생산 건강 관리 접근 확대**  
+- **모두를 위한 무료 피임** 및 가족 계획 서비스를 보장합니다.  
+- **저소득 지역의 재생산 건강 센터에 자금을 지원**하여 접근성을 보장합니다.  
 
-✅ **3. Close the Healthcare Equity Gap**  
-- Direct funding to hospitals and clinics **serving Black and low-income communities**.  
-- Expand maternal health programs and ensure **culturally competent medical training** for providers.  
+### ✊ **3. 인종 및 경제적 건강 불균형 해결**  
+- **흑인 여성과 저소득 지역 사회를 위한 모성 건강 프로그램에 투자**합니다.  
+- **지역 의료 제공자에게 문화적으로 적합하고 고품질의 재생산 치료를 제공할 수 있도록 교육**합니다.  
 
-✅ **4. Guarantee Free Birthing and Hospital Care**  
-- **Ensure every mother has access to free prenatal, birthing, and postnatal care.**  
-- Include full reproductive care in **Medicare for All**.  
+### 🏥 **4. 출산 및 모성 치료 무료화**  
+- **모든 산모가 무료로 임신, 출산 및 산후 치료를 받을 수 있도록 보장합니다.**  
+- **모든 사람을 위한 메디케어에 포괄적인 재생산 치료를 통합**하여 재정적 장벽을 제거합니다.  
 
-✅ **5. Fight Disinformation and Stigma**  
-- Implement **evidence-based sex education in public schools**.  
-- Challenge misinformation campaigns targeting **reproductive health clinics**.  
-
----
-
-## **What This Means for Georgia’s 5th District**  
-
-### ⚖️ **Legal Protections for Women’s Rights**  
-- No state should have the power to **control a woman’s body**—federal protections will ensure access in Georgia.  
-
-### 🏥 **Guaranteed Access to Reproductive Healthcare**  
-- Women in **Atlanta and surrounding communities** will have full reproductive healthcare access—**without cost or restriction**.  
-
-### ✊ **Health Equity for All Residents**  
-- Culturally competent healthcare, targeted investments, and hospital funding will close racial and economic disparities.  
-
-### 💰 **Free Birthing Services for Families**  
-- No parent should **go into debt** for bringing a child into the world.  
+### 📚 **5. 교육 및 권한 부여**  
+- **공립학교에서 근거 기반 성 교육을 시행**합니다.  
+- **재생산 권리와 이용 가능한 건강 관리 자원에 대한 인식을 높입니다.**  
 
 ---
 
-## **A Future Where Reproductive Rights Are Secure**  
+## **재생산 정의를 어떻게 실현할 것인가**  
 
-This fight is about more than just abortion—it’s about **health, dignity, and freedom**. Women deserve the right to control their own healthcare decisions, access affordable care, and give birth without financial strain.  
+✅ **1. 연방법으로 낙태 권리 법제화**  
+- 여성들을 제한적인 주 법으로부터 보호하여 연방 보호를 보장합니다.  
+- **하이드 수정안**을 폐지하여 메디케이드가 낙태 서비스를 보장하도록 합니다.  
 
-We **must protect reproductive freedom, expand healthcare access, and ensure that no woman is denied the care she needs**.  
+✅ **2. 건강 관리 접근 확대 및 자금 지원**  
+- **저소득 지역의 재생산 건강 클리닉에 대한 연방 지원을 증가**시킵니다.  
+- **모두를 위한 무료 피임 및 가족 계획 서비스**를 보장합니다.  
 
-Together, we will build a future where **healthcare is a right, not a privilege**—no matter where you live.  
+✅ **3. 건강 형평성 격차 해소**  
+- **흑인 및 저소득 지역 사회를 위한 병원과 클리닉에 자금을 직접 지원**합니다.  
+- 모성 건강 프로그램을 확대하고 **제공자에게 문화적으로 적합한 의료 교육**을 보장합니다.  
+
+✅ **4. 무료 출산 및 병원 치료 보장**  
+- **모든 어머니가 무료로 임신, 출산 및 산후 치료를 받을 수 있도록 보장합니다.**  
+- **모든 사람을 위한 메디케어에 포괄적인 재생산 치료를 포함**합니다.  
+
+✅ **5. 잘못된 정보와 낙인에 맞서 싸우기**  
+- **공립학교에서 근거 기반 성 교육을 시행**합니다.  
+- **재생산 건강 클리닉을 겨냥한 잘못된 정보 캠페인에 도전**합니다.  
 
 ---
 
-### **Join the Fight for Reproductive Freedom**  
+## **조지아 5선거구에 대한 의미**  
 
-**Defend choice. Protect healthcare. Demand justice.**  
+### ⚖️ **여성 권리를 위한 법적 보호**  
+- 어떤 주도 **여성의 몸을 통제할 권한이 없어야 하며**—연방 보호가 조지아에서의 접근을 보장할 것입니다.  
+
+### 🏥 **재생산 건강 관리에 대한 보장된 접근**  
+- **애틀랜타 및 주변 지역의 여성들은 비용이나 제한 없이** 완전한 재생산 건강 관리 접근을 가질 것입니다.  
+
+### ✊ **모든 주민을 위한 건강 형평성**  
+- 문화적으로 적합한 의료, 목표 투자 및 병원 자금 지원이 인종 및 경제적 불균형을 해소할 것입니다.  
+
+### 💰 **가족을 위한 무료 출산 서비스**  
+- 어떤 부모도 **자녀를 세상에 태어나게 하기 위해 빚을 지게 되어서는 안 됩니다.**  
+
+---
+
+## **재생산 권리가 안전한 미래**  
+
+이 싸움은 단순한 낙태에 관한 것이 아닙니다—**건강, 존엄성 및 자유**에 관한 것입니다. 여성들은 자신의 건강 관리 결정을 내릴 권리, 저렴한 치료를 받을 권리, 재정적 부담 없이 출산할 권리를 가질 자격이 있습니다.  
+
+우리는 **재생산 자유를 보호하고, 건강 관리 접근을 확대하며, 어떤 여성도 필요한 치료를 거부당하지 않도록 보장해야 합니다.**  
+
+함께, 우리는 **건강 관리가 특권이 아닌 권리인 미래**를 만들어 나갈 것입니다—어디에 살든지 간에.  
+
+---
+
+### **재생산 자유를 위한 싸움에 동참하세요**  
+
+**선택을 옹호하고, 건강 관리를 보호하며, 정의를 요구하세요.**

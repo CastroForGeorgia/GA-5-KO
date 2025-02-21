@@ -1,94 +1,94 @@
 ---
-title: "Medicare for All"
-description: "Affordable, high-quality healthcare for every resident—centered on people, not profits."
+title: "모두를 위한 메디케어"
+description: "모든 주민을 위한 저렴하고 고품질의 의료 서비스—이익이 아닌 사람 중심으로."
 date: 2025-02-19 00:00:00 +0000
-label: "Policy"
+label: "정책"
 image: "/images/medicare-for-all-header.webp"
 ---
 
-# **Healthcare for All: A Human Right, Not a Privilege**  
+# **모두를 위한 의료: 특권이 아닌 인권**  
 
-Healthcare in **Georgia’s 5th Congressional District** is in crisis. Families are drowning in medical debt, prescription drug prices are skyrocketing, and too many people can’t afford to see a doctor when they need one. I am fighting for **Medicare for All**—a system where every resident gets **affordable, high-quality healthcare** without financial barriers.  
+**조지아 5선거구**의 의료 서비스는 위기에 처해 있습니다. 가족들은 의료 부채에 허덕이고, 처방약 가격은 치솟고 있으며, 너무 많은 사람들이 필요할 때 의사를 만나기조차 어렵습니다. 저는 **모두를 위한 메디케어**를 위해 싸우고 있습니다—재정적 장벽 없이 모든 주민이 **저렴하고 고품질의 의료 서비스**를 받을 수 있는 시스템입니다.  
 
-By eliminating **medical debt, lowering prescription drug prices, and expanding mental health services**, we will ensure that **healthcare serves people, not corporations**. No one should have to choose between rent and life-saving treatment.  
-
----
-
-## **The Healthcare Crisis: What’s at Stake**  
-
-- **💰 Out-of-control costs:** Nearly **30 million Americans** lack insurance, and millions more struggle with unaffordable premiums and surprise bills.  
-- **🚑 Medical debt is crushing families:** Too many people avoid care due to cost, leading to worse health outcomes.  
-- **💊 Prescription drugs are too expensive:** Big Pharma’s greed puts life-saving medications out of reach.  
-- **🧠 Mental health care is inaccessible:** Working families can’t afford counseling or therapy when they need it most.  
-- **🏥 Hospitals in underserved areas are closing:** Communities—especially in Black and working-class neighborhoods—are losing access to care.  
-
-**This is unacceptable.** We need bold action now.  
+**의료 부채를 없애고, 처방약 가격을 낮추며, 정신 건강 서비스를 확장함으로써**, 우리는 **의료 서비스가 기업이 아닌 사람을 위해 제공되도록** 할 것입니다. 누구도 임대료와 생명을 구하는 치료 사이에서 선택해야 할 필요가 없어야 합니다.  
 
 ---
 
-## **The Solution: Medicare for All**  
+## **의료 위기: 무엇이 걸려 있는가**  
 
-### 🛡️ **1. Universal, Comprehensive Coverage**  
-- **Every resident covered**—no premiums, no deductibles, no surprise bills.  
-- **End medical debt**—no one should go bankrupt because they got sick.  
-- **Comprehensive care**—includes **mental health, dental, vision, prescription drugs, and long-term care**.  
+- **💰 통제 불능의 비용:** 거의 **3천만 명의 미국인**이 보험이 없고, 수백만 명이 감당할 수 없는 보험료와 예상치 못한 청구서로 어려움을 겪고 있습니다.  
+- **🚑 의료 부채가 가족을 짓누르고 있다:** 너무 많은 사람들이 비용 때문에 치료를 피하고 있으며, 이는 건강 악화로 이어집니다.  
+- **💊 처방약이 너무 비싸다:** 대형 제약회사의 탐욕이 생명을 구하는 약을 손이 닿지 않는 곳으로 밀어내고 있습니다.  
+- **🧠 정신 건강 치료가 접근 불가능하다:** 일하는 가족들은 가장 필요할 때 상담이나 치료를 받을 여유가 없습니다.  
+- **🏥 의료 서비스가 부족한 지역의 병원이 폐쇄되고 있다:** 특히 흑인 및 노동자 계층 지역 사회는 치료 접근성을 잃고 있습니다.  
 
-### 🤝 **2. Support Healthcare Workers, Not Bureaucracy**  
-- **Doctors and nurses focus on patients, not paperwork.**  
-- **Invest in healthcare professionals**—train and retain more doctors, nurses, and caregivers.  
-- **Technology assists—never replaces—human caregivers.**  
-
-### 💊 **3. Lower Prescription Drug Prices**  
-- **Medicare negotiates drug prices** to bring down costs.  
-- **Expand access to generic medications** to ensure affordability.  
-- **End price gouging by Big Pharma.**  
-
-### 🧠 **4. Mental Health Care for All**  
-- **Mental health care is treated as a necessity, not a luxury.**  
-- **Expand school and workplace programs** for mental health support.  
-- **Use telehealth to reach underserved communities.**  
-
-### 🏥 **5. Strengthen Local Hospitals and Clinics**  
-- **Keep hospitals open** in underserved communities.  
-- **Invest in preventive care**—more screenings, vaccinations, and early interventions.  
-- **Close racial and economic health disparities.**  
+**이는 용납할 수 없습니다.** 지금 당장 대담한 조치가 필요합니다.  
 
 ---
 
-## **How We Get It Done**  
+## **해결책: 모두를 위한 메디케어**  
 
-✅ **Pass Medicare for All legislation** to guarantee universal healthcare.  
-✅ **Allow Medicare to negotiate drug prices** and stop Big Pharma’s price gouging.  
-✅ **Support healthcare workers** by reducing administrative burdens and increasing pay.  
-✅ **Expand mental health services** in schools, workplaces, and communities.  
-✅ **Engage directly with residents** through town halls and grassroots organizing.  
+### 🛡️ **1. 보편적이고 포괄적인 보장**  
+- **모든 주민이 보장받음**—보험료, 공제액, 예상치 못한 청구서 없음.  
+- **의료 부채 종료**—아프다고 파산하는 일은 없어야 합니다.  
+- **포괄적 치료**—**정신 건강, 치과, 시력, 처방약, 장기 요양** 포함.  
 
----
+### 🤝 **2. 의료 종사자를 지원하고 관료제를 줄이기**  
+- **의사와 간호사는 환자에 집중하고, 서류 작업은 줄입니다.**  
+- **의료 전문가에 투자**—더 많은 의사, 간호사, 돌봄 제공자를 교육하고 유지합니다.  
+- **기술은 인간 돌봄 제공자를 대체하지 않고 지원합니다.**  
 
-## **What Medicare for All Means for You**  
+### 💊 **3. 처방약 가격 인하**  
+- **메디케어가 약가를 협상**하여 비용을 낮춥니다.  
+- **저렴한 제네릭 약물 접근 확대**로 가격을 보장합니다.  
+- **대형 제약회사의 가격 폭리를 종식합니다.**  
 
-### 💪 **Better, More Compassionate Care**  
-- Healthcare professionals focus on **patients, not profits**.  
+### 🧠 **4. 모두를 위한 정신 건강 치료**  
+- **정신 건강 치료는 사치가 아닌 필수로 취급됩니다.**  
+- **정신 건강 지원을 위한 학교 및 직장 프로그램 확대.**  
+- **원격 의료를 통해 의료 서비스가 부족한 지역 사회에 도달합니다.**  
 
-### 💸 **No More Medical Debt**  
-- Families save **thousands** by eliminating premiums and high drug costs.  
-
-### 🏥 **Hospitals Stay Open**  
-- Community clinics and hospitals get the funding they need to serve everyone.  
-
-### 🧠 **Mental Health Is Finally a Priority**  
-- Therapy, counseling, and addiction treatment are accessible to all.  
-
----
-
-## **A Healthcare System That Works for Georgia’s 5th District**  
-
-No one in **GA-05** should struggle to afford healthcare. **Medicare for All** will guarantee coverage, control costs, and ensure that healthcare remains a **human right, not a privilege**.  
-
-Together, we can build a **people-first healthcare system** that prioritizes **compassion, dignity, and health—not corporate profits**.  
+### 🏥 **5. 지역 병원 및 클리닉 강화**  
+- **의료 서비스가 부족한 지역의 병원을 유지합니다.**  
+- **예방 치료에 투자**—더 많은 검진, 예방 접종 및 조기 개입.  
+- **인종 및 경제적 건강 격차를 해소합니다.**  
 
 ---
 
-## **Join the Fight for Healthcare Justice**  
+## **어떻게 실행할 것인가**  
 
-Healthcare should never be a luxury. Stand with us and demand a system that puts people over profits.  
+✅ **모두를 위한 메디케어 법안을 통과시켜 보편적 의료를 보장합니다.**  
+✅ **메디케어가 약가를 협상할 수 있도록 하여 대형 제약회사의 가격 폭리를 막습니다.**  
+✅ **의료 종사자를 지원**하여 행정 부담을 줄이고 급여를 인상합니다.  
+✅ **학교, 직장 및 지역 사회에서 정신 건강 서비스를 확대합니다.**  
+✅ **타운홀 미팅과 풀뿌리 조직을 통해 주민들과 직접 소통합니다.**  
+
+---
+
+## **모두를 위한 메디케어가 당신에게 의미하는 것**  
+
+### 💪 **더 나은, 더 배려하는 치료**  
+- 의료 전문가들은 **이익이 아닌 환자에 집중합니다.**  
+
+### 💸 **더 이상 의료 부채가 없다**  
+- 가족들은 **수천 달러를 절약**하여 보험료와 높은 약값을 없앱니다.  
+
+### 🏥 **병원이 계속 운영된다**  
+- 지역 클리닉과 병원은 모두를 위해 필요한 자금을 받습니다.  
+
+### 🧠 **정신 건강이 마침내 우선시된다**  
+- 치료, 상담 및 중독 치료가 모두에게 접근 가능합니다.  
+
+---
+
+## **조지아 5선거구를 위한 효과적인 의료 시스템**  
+
+**GA-05**의 누구도 의료 서비스를 감당하기 위해 고군분투해서는 안 됩니다. **모두를 위한 메디케어**는 보장을 보장하고, 비용을 통제하며, 의료 서비스가 **특권이 아닌 인권**으로 남도록 할 것입니다.  
+
+함께 우리는 **사람 중심의 의료 시스템**을 구축하여 **연민, 존엄성 및 건강**을 우선시하고 **기업의 이익이 아닌** 사람을 우선시할 수 있습니다.  
+
+---
+
+## **의료 정의를 위한 싸움에 동참하세요**  
+
+의료 서비스는 결코 사치가 되어서는 안 됩니다. 우리와 함께 서서 사람을 이익보다 우선시하는 시스템을 요구합시다.
